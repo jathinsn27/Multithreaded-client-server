@@ -21,16 +21,16 @@
 
 <!-- End Google Tag Manager -->
 <!-- LIGHTBOX -->
-<link rel="stylesheet" type="text/css" href="/sjsuhome/assets/css/jquery.lightbox-0.5.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://www.sjsu.edu/sjsuhome/assets/css/jquery.lightbox-0.5.css" media="screen" />
 
 <!-- NIVO SLIDER -->
-<link rel="stylesheet" type="text/css" href="/sjsuhome/assets/css/nivo-slider-em.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://www.sjsu.edu/sjsuhome/assets/css/nivo-slider-em.css" media="screen" />
 
 <!-- ALL STYLES -->
-<link rel="stylesheet" type="text/css" href="/sjsuhome/assets/css/styles-em.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/sjsuhome/assets/css/fontfix.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/sjsuhome/assets/css/content-enhancements.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/sjsuhome/assets/css/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="https://www.sjsu.edu/sjsuhome/assets/css/styles-em.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://www.sjsu.edu/sjsuhome/assets/css/fontfix.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://www.sjsu.edu/sjsuhome/assets/css/content-enhancements.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://www.sjsu.edu/sjsuhome/assets/css/print.css" media="print" />
 
 <!-- IE COMPATIBILITY -->
 <!--[if lt IE 9]>
@@ -44,7 +44,7 @@
 
 </head>
    <body class="col-1"><!--googleoff: all-->
-      <div id="skip" class="acc"><a href="#content">Skip to Main Content</a></div>
+      <div id="skip" class="acc"><a href="siteindex#content">Skip to Main Content</a></div>
       <div id="bg">
 
 <!-- emergency notification
@@ -73,8 +73,8 @@
 
               
 
-         <div id="container" class="toplevel "><a href="https://www.sjsu.edu" id="sjsuhomelink">SJSU Homepage</a><div role="banner" id="top_home">
-               <div class="left"><a href="https://www.sjsu.edu" class="btn_logo" title="San José State University">
+         <div id="container" class="toplevel "><a href="index.html" id="sjsuhomelink">SJSU Homepage</a><div role="banner" id="top_home">
+               <div class="left"><a href="index.html" class="btn_logo" title="San José State University">
                      <h1>San José State University</h1></a><span class="brand-tagline">Powering Silicon Valley</span></div>
                <div class="right"><style type="text/css">
 			
@@ -401,13 +401,13 @@
 </li>
 </ul>
 </nav>
-            <div id="breadcrumb" role="navigation"><a href="http://www.sjsu.edu/">SJSU Home</a><span class="bc-spacer">&gt;</span><a href="/siteindex">A-Z Site Index</a></div>
+            <div id="breadcrumb" role="navigation"><a href="index.html">SJSU Home</a><span class="bc-spacer">&gt;</span><a href="https://www.sjsu.edu/siteindex">A-Z Site Index</a></div>
             <div id="content" role="main"><!--googleon: all-->
                <h1 class="pagetitle" id="scrolltotop">A—Z Site Index</h1>
                <!--googleoff: all-->
                <div class="sidebar"><style type="text/css">
 .qi.smSAP {
-	background-image:url('/aspis/media/icons/ui/icon-onesjsu-light-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-onesjsu-light-blue.svg');
 	background-position:0;
 }
 </style>
@@ -422,7 +422,7 @@
 </div>
 
                   <nav class="secnav" role="navigation">
-                     <h2>Navigate</h2><a class="back_up_level" href="../"><span class="navarrowback"></span>BACK to 
+                     <h2>Navigate</h2><a class="back_up_level" href="index.html"><span class="navarrowback"></span>BACK to 
                         				HOME	
                         			</a></nav>
                </div>
@@ -432,11 +432,11 @@
                </div>
                <div class="content_wrapper">
                   <div class="left"><!--googleon: all-->
-                     <p id="top" align="center"><a href="#A"><strong>A</strong></a>&nbsp;<a href="#B"><strong>B</strong></a>&nbsp;<a href="#C"><strong>C</strong></a>&nbsp;<a href="#D"><strong>D</strong></a>&nbsp;<a href="#E"><strong>E</strong></a>&nbsp;<a href="#F"><strong>F</strong></a>&nbsp;<a href="#G"><strong>G</strong></a>&nbsp;<a href="#H"><strong>H</strong></a>&nbsp;<a href="#i"><strong>I</strong></a>&nbsp;<a href="#J"><strong>J</strong></a>&nbsp;<a href="#K"><strong>K</strong></a>&nbsp;<a href="#L"><strong>L</strong></a>&nbsp;<a href="#M"><strong>M</strong></a>&nbsp;<a href="#N"><strong>N</strong></a>&nbsp;<a href="#O"><strong>O</strong></a>&nbsp;<a href="#P"><strong>P</strong></a>&nbsp;<a href="#R"><strong>R</strong></a>&nbsp;<a href="#S"><strong>S</strong></a>&nbsp;<a href="#T"><strong>T</strong></a>&nbsp;<a href="#U"><strong>U</strong></a>&nbsp;<a href="#V"><strong>V</strong></a>&nbsp;<a href="#W"><strong>W</strong></a>&nbsp;<a href="#Y"><strong>Y</strong></a>&nbsp;<a href="#Z"><strong>Z</strong></a></p>
+                     <p id="top" align="center"><a href="siteindex#A"><strong>A</strong></a>&nbsp;<a href="siteindex#B"><strong>B</strong></a>&nbsp;<a href="siteindex#C"><strong>C</strong></a>&nbsp;<a href="siteindex#D"><strong>D</strong></a>&nbsp;<a href="siteindex#E"><strong>E</strong></a>&nbsp;<a href="siteindex#F"><strong>F</strong></a>&nbsp;<a href="siteindex#G"><strong>G</strong></a>&nbsp;<a href="siteindex#H"><strong>H</strong></a>&nbsp;<a href="siteindex#i"><strong>I</strong></a>&nbsp;<a href="siteindex#J"><strong>J</strong></a>&nbsp;<a href="siteindex#K"><strong>K</strong></a>&nbsp;<a href="siteindex#L"><strong>L</strong></a>&nbsp;<a href="siteindex#M"><strong>M</strong></a>&nbsp;<a href="siteindex#N"><strong>N</strong></a>&nbsp;<a href="siteindex#O"><strong>O</strong></a>&nbsp;<a href="siteindex#P"><strong>P</strong></a>&nbsp;<a href="siteindex#R"><strong>R</strong></a>&nbsp;<a href="siteindex#S"><strong>S</strong></a>&nbsp;<a href="siteindex#T"><strong>T</strong></a>&nbsp;<a href="siteindex#U"><strong>U</strong></a>&nbsp;<a href="siteindex#V"><strong>V</strong></a>&nbsp;<a href="siteindex#W"><strong>W</strong></a>&nbsp;<a href="siteindex#Y"><strong>Y</strong></a>&nbsp;<a href="siteindex#Z"><strong>Z</strong></a></p>
                      <h3 id="A">A</h3>
                      <ul>
-                        <li><a href="*** Broken d:491606 http://www.sjsu.edu/about_sjsu/visiting/local_links/ ***">About San José &amp; Silicon Valley (Local Links</a><a href="*** Broken d:491606 http://www.sjsu.edu/about_sjsu/visiting/local_links/ ***">)</a></li>
-                        <li><a href="*** Broken d:491474 http://www.sjsu.edu/about_sjsu/ ***">About SJSU</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491606&#32;http://www.sjsu.edu/about_sjsu/visiting/local_links/&#32;***">About San José &amp; Silicon Valley (Local Links</a><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491606&#32;http://www.sjsu.edu/about_sjsu/visiting/local_links/&#32;***">)</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491474&#32;http://www.sjsu.edu/about_sjsu/&#32;***">About SJSU</a></li>
                         <li><a href="https://www.sjsu.edu/aars/">Academic Advising &amp; Retention Services</a></li>
                         <li><a href="https://www.sjsu.edu/provost/academic_affairs/resources/Academic_Calendars/">Academic Calendar</a></li>
                         <li><a href="https://www.sjsu.edu/provost/budget/">Academic Planning &amp; Budgets</a></li>
@@ -445,7 +445,7 @@
                         <li><a href="https://www.sjsu.edu/senate/">Academic Senate</a></li>
                         <li>Academic Services (see <a href="https://www.sjsu.edu/aars/">Academic Advising &amp; Retention Services</a>)</li>
                         <li><a href="https://www.sjsu.edu/at/index.html">Academic Technology, Department of</a></li>
-                        <li><a href="/atn/">Academic Technology Network (ATN)</a></li>
+                        <li><a href="https://www.sjsu.edu/atn/">Academic Technology Network (ATN)</a></li>
                         <li><a href="https://www.sjsu.edu/academics/index.html">Academic Year Calendars</a></li>
                         <li><a href="https://www.sjsu.edu/students/academics/">Academics</a></li>
                         <li><a href="https://www.sjsu.edu/aec/">Accessibile Education Center</a></li>
@@ -457,16 +457,16 @@
                         <li><a href="https://www.sjsu.edu/president/admin/">Administration</a></li>
                         <li><a href="https://www.sjsu.edu/adminfinance/">Administration and Finance Division</a></li>
                         <li><a href="https://www.sjsu.edu/faculty_and_staff/index.html">Administrative Resources</a></li>
-                        <li><a href="https://www.sjsu.edu/admissions/index.php">Admission</a></li>
+                        <li><a href="admissions/index.php">Admission</a></li>
                         <li>Advancement (see <a href="https://www.sjsu.edu/advancement/">University Advancement, Division of</a>)</li>
-                        <li><a href="/advserv/">Advancement Operations</a></li>
+                        <li><a href="https://www.sjsu.edu/advserv/">Advancement Operations</a></li>
                         <li>Advising Center (see <a href="https://www.sjsu.edu/aars/">Academic Advising &amp; Retention Services</a>)</li>
                         <li><a href="https://www.sjsu.edu/advising/">Advising Hub</a></li>
                         <li><a href="http://ae.sjsu.edu/">Aerospace Engineering Program</a></li>
                         <li><a href="https://www.sjsu.edu/afrotc/">Aerospace Studies</a></li>
                         <li><a href="https://www.sjsu.edu/ajeep/index.html">Afghanistan Journalism Education Enhancement Program (AJEEP)</a></li>
                         <li><a href="https://www.sjsu.edu/afam/">African-American Studies Department</a></li>
-                        <li><a href="*** Broken d:491997 http://www.sjsu.edu/alumni_and_community/ ***">Alumni and Community Engagement</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491997&#32;http://www.sjsu.edu/alumni_and_community/&#32;***">Alumni and Community Engagement</a></li>
                         <li><a href="http://alumni.sjsu.edu/s/1771/16/home.aspx?gid=2&amp;pgid=61">Alumni Association</a></li>
                         <li><a href="https://www.sjsu.edu/americanstudies/">American Studies Program</a></li>
                         <li><a href="https://www.sjsu.edu/design/design_programs/ai_design_program/">Animation/Illustration</a></li>
@@ -475,7 +475,7 @@
                         <li><a href="https://www.sjsu.edu/arc/index.html">Applied Research Center</a></li>
                         <li><a href="https://www.sjsu.edu/art/">Art, Department of</a></li>
                         <li><a href="http://info.sjsu.edu/home/artic.html">Articulation</a></li>
-                        <li><a href="/aanapisi">Asian American Native American Pacific Islander Serving Institution grant&nbsp;(AANAPISI)</a></li>
+                        <li><a href="https://www.sjsu.edu/aanapisi">Asian American Native American Pacific Islander Serving Institution grant&nbsp;(AANAPISI)</a></li>
                         <li><a href="https://www.sjsu.edu/asianstudies/">Asian Studies Program</a></li>
                         <li><a href="https://www.sjsu.edu/aspire/">ASPIRE Program</a></li>
                         <li>Astronomy (see <a href="http://www.physics.sjsu.edu/">Physics and Astronomy, Department of </a>)</li>
@@ -483,10 +483,10 @@
                         <li><a href="http://as.sjsu.edu/">Associated Students</a></li>
                         <li><a href="https://www.sjsu.edu/kinesiology/programs/">Athletic Training Program</a></li>
                         <li><a href="http://www.sjsuspartans.com">Athletics</a></li>
-                        <li><a href="/mediaservices/reservations/equipmentreservations/">A/V Equipment Reservations</a></li>
+                        <li><a href="https://www.sjsu.edu/mediaservices/reservations/equipmentreservations/">A/V Equipment Reservations</a></li>
                         <li><a href="http://avtech.sjsu.edu/">Aviation Program</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="B">B</h3>
                      <ul>
                         <li><a href="http://cmpe.sjsu.edu/bsse/">Bachelor of Science in Software Engineering (BSSE)</a></li>
@@ -495,31 +495,31 @@
                         <li><a href="https://www.sjsu.edu/behavioralcrisis/index.html">Behavioral and Crisis Intervention Team</a></li>
                         <li><a href="https://www.sjsu.edu/anthropology/undergrad_degrees/behs/">Behavioral Sciences Program</a></li>
                         <li><a href="https://www.sjsu.edu/biology/">Biological Sciences Department</a></li>
-                        <li><a href="/bme">Biomedical Engineering</a></li>
+                        <li><a href="https://www.sjsu.edu/bme">Biomedical Engineering</a></li>
                         <li><a href="https://www.sjsu.edu/blackscholars/index.html">Black Scholars</a></li>
-                        <li>Blackboard (see <a href="/ecampus">eCampus, Desire2Learn</a>)</li>
+                        <li>Blackboard (see <a href="https://www.sjsu.edu/ecampus">eCampus, Desire2Learn</a>)</li>
                         <li><a href="http://sjsu.bncollege.com/webapp/wcs/stores/servlet/BNCBHomePage?storeId=65133&amp;catalogId=10001&amp;langId=-1">Bookstore</a></li>
                         <li><a href="http://blogs.sjsu.edu">Blogs</a></li>
-                        <li><a href="/bridge/">Bridge - Transition to College Program </a></li>
-                        <li>Brilliant, Ira F. Center for Beethoven Studies (see <a href="/beethoven">Ira F. Brilliant Center for Beethoven Studies)</a></li>
+                        <li><a href="https://www.sjsu.edu/bridge/">Bridge - Transition to College Program </a></li>
+                        <li>Brilliant, Ira F. Center for Beethoven Studies (see <a href="https://www.sjsu.edu/beethoven">Ira F. Brilliant Center for Beethoven Studies)</a></li>
                         <li>Budget Office, University (see <a href="https://www.sjsu.edu/finance/about_us/budget/">University Budget Office</a>)</li>
                         <li><a href="https://www.sjsu.edu/adminfinance/about/budget_central/index.html">Budget Central</a></li>
-                        <li><a href="/burdick">Burdick Military History Project</a></li>
-                        <li><a href="/bursar/">Bursar's Office</a></li>
+                        <li><a href="https://www.sjsu.edu/burdick">Burdick Military History Project</a></li>
+                        <li><a href="https://www.sjsu.edu/bursar/">Bursar's Office</a></li>
                         <li><a href="https://www.sjsu.edu/cob/">Business, College of</a></li>
                         <li><a href="https://www.sjsu.edu/biz/">Business, with SJSU</a></li>
                         <li>Business Student Advisement Center (see <a href="https://www.sjsu.edu/lcobssc/index.html">Jack Holland Student Success Center</a>)</li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="C">C</h3>
                      <ul>
                         <li>CASA (see <a href="https://www.sjsu.edu/casa/">College of Applied Sciences and Arts</a>)</li>
                         <li><a href="https://www.sjsu.edu/calendars/">Calendars</a></li>
-                        <li><a href="/californiapromise">California Promise</a></li>
-                        <li><a href="/directory/">Campus Directory</a></li>
+                        <li><a href="https://www.sjsu.edu/californiapromise">California Promise</a></li>
+                        <li><a href="https://www.sjsu.edu/directory/">Campus Directory</a></li>
                         <li><a href="https://www.sjsu.edu/finance/about_us/core_services/campus_fee_program/">Campus Fee Advisory Committee</a></li>
                         <li><a href="https://www.sjsu.edu/students/campuslife/">Campus Life</a></li>
-                        <li><a href="/about_sjsu/visiting/campus_maps/">Campus Map &amp; Directions</a></li>
+                        <li><a href="https://www.sjsu.edu/about_sjsu/visiting/campus_maps/">Campus Map &amp; Directions</a></li>
                         <li><a href="https://www.sjsu.edu/reading/">Campus Reading Program</a></li>
                         <li><a href="https://www.sjsu.edu/soar/visitsus/visitsjsu/">Campus Tours</a></li>
                         <li><a href="https://www.housing.sjsu.edu/">Campus Village</a></li>
@@ -538,16 +538,16 @@
                         <li><a href="https://www.sjsu.edu/cme/">Chemical and Materials Engineering Department</a></li>
                         <li><a href="https://www.sjsu.edu/chemistry/">Chemistry Department</a></li>
                         <li><a href="https://www.sjsu.edu/clfsa/">Chicano/Latino Faculty &amp; Staff Association</a></li>
-                        <li><a href="/adelante">Chican@/Latin@ Student Success Task Force</a></li>
+                        <li><a href="https://www.sjsu.edu/adelante">Chican@/Latin@ Student Success Task Force</a></li>
                         <li><a href="https://www.sjsu.edu/chad/">Child &amp; Adolescent Development Department</a></li>
                         <li><a href="http://www.engr.sjsu.edu/civil/">Civil &amp; Environmental Engineering Department</a></li>
-                        <li><a href="/schedules/">Class Schedules</a></li>
-                        <li><a href="*** Broken d:491878 https://dev.sjsu.edu/classes/ ***">Classes</a></li>
+                        <li><a href="https://www.sjsu.edu/schedules/">Class Schedules</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491878&#32;https://dev.sjsu.edu/classes/&#32;***">Classes</a></li>
                         <!-- <li><a href="http://my.sjsu.edu/about">CMS Project Office (PeopleSoft)</a></li> -->
                         <li><a href="https://www.sjsu.edu/cobaccreditation/index.html">College of Business Accreditation</a></li>
                         <li><a href="https://www.sjsu.edu/cosac/">College of Science Advising Center (COSAC)</a></li>
-                        <li><a href="*** Broken d:491580 http://www.sjsu.edu/about_sjsu/facts_and_figures/colleges/ ***">Colleges</a></li>
-                        <li><a href="/siteindex/*** Broken d:491901 http:/www.sjsu.edu/colleges_departments/ ***">Colleges and Departments</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491580&#32;http://www.sjsu.edu/about_sjsu/facts_and_figures/colleges/&#32;***">Colleges</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491901&#32;http:/www.sjsu.edu/colleges_departments/&#32;***">Colleges and Departments</a></li>
                         <li><a href="https://www.sjsu.edu/commencement/">Commencement Guide</a></li>
                         <li><a href="http://oir.sjsu.edu/Reports/CDS/default.cfm?version=graphic">Common Data Set</a></li>
                         <li><a href="https://commcenter.sjsu.edu/">Communication Center</a></li>
@@ -561,7 +561,7 @@
                         <li><a href="https://www.sjsu.edu/hr/students/students_harassment_complaints/">Complaint Process (for student and student employees)</a></li>
                         <li><a href="http://cmpe.sjsu.edu">Computer Engineering Department</a></li>
                         <li><a href="https://www.sjsu.edu/cs/">Computer Science Department</a></li>
-                        <li><a href="/mscs/">Computer Science, Master of Science</a></li>
+                        <li><a href="https://www.sjsu.edu/mscs/">Computer Science, Master of Science</a></li>
                         <li><a href="http://cadre.sjsu.edu/">Computers in Art Program</a></li>
                         <li><a href="https://www.sjsu.edu/cfd/">Computing &amp; Media Resources (Faculty &amp; Staff)</a></li>
                         <li><a href="http://as.sjsu.edu/ascsc/index.jsp">Computing &amp; Media Resources (Students)</a></li>
@@ -574,24 +574,24 @@
                         <li><a href="https://www.sjsu.edu/mosaic/index.html">Cross-Cultural Center - MOSAIC</a></li>
                         <li><a href="https://www.sjsu.edu/cs100w/">CS100W</a></li>
                         <li>CSU Mentor (see <a href="http://www.csumentor.edu/">Apply to SJSU</a>)</li>
-                        <li><a href="*** Broken d:505658 http://its.sjsu.edu/services/software/ ***">CSU Software Licensing Agreements</a></li>
-                        <li><a href="https://www.sjsu.edu/students/">Current Students</a></li>
-                        <li><a href="/cyberchallenge/">Cyber Challenge</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:505658&#32;http://its.sjsu.edu/services/software/&#32;***">CSU Software Licensing Agreements</a></li>
+                        <li><a href="students/index.html">Current Students</a></li>
+                        <li><a href="https://www.sjsu.edu/cyberchallenge/">Cyber Challenge</a></li>
                      </ul>
                      <p>&nbsp;</p>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="D">D</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/dalarcao/index.html">d'Alarcao Research Group</a></li>
                         <li><a href="https://www.sjsu.edu/dance/index.html">Dance Program</a></li>
-                        <li><a href="/dayofservice">Day of Service</a></li>
+                        <li><a href="https://www.sjsu.edu/dayofservice">Day of Service</a></li>
                         <li><a href="http://info.sjsu.edu/web-dbgen/catalog/degrees/all-degrees.html">Degrees and Majors</a></li>
                         <li><a href="https://www.sjsu.edu/armyrotc/index.html">Department of Military Science</a></li>
                         <li>Desire2Learn (see <a href="https://www.sjsu.edu/ecampus/">eCampus</a>)</li>
                         <li><a href="https://www.sjsu.edu/advancement/about/development/">Development and Alumni Relations</a></li>
                         <li><a href="https://www.sjsu.edu/discover/">Discover SJSU</a></li>
                         <li><a href="https://www.sjsu.edu/finance/about_us/dist_services/">Distribution Services</a></li>
-                        <li><a href="*** Broken d:494777 http://dev.sjsu.edu/spartanshops/dinewithus/ ***">Dining Services</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:494777&#32;http://dev.sjsu.edu/spartanshops/dinewithus/&#32;***">Dining Services</a></li>
                         <li>Disability Resource Center, see <a href="https://www.sjsu.edu/aec/">Accessible Education Center</a></li>
                         <li><a href="https://www.sjsu.edu/design/index.html">Design, Department of</a></li>
                         <li>Distance Education&nbsp;(see <a href="https://online.sjsu.edu/index.html">SJSU Online</a>)</li>
@@ -599,21 +599,21 @@
                         <li><a href="https://www.sjsu.edu/advancement/">Division of University Advancement</a></li>
                         <li><a href="https://www.sjsu.edu/biz/">Doing Business with SJSU</a></li>
                         <li><a href="https://www.sjsu.edu/annualreport/">Donor Honor Roll / Annual Report</a></li>
-                        <li><a href="*** Broken d:491605 http://www.sjsu.edu/about_sjsu/visiting/ ***">Directions</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491605&#32;http://www.sjsu.edu/about_sjsu/visiting/&#32;***">Directions</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="E">E</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/at/ec/">eCampus</a></li>
                         <li><a href="https://www.sjsu.edu/economics/">Economics Department</a></li>
                         <li><a href="https://www.sjsu.edu/edd/">Ed.D. Leadership Program</a></li>
-                        <li><a href="/ed4lib">Education for Liberation</a></li>
+                        <li><a href="https://www.sjsu.edu/ed4lib">Education for Liberation</a></li>
                         <li><a href="https://www.sjsu.edu/eop/">Educational Opportunity Program </a></li>
                         <li><a href="https://www.sjsu.edu/edleadership/">Educational Leadership Program</a></li>
                         <li><a href="https://www.sjsu.edu/education/">Education, College of</a></li>
                         <li><a href="http://ee.sjsu.edu/">Electrical Engineering Department</a></li>
-                        <li><a href="/siteindex/*** Broken d:494756 http:/www.sjsu.edu/elementaryed/ ***">Elementary Education Program</a></li>
-                        <li><a href="https://www.sjsu.edu/emergency/">Emergency Information</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:494756&#32;http:/www.sjsu.edu/elementaryed/&#32;***">Elementary Education Program</a></li>
+                        <li><a href="emergency">Emergency Information</a></li>
                         <li><a href="https://www.sjsu.edu/emeritusfaculty/">Emeritus Faculty Association</a></li>
                         <li><a href="https://www.sjsu.edu/employment/">Employment and Career Resources</a></li>
                         <li><a href="https://www.sjsu.edu/earc/">Employment Accommodations Resource Center</a></li>
@@ -629,17 +629,17 @@
                         <li><a href="https://www.sjsu.edu/europeanstudies/">European Studies</a></li>
                         <li><a href="http://www.union.sjsu.edu/ec/ec.html">Event Center</a></li>
                         <li><a href="http://www.union.sjsu.edu/ec/EC_Box_Office/ec_box_office.html">Event Center Box Office</a></li>
-                        <li><a href="/events/">Events, Calendar</a></li>
+                        <li><a href="https://www.sjsu.edu/events/">Events, Calendar</a></li>
                         <li>Experts, University (see <a href="http://experts.sjsu.edu/">University Experts</a>)</li>
-                        <li><a href="/extend">Extended Studies</a></li>
+                        <li><a href="https://www.sjsu.edu/extend">Extended Studies</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="F">F</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/fdo/departments/admin/">Facilities Administration</a></li>
                         <li><a href="https://www.sjsu.edu/fdo/departments/maintops/operations/">Facilities Services</a></li>
                         <li><a href="https://www.sjsu.edu/fdo/">Facilities, Development &amp; Operations</a></li>
-                        <li><a href="*** Broken d:491579 http://www.sjsu.edu/about_sjsu/facts_and_figures/ ***">Facts and Figures</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491579&#32;http://www.sjsu.edu/about_sjsu/facts_and_figures/&#32;***">Facts and Figures</a></li>
                         <li><a href="https://www.sjsu.edu/facultyaffairs/">Faculty Affairs, Office of </a></li>
                         <li>Faculty Experts (see <a href="http://experts.sjsu.edu/">University Experts</a>)</li>
                         <li><a href="https://www.sjsu.edu/faculty_and_staff/">Faculty and Staff</a></li>
@@ -657,12 +657,12 @@
                         <li><a href="https://www.sjsu.edu/finances/">Finances</a></li>
                         <li><a href="https://www.sjsu.edu/faso/">Financial Aid and Scholarships</a></li>
                         <li>Foreign Languages, Department of (see <a href="https://www.sjsu.edu/wll/">World Languages &amp; Literatures, Department of</a>)</li>
-                        <li><a href="/siteindex/*** Broken d:491212 https:/www.sjsu.edu/forensics/ ***">Forensics Program</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491212&#32;https:/www.sjsu.edu/forensics/&#32;***">Forensics Program</a></li>
                         <li><a href="https://www.sjsu.edu/rifyi/">Foster Youth Initiatives, The Research Institute for </a></li>
                         <li><a href="http://www.sjsufoundation.org/">Foundation, SJSU</a></li>
                         <li><a href="https://www.sjsu.edu/future_students/">Future Students</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="G">G</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/cob/sbonahonors/">Gary J. Sbona Honors Program</a></li>
@@ -672,9 +672,9 @@
                         <li><a href="https://www.sjsu.edu/generate/index.html">GENERATE: First-Generation College Student Program</a></li>
                         <li><a href="https://www.sjsu.edu/geography/">Geography, Department of </a></li>
                         <li><a href="https://www.sjsu.edu/geology/">Geology Department</a></li>
-                        <li><a href="/healthscience/programs/gerontology/">Gerontology Program</a></li>
+                        <li><a href="https://www.sjsu.edu/healthscience/programs/gerontology/">Gerontology Program</a></li>
                         <li>Get Involved (see <a href="https://www.sjsu.edu/getinvolved/">Student Involvement</a>)</li>
-                        <li><a href="https://www.sjsu.edu/giving/">Giving to SJSU</a></li>
+                        <li><a href="giving/index.html">Giving to SJSU</a></li>
                         <li><a href="https://www.sjsu.edu/gei/index.html">Global Education and Initiatives</a></li>
                         <li><a href="https://gs.sjsu.edu/">Global Studies Program </a></li>
                         <li><a href="https://www.sjsu.edu/gape/">Graduate Admissions &amp; Program Evaluations</a></li>
@@ -682,32 +682,32 @@
                         <li><a href="https://www.sjsu.edu/lucasgsb/index.html">Graduate Programs, Business</a></li>
                         <li><a href="https://www.sjsu.edu/gradstudies/">Graduate Studies &amp; Research, Office of</a></li>
                         <li><a href="https://www.sjsu.edu/faso/Types_AID/Grant/">Grants</a></li>
-                        <li><a href="/somanyroads">Grateful Dead Conference</a></li>
+                        <li><a href="https://www.sjsu.edu/somanyroads">Grateful Dead Conference</a></li>
                         <li><a href="https://www.sjsu.edu/cfd/">Greensheet Accessible Template</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="H">H</h3>
                      <ul>
                         <li>Health Center, Student (see <a href="https://www.sjsu.edu/studenthealth/">Student Health Center</a>)</li>
                         <li><a href="https://www.sjsu.edu/chahs/">Health and Human Sciences, College of</a></li>
-                        <li><a href="/chahs-ssc">Health and Human Sciences Student Success Center</a></li>
-                        <li><a href="/healthscience/">Health Science, Department of</a></li>
-                        <li><a href="*** Broken d:501327 http://its.sjsu.edu/support/ ***">Help desk</a></li>
-                        <li><a href="/depts/herbarium">Herbarium, Carl W. Sharsmith</a></li>
+                        <li><a href="https://www.sjsu.edu/chahs-ssc">Health and Human Sciences Student Success Center</a></li>
+                        <li><a href="https://www.sjsu.edu/healthscience/">Health Science, Department of</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:501327&#32;http://its.sjsu.edu/support/&#32;***">Help desk</a></li>
+                        <li><a href="https://www.sjsu.edu/depts/herbarium">Herbarium, Carl W. Sharsmith</a></li>
                         <li><a href="https://www.sjsu.edu/history/index.html">History Department</a></li>
-                        <li>History, SJSU (see <a href="*** Broken d:491586 http://www.sjsu.edu/about_sjsu/history/ ***">SJSU History</a>)</li>
+                        <li>History, SJSU (see <a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491586&#32;http://www.sjsu.edu/about_sjsu/history/&#32;***">SJSU History</a>)</li>
                         <li><a href="https://www.sjsu.edu/alumni/homecoming/">Homecoming</a></li>
                         <li><a href="https://www.sjsu.edu/english/undergraduate/honors/">Honors Programs</a></li>
                         <li><a href="https://www.sjsu.edu/phikappaphi/index.html">Honor Society of Phi Kappa Phi</a></li>
-                        <li><a href="/hspm">Hospitality Management</a></li>
+                        <li><a href="https://www.sjsu.edu/hspm">Hospitality Management</a></li>
                         <li><a href="https://www.sjsu.edu/housing-options/">Housing Options</a></li>
                         <li><a href="http://www.housing.sjsu.edu">Housing Services/Campus Village</a></li>
                         <li><a href="http://www.engr.sjsu.edu/hfe">Human Factors and Ergonomics</a></li>
                         <li><a href="https://www.sjsu.edu/humanitiesandarts/index.html">Humanities and the Arts, College of</a></li>
-                        <li><a href="*** Broken d:490267 https://www.sjsu.edu/hum/ ***">Humanities Department</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:490267&#32;https://www.sjsu.edu/hum/&#32;***">Humanities Department</a></li>
                         <li><a href="https://www.sjsu.edu/hr/">Human Resources</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="i">I</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/communications/identity/powersource/photo/">Image Library: Campus Photos &amp; Logo</a></li>
@@ -726,31 +726,31 @@
                         <li>International Programs and Services&nbsp;(see&nbsp;<a href="https://www.sjsu.edu/isss/index.html">International Student and Scholar Services</a>)</li>
                         <li><a href="http://info.sjsu.edu/web-dbgen/catalog/departments/KIN-section-0.html">International Sports and Human Performance, Center for</a></li>
                         <li><a href="https://www.sjsu.edu/isa/">International Student Advising</a></li>
-                        <li><a href="/global">International Students</a></li>
+                        <li><a href="https://www.sjsu.edu/global">International Students</a></li>
                         <li><a href="https://www.sjsu.edu/isss/index.html">International Student and Scholar Services (ISSS)</a></li>
                         <li>Intimate Violence (see <a href="https://www.sjsu.edu/students/healthandsafety/">Health &amp; Safety Resources</a>)</li>
                         <li><a href="http://as.sjsu.edu/ascr/index.jsp?val=im_home">Intramural Sports</a></li>
                         <li><a href="https://www.sjsu.edu/beethoven/">Ira F. Brilliant Center for Beethoven Studies</a></li>
-                        <li><a href="*** Broken d:499059 http://its.sjsu.edu/about/organization/computing/ ***">ITS Systems Services</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:499059&#32;http://its.sjsu.edu/about/organization/computing/&#32;***">ITS Systems Services</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="J">J</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/lcobssc/index.html">Jack Holland Student Success Center</a></li>
-                        <li><a href="/jwss">Jewish Studies Program</a></li>
+                        <li><a href="https://www.sjsu.edu/jwss">Jewish Studies Program</a></li>
                         <li>Jobs (see <a href="https://www.sjsu.edu/employment/">Employment Opportunities</a>)</li>
                         <li><a href="http://www.jmc.sjsu.edu/">Journalism and Mass Communications, School of</a></li>
                         <li>Judicial Affairs, Office of (see <a href="https://www.sjsu.edu/studentconduct/">Student Conduct &amp; Ethical Development, Office of</a>)</li>
                         <li><a href="https://www.sjsu.edu/justicestudies/">Justice Studies Department</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="K">K</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/kinesiology/">Kinesiology, Department of </a></li>
                         <li><a href="http://library.sjsu.edu/">King Library</a></li>
                         <li><a href="http://www.ksjs.org/">KSJS (FM 90.5) Student Run Radio</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="L">L</h3>
                      <ul>
                         <li><a href="https://peerconnections.sjsu.edu/index.html">Learning Assistance Resource Center</a></li>
@@ -759,24 +759,24 @@
                         <li><a href="https://www.sjsu.edu/liberalstudies/">Liberal Studies Program</a></li>
                         <li><a href="http://www.sjlibrary.org/gateways/academic/">Library</a></li>
                         <li>Library and Information Science, School of (see &nbsp;<a href="http://ischool.sjsu.edu">Information, School of</a>)</li>
-                        <li>Licensing Agreements, Software (see <a href="/helpdesk/software/licensing/">CSU Software Licensing Agreements</a>)</li>
+                        <li>Licensing Agreements, Software (see <a href="https://www.sjsu.edu/helpdesk/software/licensing/">CSU Software Licensing Agreements</a>)</li>
                         <li><a href="https://www.sjsu.edu/linguistics/">Linguistics and Language Development, Department of<br></a></li>
                         <li><a href="http://www.litart.org/">Literary Arts, Center for</a></li>
                         <li><a href="https://www.sjsu.edu/faso/Types_AID/Loans/">Loans</a></li>
-                        <li><a href="*** Broken d:491606 http://www.sjsu.edu/about_sjsu/visiting/local_links/ ***">Local Links</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491606&#32;http://www.sjsu.edu/about_sjsu/visiting/local_links/&#32;***">Local Links</a></li>
                         <li><a href="https://www.sjsu.edu/lucasgsb/index.html">Lucas Graduate School of Business</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="M">M</h3>
                      <ul>
                         <li>Majors (see <a href="http://info.sjsu.edu/web-dbgen/catalog/degrees/all-degrees.html">Degrees and Majors</a>)</li>
                         <li>Mail Services&nbsp;(see <a href="https://www.sjsu.edu/finance/about_us/dist_services/">Distribution Services</a>)</li>
                         <li><a href="https://www.sjsu.edu/isystems/">Management Information Systems, Department of</a></li>
-                        <li>Maps (see <a href="https://www.sjsu.edu/map/">Campus Maps</a>)</li>
+                        <li>Maps (see <a href="map">Campus Maps</a>)</li>
                         <li><a href="https://www.sjsu.edu/communications/">Marketing and Communications</a></li>
-                        <li><a href="/mktba">Marketing and Business Analytics, Department of</a></li>
+                        <li><a href="https://www.sjsu.edu/mktba">Marketing and Business Analytics, Department of</a></li>
                         <li><a href="http://slisweb.sjsu.edu/mara/">Master of Archives &amp; Records Administration (MARA)</a></li>
-                        <li><a href="/mscs/">Master of Science, Computer Science</a></li>
+                        <li><a href="https://www.sjsu.edu/mscs/">Master of Science, Computer Science</a></li>
                         <li><a href="https://www.sjsu.edu/mcmc/index.html">Materials Characterization and Metrology Center</a></li>
                         <li><a href="https://www.sjsu.edu/math/">Mathematics and Statistics, Department of</a></li>
                         <li><a href="https://www.sjsu.edu/mcnair/">McNair Scholars Program</a></li>
@@ -791,32 +791,32 @@
                         <li><a href="https://www.sjsu.edu/mpel/index.html">Microscale Process Engineering Laboratory</a></li>
                         <li><a href="https://www.sjsu.edu/middleeaststudies/index.html">Middle East Studies</a></li>
                         <li><a href="https://www.sjsu.edu/veterans/">Military and Veteran Student Services</a></li>
-                        <li><a href="/burdick">Military History, Burdick</a></li>
+                        <li><a href="https://www.sjsu.edu/burdick">Military History, Burdick</a></li>
                         <li>Military Science Department (see <a href="http://www.scu.edu/rotc/">ARMY ROTC</a>)</li>
                         <li><a href="http://www.transweb.sjsu.edu/">Mineta Transportation Institute</a></li>
-                        <li><a href="*** Broken d:491599 http://www.sjsu.edu/about_sjsu/mission/ ***">Mission Statement, University</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491599&#32;http://www.sjsu.edu/about_sjsu/mission/&#32;***">Mission Statement, University</a></li>
                         <li><a href="https://www.sjsu.edu/mosaic/index.html">MOSAIC Cross-Cultural Center</a></li>
                         <li><a href="http://www.mlml.calstate.edu/">Moss Landing Marine Laboratories</a></li>
-                        <li><a href="/mediaproduction/">Media Production Services</a></li>
+                        <li><a href="https://www.sjsu.edu/mediaproduction/">Media Production Services</a></li>
                         <li><a href="https://www.sjsu.edu/miller/index.html">Miller Research Group</a></li>
                         <li><a href="https://www.sjsu.edu/music/index.html">Music Program</a></li>
                         <li><a href="https://www.sjsu.edu/musicanddance/">Music and Dance, School of</a></li>
                         <li><a href="https://www.sjsu.edu/mygps/index.html">MyGPS: Graduation Pathway to Success</a></li>
                         <li><a href="http://www.mysafecampus.com/">MySafeCampus</a></li>
-                        <li><a href="*** Broken d:490007 http://my.sjsu.edu/ ***">MySJSU</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:490007&#32;http://my.sjsu.edu/&#32;***">MySJSU</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="N">N</h3>
                      <ul>
-                        <li><a href="*** Broken d:499021 http://its.sjsu.edu/about/organization/networking/ ***">Networking Services</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:499021&#32;http://its.sjsu.edu/about/organization/networking/&#32;***">Networking Services</a></li>
                         <li><a href="https://www.sjsu.edu/newspartans/">New Spartans and Family Programs</a></li>
-                        <li><a href="/news/">News, San José State</a></li>
+                        <li><a href="https://www.sjsu.edu/news/">News, San José State</a></li>
                         <li><a href="https://www.sjsu.edu/nokidding/index.html">No Kidding Campaign</a></li>
                         <li><a href="http://info.sjsu.edu/web-dbgen/catalog/departments/NUCS-section-0.html">Nuclear Science Program</a></li>
                         <li><a href="https://www.sjsu.edu/nursing/">Nursing, School of</a></li>
                         <li><a href="http://www.nufs.sjsu.edu/">Nutrition and Food Science, Department of </a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="O">O</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/occupationaltherapy/">Occupational Therapy, Department of </a></li>
@@ -826,13 +826,13 @@
                         <li><a href="https://www.sjsu.edu/president/admin/orgcharts/">Organizational Charts</a></li>
                         <li><a href="http://studentorgs.sjsu.edu/">Organizations, Student</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="P">P</h3>
                      <ul>
                         <li><a href="http://www.nufs.sjsu.edu/packaging/pkgintro/index.html">Packaging Program</a></li>
-                        <li><a href="https://www.sjsu.edu/parking/">Parking Services</a></li>
+                        <li><a href="parking/index.html">Parking Services</a></li>
                         <li><a href="https://www.sjsu.edu/parkingtransportationmaps/">Parking, Transportation and Maps</a></li>
-                        <li><a href="/hrtm/pebblebeach/">Pebble Beach Special Event Management Team</a></li>
+                        <li><a href="https://www.sjsu.edu/hrtm/pebblebeach/">Pebble Beach Special Event Management Team</a></li>
                         <li><a href="https://peerconnections.sjsu.edu/index.html">Peer Connections</a></li>
                         <li><a href="https://www.sjsu.edu/persianstudies/index.html">Persian Studies</a></li>
                         <li><a href="https://www.sjsu.edu/philosophy/">Philosophy, Department of </a></li>
@@ -840,31 +840,31 @@
                         <li><a href="https://www.sjsu.edu/at/mp/photo/index.html">Photographic Services</a></li>
                         <li><a href="http://www.physics.sjsu.edu/">Physics and Astronomy, Department of</a></li>
                         <li><a href="https://www.sjsu.edu/fdo/departments/pdc/">Planning, Design &amp; Construction</a></li>
-                        <li><a href="*** Broken d:491604 http://www.sjsu.edu/about_sjsu/pride/ ***">Points of Pride</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491604&#32;http://www.sjsu.edu/about_sjsu/pride/&#32;***">Points of Pride</a></li>
                         <li><a href="https://www.sjsu.edu/police/"> Police, University</a></li>
-                        <li><a href="/senate/S04-12.pdf">Policy On Academic Dishonesty (PDF)</a></li>
+                        <li><a href="https://www.sjsu.edu/senate/S04-12.pdf">Policy On Academic Dishonesty (PDF)</a></li>
                         <li><a href="https://www.sjsu.edu/polisci/">Political Science Department</a></li>
-                        <li><a href="/pcp">Pre-College Programs</a></li>
+                        <li><a href="https://www.sjsu.edu/pcp">Pre-College Programs</a></li>
                         <li><a href="https://www.sjsu.edu/prelaw/index.html">Pre-Law Advising</a></li>
                         <li><a href="https://www.sjsu.edu/president/">President, Office of the</a></li>
                         <li><a href="http://as.sjsu.edu/asps/">Print Shop</a></li>
                         <li><a href="https://www.sjsu.edu/pdp/">Professional Degree Programs</a></li>
-                        <li><a href="/pltw">Project Lead the Way</a></li>
+                        <li><a href="https://www.sjsu.edu/pltw">Project Lead the Way</a></li>
                         <li><a href="https://www.sjsu.edu/programs/">Programs for Current and Prospective Students</a></li>
                         <li><a href="https://www.sjsu.edu/ugs/faculty/programs/">Program Assessment</a></li>
                         <li><a href="https://www.sjsu.edu/ugs/faculty/programplanning/">Program Planning</a></li>
-                        <li><a href="/acctg_svcs/property/">Property</a></li>
+                        <li><a href="https://www.sjsu.edu/acctg_svcs/property/">Property</a></li>
                         <li><a href="https://www.sjsu.edu/provost/">Provost, Office of the</a></li>
-                        <li><a href="/psych">Psychology Department</a></li>
+                        <li><a href="https://www.sjsu.edu/psych">Psychology Department</a></li>
                         <li><a href="https://www.sjsu.edu/polisci/zz-MPA/">Public Administration, Master of</a></li>
-                        <li><a href="/publichistory">Public History</a></li>
+                        <li><a href="https://www.sjsu.edu/publichistory">Public History</a></li>
                         <li><a href="https://www.sjsu.edu/finance/about_us/ss_contracts_procurement_svcs/">Purchasing</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="Q"></h3>
                      <h3>Q</h3>
                      <p>&nbsp;</p>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="R">R</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/rtvf/index.html">Radio, Television &amp; Film</a></li>
@@ -881,12 +881,12 @@
                         <li><a href="https://www.sjsu.edu/finance/about_us/risk_mgmt/">Risk Management</a></li>
                         <li><a href="https://www.sjsu.edu/armyrotc/index.html">ROTC, Army</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="S">S</h3>
                      <ul>
                         <li><a href="http://www.mysafecampus.com/">Safety</a></li>
-                        <li><a href="/salzburg">Salzburg Program</a></li>
-                        <li>Schedules (see <a href="/schedules/">Class Schedules</a>)</li>
+                        <li><a href="https://www.sjsu.edu/salzburg">Salzburg Program</a></li>
+                        <li>Schedules (see <a href="https://www.sjsu.edu/schedules/">Class Schedules</a>)</li>
                         <li><a href="https://s3.sjsu.edu/index.html">Scholars in Science Scholarship Program</a></li>
                         <li><a href="https://www.sjsu.edu/faso/Scholarships/">Scholarships</a></li>
                         <li><a href="http://scholarworks.sjsu.edu/">ScholarWorks</a></li>
@@ -896,34 +896,34 @@
                         <li><a href="http://serc.sjsu.edu">Science Education Resource Center (SERC)</a></li>
                         <li><a href="http://www.sjsu.edu/secondary/index.html">Secondary Education Program</a></li>
                         <li>Senate (see <a href="https://www.sjsu.edu/senate/">Academic Senate</a>)</li>
-                        <li>Sesquicentennial Anniversary (see <a href="*** Broken d:491586 http://www.sjsu.edu/about_sjsu/history/ ***">SJSU History</a>)</li>
+                        <li>Sesquicentennial Anniversary (see <a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491586&#32;http://www.sjsu.edu/about_sjsu/history/&#32;***">SJSU History</a>)</li>
                         <li>Sexual Assault (see <a href="https://www.sjsu.edu/students/healthandsafety/">Health &amp; Safety Resources</a>)</li>
                         <li>Shipping &amp; Receiving&nbsp;(see <a href="https://www.sjsu.edu/finance/about_us/dist_services/">Distribution Services</a>)</li>
                         <li><a href="https://www.sjsu.edu/svce/">Silicon Valley Center for Entrepreneurship</a></li>
-                        <li><a href="/svcgs">Silicon Valley Center for Global Studies</a></li>
+                        <li><a href="https://www.sjsu.edu/svcgs">Silicon Valley Center for Global Studies</a></li>
                         <li><a href="https://www.sjsu.edu/svic/index.html">Silicon Valley Innovation Challenge</a> (SVIC)</li>
                         <li><a href="https://www.sjsu.edu/svsiln/">Silicon Valley Social Innovation Leadership Network</a></li>
-                        <li><a href="/secondaryed/">Single Subject Credential Program</a></li>
+                        <li><a href="https://www.sjsu.edu/secondaryed/">Single Subject Credential Program</a></li>
                         <li><a href="http://blogs.sjsu.edu">SJSU Blogs</a></li>
                         <li><a href="http://info.sjsu.edu/home/catalog.html">SJSU Catalog</a></li>
                         <li><a href="https://www.sjsu.edu/fscf/index.html">SJSU Faculty/Staff Christian Fellowship</a></li>
                         <li><a href="http://www.sjsufoundation.org/">SJSU Foundation</a></li>
-                        <li><a href="*** Broken d:491586 http://www.sjsu.edu/about_sjsu/history/ ***">SJSU History</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491586&#32;http://www.sjsu.edu/about_sjsu/history/&#32;***">SJSU History</a></li>
                         <li><a href="http://blogs.sjsu.edu/today/?s=this+week">SJSU This Week, Subscribe to</a></li>
                         <li><a href="https://www.sjsu.edu/wasc/">SJSU WASC Reports</a></li>
                         <li><a href="http://sjsuone.sjsu.edu">SJSUOne&nbsp;</a></li>
                         <li><a href="https://www.sjsu.edu/socialsciences/">Social Sciences, College of</a></li>
-                        <li><a href="/depts/socs/index.htm">Social Sciences, Department of </a></li>
+                        <li><a href="https://www.sjsu.edu/depts/socs/index.htm">Social Sciences, Department of </a></li>
                         <!-- <li><a href="/depts/socs/teach.htm">Social Sciences Teacher Education</a></li> -->
                         <li><a href="https://www.sjsu.edu/socialwork/">Social Work, School of</a></li>
                         <li><a href="https://www.sjsu.edu/siss/">Sociology, Department of </a></li>
-                        <li>Software (see <a href="*** Broken d:505658 http://its.sjsu.edu/services/software/ ***">CSU Licensing Agreements</a>)</li>
+                        <li>Software (see <a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:505658&#32;http://its.sjsu.edu/services/software/&#32;***">CSU Licensing Agreements</a>)</li>
                         <li><a href="http://cmpe.sjsu.edu/bsse/">Software Engineering (BSSE), Bachelor of Science in</a></li>
                         <li><a href="http://www.sourisseauacademy.org/">Sourisseau Academy</a></li>
                         <li><a href="http://www.sjsuspartans.com/">Spartan Athletics<br></a></li>
                         <li><a href="http://spartandaily.com/">Spartan Daily Student Newspaper</a></li>
                         <li><a href="https://www.sjsu.edu/spartanrec/">Spartan Recreation</a></li>
-                        <li><a href="*** Broken d:493961 http://dev.sjsu.edu/spartanshops/ ***">Spartan Shops</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:493961&#32;http://dev.sjsu.edu/spartanshops/&#32;***">Spartan Shops</a></li>
                         <li><a href="https://www.sjsu.edu/spartansforsafety/">Spartans for Safety</a></li>
                         <li><a href="https://online.sjsu.edu/index.html">Spartans Online</a></li>
                         <li><a href="https://www.sjsu.edu/specialed/">Special Education Program</a></li>
@@ -934,8 +934,8 @@
                         <li><a href="https://www.sjsu.edu/statistics/">Statistics</a></li>
                         <li><a href="http://sits.sjsu.edu">Steinbeck In the Schools</a></li>
                         <li><a href="https://www.sjsu.edu/steinbeck/index.html">Steinbeck Center</a></li>
-                        <li><a href="/stem">STEM Education</a></li>
-                        <li><a href="/step">STEP (Science, Technology, Engineering and Science Talent Expansion Program)</a></li>
+                        <li><a href="https://www.sjsu.edu/stem">STEM Education</a></li>
+                        <li><a href="https://www.sjsu.edu/step">STEP (Science, Technology, Engineering and Science Talent Expansion Program)</a></li>
                         <li><a href="https://www.sjsu.edu/president/campusinterests/strategicplanning/">Strategic Planning&nbsp;</a></li>
                         <li>Student Advising Center (see <a href="https://www.sjsu.edu/aars/">Academic Advising &amp; Retention Services</a>)</li>
                         <li><a href="https://www.sjsu.edu/studentaffairs/">Student Affairs, Division of</a></li>
@@ -943,41 +943,41 @@
                         <li><a href="https://www.sjsu.edu/studentaffairs/docs/studentconductcode.pdf">Student Discipline Relating To Conduct On State University Campuses (PDF)</a></li>
                         <li><a href="https://www.sjsu.edu/studenthealth/">Student Health Center</a></li>
                         <li><a href="https://www.sjsu.edu/getinvolved/">Student Involvement</a></li>
-                        <li><a href="/sfs">Office of Student and Faculty Success</a></li>
+                        <li><a href="https://www.sjsu.edu/sfs">Office of Student and Faculty Success</a></li>
                         <li><a href="http://studentorgs.sjsu.edu/">Student Organizations</a></li>
                         <li><a href="https://www.sjsu.edu/soar/">Student Outreach and Recruitment, Office of</a></li>
                         <li>Student Life and Leadership (see <a href="https://www.sjsu.edu/getinvolved/">Student Involvement</a>)</li>
-                        <li><a href="https://www.sjsu.edu/students/">Student Resources</a></li>
+                        <li><a href="students/index.html">Student Resources</a></li>
                         <li><a href="http://www.union.sjsu.edu/">Student Union</a></li>
-                        <li><a href="https://www.sjsu.edu/students/">Students</a></li>
+                        <li><a href="students/index.html">Students</a></li>
                         <li><a href="http://www.sal.sjsu.edu/">Studies in American Language</a></li>
                         <li><a href="https://www.sjsu.edu/studyabroad/">Study Abroad</a></li>
                         <li>Surface Transportation Policy Studies, Institute for (IISTPS) (see <a href="http://transweb.sjsu.edu/">Mineta Transportation Institute</a>)</li>
                         <li><a href="https://www.sjsu.edu/sustainability/">Sustainability @ SJSU</a></li>
                         <li><a href="https://www.sjsu.edu/sustainable-cities/index.html">Sustainable Cities Initiative</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="T">T</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/taxinstitute/index.html">Tax Institutes</a></li>
-                        <li><a href="*** Broken d:499043 http://its.sjsu.edu/about/organization/unified-communications/ ***">Telecommunications</a></li>
-                        <li><a href="/trft">Television, Radio, Film and Theatre Arts, Department of</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:499043&#32;http://its.sjsu.edu/about/organization/unified-communications/&#32;***">Telecommunications</a></li>
+                        <li><a href="https://www.sjsu.edu/trft">Television, Radio, Film and Theatre Arts, Department of</a></li>
                         <li><a href="https://testing.sjsu.edu/index.html">Testing and Evaluation</a>&nbsp;&nbsp;</li>
                         <li><a href="https://www.sjsu.edu/theatrearts/index.html">Theatre Arts</a></li>
                         <li><a href="https://www.sjsu.edu/timpany/">Timpany Center</a></li>
                         <li><a href="https://www.sjsu.edu/title4e/">Title IV-E Child Welfare Training Program</a></li>
-                        <li><a href="/siteindex/index.html">Title IX</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/index.html">Title IX</a></li>
                         <li><a href="https://www.sjsu.edu/tobaccofree/index.html">Tobacco Free SJSU</a></li>
                         <li><a href="https://www.sjsu.edu/bursar/services/towercard/">TowerCard</a></li>
                         <li><a href="https://www.sjsu.edu/towerfoundation/">Tower Foundation</a></li>
-                        <li><a href="https://www.sjsu.edu/parking/">Traffic and Parking Operations</a></li>
-                        <li><a href="/siteindex/*** Broken d:491446 http:/www.sjsu.edu/registrar/students/transcripts/ ***">Transcripts</a></li>
-                        <li><a href="/trs">Transition and Retention Services</a></li>
+                        <li><a href="parking/index.html">Traffic and Parking Operations</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:491446&#32;http:/www.sjsu.edu/registrar/students/transcripts/&#32;***">Transcripts</a></li>
+                        <li><a href="https://www.sjsu.edu/trs">Transition and Retention Services</a></li>
                         <li><a href="http://artic.sjsu.edu/home/artic.html">Transfer Planning</a></li>
                         <li><a href="http://as.sjsu.edu/asts/">Transportation Solutions</a></li>
                         <li><a href="https://www.sjsu.edu/treatyourselfwell/">Treat Yourself Well</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="U">U</h3>
                      <ul>
                         <li><a style="line-height: 1.5;" href="https://www.sjsu.edu/ugs/faculty/curriculum/forms/">Undergraduate Curriculum Forms</a></li>
@@ -987,7 +987,7 @@
                         <li><a href="https://www.sjsu.edu/uccd/index.html">University Council of Chairs and Directors</a></li>
                         <li><a href="http://www.union.sjsu.edu/Upcoming_Events/upcoming_events.html">University Entertainment Upcoming Events</a></li>
                         <li><a href="http://experts.sjsu.edu/">University Experts</a></li>
-                        <li><a href="/helpdesk/">University Help desk</a></li>
+                        <li><a href="https://www.sjsu.edu/helpdesk/">University Help desk</a></li>
                         <li><a href="https://www.sjsu.edu/communications/identity/powersource/marks/">University Logo</a></li>
                         <li><a href="https://www.sjsu.edu/communications/index.html">University Marketing &amp; Communications</a></li>
                         <li><a href="https://www.sjsu.edu/ombudsperson/">University Ombudsperson</a></li>
@@ -995,47 +995,47 @@
                         <li><a href="https://www.sjsu.edu/wasc/portfolio2014/">University Portfolio</a></li>
                         <li><a href="https://www.sjsu.edu/urbanplanning/">Urban and Regional Planning</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="V">V</h3>
                      <ul>
                         <li>Veteran Student Services (see <a href="https://www.sjsu.edu/veterans/">Military and Veteran Student Services</a>)</li>
                         <li><a href="https://www.sjsu.edu/at/mp/video_prod/index.html">Video Production</a></li>
                         <li><a href="http://emt.askadmissions.net/sjsu/VIP/">VIP sign-in page</a></li>
                         <li>Violence (see <a href="https://www.sjsu.edu/students/healthandsafety/">Health &amp; Safety Resources</a>)</li>
-                        <li><a href="/hiep">Health Insurance Education Project</a></li>
+                        <li><a href="https://www.sjsu.edu/hiep">Health Insurance Education Project</a></li>
                         <li><a href="https://www.sjsu.edu/president/campusinterests/strategicplanning/">Vision</a></li>
                         <li>Visitor Relations &amp; Admission Counseling (see <a href="https://www.sjsu.edu/soar/">Student Outreach and Recruitment, Office of</a>)</li>
-                        <li><a href="/visualartsadvising">Visual Arts Advising</a></li>
+                        <li><a href="https://www.sjsu.edu/visualartsadvising">Visual Arts Advising</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="W">W</h3>
                      <ul>
                         <li><a href="https://www.sjsu.edu/wasc/">WASC Accreditation</a></li>
-                        <li><a href="/wsq/">Washington Square Magazine</a></li>
-                        <li><a href="/accessibility">Web Accessibility @ SJSU</a></li>
-                        <li><a href="*** Broken d:499069 http://its.sjsu.edu/about/organization/webservices/ ***">Web Services</a></li>
+                        <li><a href="https://www.sjsu.edu/wsq/">Washington Square Magazine</a></li>
+                        <li><a href="https://www.sjsu.edu/accessibility">Web Accessibility @ SJSU</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:499069&#32;http://its.sjsu.edu/about/organization/webservices/&#32;***">Web Services</a></li>
                         <li><a href="https://www.sjsu.edu/wellness/">Wellness &amp; Health Promotion</a></li>
                         <li>Western Association of Schools and Colleges Accreditation (see <a href="https://www.sjsu.edu/wasc/">WASC Accreditation</a>)</li>
                         <li><a href="https://www.sjsu.edu/winter/">Winter Session</a></li>
-                        <li><a href="*** Broken d:512133 http://its.sjsu.edu/services/wireless/ ***">Wireless Network</a></li>
+                        <li><a href="https://www.sjsu.edu/siteindex/***&#32;Broken&#32;d:512133&#32;http://its.sjsu.edu/services/wireless/&#32;***">Wireless Network</a></li>
                         <li><a href="https://www.sjsu.edu/wrc/">Women's Resource Center</a></li>
-                        <li><a href="/depts/socs/woms.htm">Women's Studies</a></li>
+                        <li><a href="https://www.sjsu.edu/depts/socs/woms.htm">Women's Studies</a></li>
                         <li><a href="https://www.sjsu.edu/careercenter/students/diversity-inclusion-belonging/students-with-disabilities/index.html">WorkAbility IV Program</a></li>
                         <li><a href="https://www.sjsu.edu/hr/cp/empl_injury/work_comp/">Worker's Compensation</a></li>
                         <li><a href="https://www.sjsu.edu/wll/">World Languages &amp; Literatures, Department of</a></li>
                         <li><a href="https://www.sjsu.edu/wac/index.html">Writing Across the Curriculum</a></li>
-                        <li><a href="/writingcenter">Writing Center</a></li>
+                        <li><a href="https://www.sjsu.edu/writingcenter">Writing Center</a></li>
                      </ul>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="X">X</h3>
                      <p>&nbsp;</p>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="Y">Y</h3>
                      <p>&nbsp;</p>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      <h3 id="Z">Z</h3>
                      <p>&nbsp;</p>
-                     <p align="right"><a href="#top">top of page</a></p>
+                     <p align="right"><a href="siteindex#top">top of page</a></p>
                      </div>
                </div>
             </div>
@@ -1044,49 +1044,49 @@
                <div class="footList">
 <h3>Information for</h3>
 <ul>
-<li><a href="/alumni_and_community/index.html" onclick="trackLinks('footer','click','Alumni');">Alumni</a></li>
-<li><a href="/students/" onclick="trackLinks('footer','click','Current Students');">Current Students</a></li>
-<li><a href="/giving/" onclick="trackLinks('footer','click','Donors');">Donors</a></li>
-<li><a href="/faculty_and_staff/index.html" onclick="trackLinks('footer','click','Faculty Staff');">Faculty and Staff</a></li>
-<li><a href="/future_students/index.html" onclick="trackLinks('footer','click','Future Students');">Future Students</a></li>
-<li><a href="/discover/research/index.html" onclick="trackLinks('footer','click','Researchers');">Researchers</a></li>
+<li><a href="https://www.sjsu.edu/alumni_and_community/index.html" onclick="trackLinks('footer','click','Alumni');">Alumni</a></li>
+<li><a href="students/index.html" onclick="trackLinks('footer','click','Current Students');">Current Students</a></li>
+<li><a href="giving/index.html" onclick="trackLinks('footer','click','Donors');">Donors</a></li>
+<li><a href="https://www.sjsu.edu/faculty_and_staff/index.html" onclick="trackLinks('footer','click','Faculty Staff');">Faculty and Staff</a></li>
+<li><a href="https://www.sjsu.edu/future_students/index.html" onclick="trackLinks('footer','click','Future Students');">Future Students</a></li>
+<li><a href="https://www.sjsu.edu/discover/research/index.html" onclick="trackLinks('footer','click','Researchers');">Researchers</a></li>
 </ul>
 </div>
 <div class="footList">
 <h3>Colleges</h3>
 <ul>
-<li><a href="/cob/" onclick="trackLinks('footer','click','LCOB');">Business</a></li>
-<li><a href="/education/" onclick="trackLinks('footer','click','COE');">Education</a></li>
-<li><a href="/engineering/" onclick="trackLinks('footer','click','ENG');">Engineering</a></li>
-<li><a href="/cgs/" onclick="trackLinks('footer','click','CGS');">Graduate Studies</a></li>
-<li><a href="/chhs/" onclick="trackLinks('footer','click','CHHS');">Health and Human Sciences</a></li>
-<li><a href="/humanitiesandarts/" onclick="trackLinks('footer','click','CHA');">Humanities and the Arts</a></li>
-<li><a href="/professional/" onclick="trackLinks('footer','click','PE');">Professional Education</a></li>
-<li><a href="/science/" onclick="trackLinks('footer','click','COS');">Science</a></li>
-<li><a href="/socialsciences/" onclick="trackLinks('footer','click','COSS');">Social Sciences</a></li>
+<li><a href="https://www.sjsu.edu/cob/" onclick="trackLinks('footer','click','LCOB');">Business</a></li>
+<li><a href="https://www.sjsu.edu/education/" onclick="trackLinks('footer','click','COE');">Education</a></li>
+<li><a href="https://www.sjsu.edu/engineering/" onclick="trackLinks('footer','click','ENG');">Engineering</a></li>
+<li><a href="https://www.sjsu.edu/cgs/" onclick="trackLinks('footer','click','CGS');">Graduate Studies</a></li>
+<li><a href="https://www.sjsu.edu/chhs/" onclick="trackLinks('footer','click','CHHS');">Health and Human Sciences</a></li>
+<li><a href="https://www.sjsu.edu/humanitiesandarts/" onclick="trackLinks('footer','click','CHA');">Humanities and the Arts</a></li>
+<li><a href="professional/index.html" onclick="trackLinks('footer','click','PE');">Professional Education</a></li>
+<li><a href="https://www.sjsu.edu/science/" onclick="trackLinks('footer','click','COS');">Science</a></li>
+<li><a href="https://www.sjsu.edu/socialsciences/" onclick="trackLinks('footer','click','COSS');">Social Sciences</a></li>
 </ul>
 </div>
 <div class="footList">
 <h3>Quick Links</h3>
 <ul>
-<li><a href="/siteindex" onclick="trackLinks('footer','click','A-Z');">A-Z Index</a></li>
-<li><a href="https://www.sjsu.edu/academics/index.php" onclick="trackLinks('footer','click','Academics');">Academics</a></li>
+<li><a href="https://www.sjsu.edu/siteindex" onclick="trackLinks('footer','click','A-Z');">A-Z Index</a></li>
+<li><a href="academics/index.php" onclick="trackLinks('footer','click','Academics');">Academics</a></li>
 <li><a href="http://www.spartanbookstore.com/" onclick="trackLinks('footer','click','Bookstore');">Bookstore</a></li>
-<li><a href="/adminfinance/about/budget_central/index.html" onclick="trackLinks('footer','click','Budget Central');">Budget Central</a></li>
-<li><a href="https://www.sjsu.edu/classes/calendar/index.php" onclick="trackLinks('footer','click','Calendars');">Calendars</a></li>
+<li><a href="https://www.sjsu.edu/adminfinance/about/budget_central/index.html" onclick="trackLinks('footer','click','Budget Central');">Budget Central</a></li>
+<li><a href="classes/calendar/index.php" onclick="trackLinks('footer','click','Calendars');">Calendars</a></li>
 <li><a href="https://sjsu.instructure.com/" onclick="trackLinks('footer','click','Canvas');">Canvas</a></li>
-<li><a href="https://www.sjsu.edu/careers/index.php" onclick="trackLinks('footer','click','Careers Jobs');">Careers and Jobs</a></li>
+<li><a href="careers/index.php" onclick="trackLinks('footer','click','Careers Jobs');">Careers and Jobs</a></li>
 <li><a href="https://catalog.sjsu.edu/content.php?catoid=12&navoid=4146" onclick="trackLinks('footer','click','Catalog');">Catalog</a></li>
-	<li><a href="https://www.sjsu.edu/sjsucares/get-assistance/" onclick="trackLinks('footer','click','Emergency Food & Housing');">Emergency Food &amp; Housing</a></li>
-		<li><a href="https://www.sjsu.edu/up/index.php" onclick="trackLinks('footer','click','Faculty & Staff');">Faculty &amp; Staff</a></li>
-	<li><a href="https://www.sjsu.edu/president/priorities-and-initiatives/free-speech/index.php" onclick="trackLinks('footer','click','Freedom of Speech');">Freedom of Speech</a></li>
+	<li><a href="sjsucares/get-assistance/index.html" onclick="trackLinks('footer','click','Emergency Food & Housing');">Emergency Food &amp; Housing</a></li>
+		<li><a href="up/index.php" onclick="trackLinks('footer','click','Faculty & Staff');">Faculty &amp; Staff</a></li>
+	<li><a href="president/priorities-and-initiatives/free-speech/index.php" onclick="trackLinks('footer','click','Freedom of Speech');">Freedom of Speech</a></li>
 <li><a href="http://library.sjsu.edu/" onclick="trackLinks('footer','click','King Library');">King Library</a></li>
-	<li><a href="https://www.sjsu.edu/diversity/land-acknowledgement/" onclick="trackLinks('footer','click','Land Acknowledgement');">Land Acknowledgement</a></li>
+	<li><a href="diversity/land-acknowledgement/index.html" onclick="trackLinks('footer','click','Land Acknowledgement');">Land Acknowledgement</a></li>
 	<li><a href="https://blogs.sjsu.edu/newsroom/" onclick="trackLinks('footer','click','NewsCenter');">NewsCenter</a></li>
-	<li><a href="https://www.sjsu.edu/sjsucares/resources/parenting-students.php" onclick="trackLinks('footer','click','Parenting Students');">Parenting Students</a></li>
-<li><a href="/parkingtransportationmaps/index.html" onclick="trackLinks('footer','click','Parking Maps');">Parking and Maps</a></li>
-<li><a href="/privacy/index.php" onclick="trackLinks('footer','click','Privacy Notice');">Privacy</a></li>
-<li><a href="/clery/docs/SJSU-Annual-Security-Report.pdf" onclick="trackLinks('footer','click','Annual Security Report');">Annual Security Report [pdf]</a></li>
+	<li><a href="sjsucares/resources/parenting-students.php" onclick="trackLinks('footer','click','Parenting Students');">Parenting Students</a></li>
+<li><a href="https://www.sjsu.edu/parkingtransportationmaps/index.html" onclick="trackLinks('footer','click','Parking Maps');">Parking and Maps</a></li>
+<li><a href="https://www.sjsu.edu/privacy/index.php" onclick="trackLinks('footer','click','Privacy Notice');">Privacy</a></li>
+<li><a href="clery/docs/SJSU-Annual-Security-Report.pdf" onclick="trackLinks('footer','click','Annual Security Report');">Annual Security Report [pdf]</a></li>
 </ul>
 </div>
 <div class="footList">
@@ -1094,8 +1094,8 @@
 <ul>
 <li><a href="https://www.sjsu.edu/contact/index.php" onclick="trackLinks('footer','click','Contact Form');">Contact Form</a></li>
 <li><a href="http://directory.sjsu.edu" onclick="trackLinks('footer','click','Directory');">Directory</a></li>
-	<li><a href="https://www.sjsu.edu/about/doing-business-with-sjsu.php" onclick="trackLinks('footer','click','Doing Business with SJSU');">Doing Business with SJSU</a></li>
-<li><a href="https://www.sjsu.edu/up/resources/file-a-complaint.php" onclick="trackLinks('footer','click','File a Complaint');">File a Complaint</a></li>
+	<li><a href="about/doing-business-with-sjsu.php" onclick="trackLinks('footer','click','Doing Business with SJSU');">Doing Business with SJSU</a></li>
+<li><a href="up/resources/file-a-complaint.php" onclick="trackLinks('footer','click','File a Complaint');">File a Complaint</a></li>
 <li><a href="https://www.sjsu.edu/titleix/help/report/index.php" onclick="trackLinks('footer','click','Report Title IX');">Report a Title IX Complaint</a></li>
 </ul>
 </div>
@@ -1110,18 +1110,18 @@
          </div>
       </div>
       <!-- JQUERY -->
-<script type="text/javascript" src="/sjsuhome/assets/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="https://www.sjsu.edu/sjsuhome/assets/js/jquery-1.9.1.min.js"></script>
 <!-- Side Navigation -->
-<script type="text/javascript" src="/sjsuhome/assets/js/sidenav.js"></script>
+<script type="text/javascript" src="https://www.sjsu.edu/sjsuhome/assets/js/sidenav.js"></script>
 <!-- Login Link -->
-<script type="text/javascript" src="/sjsuhome/includes/directedit-min.js"></script>
+<script type="text/javascript" src="https://www.sjsu.edu/sjsuhome/includes/directedit-min.js"></script>
 <script type="text/javascript">// <![CDATA[
 document.ready = function(){ directedit(); }
 // ]]></script>
 <!-- LIGHTBOX -->
-<script type="text/javascript" src="/sjsuhome/assets/js/jquery.lightbox-0.5-min.js"></script>
+<script type="text/javascript" src="https://www.sjsu.edu/sjsuhome/assets/js/jquery.lightbox-0.5-min.js"></script>
 <!-- NIVO SLIDER -->
-<script type="text/javascript" src="/sjsuhome/assets/js/jquery.nivo.slider.pack-min.js"></script>
+<script type="text/javascript" src="https://www.sjsu.edu/sjsuhome/assets/js/jquery.nivo.slider.pack-min.js"></script>
 <script type="text/javascript">// <![CDATA[
 $(window).load(function() {
 	    $('#slider').nivoSlider({
@@ -1138,8 +1138,8 @@ $(function() {
 	});
 // ]]></script>
 <!-- HOVERINTENT: MEGANAV -->
-<script type="text/javascript" src="/sjsuhome/assets/js/jquery.hoverIntent-min.js"></script>
-<script type="text/javascript" src="/sjsuhome/assets/js/jquery.meganav-min.js"></script>
+<script type="text/javascript" src="https://www.sjsu.edu/sjsuhome/assets/js/jquery.hoverIntent-min.js"></script>
+<script type="text/javascript" src="https://www.sjsu.edu/sjsuhome/assets/js/jquery.meganav-min.js"></script>
 
 <!-- CPGE Pardot tracking -->
 <script type="text/javascript">

@@ -7,9 +7,9 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-<link rel="stylesheet" href="/aspis/css/foundation.css"/>
+<link rel="stylesheet" href="../../aspis/css/foundation.css"/>
 
-<link rel="stylesheet" href="/aspis/css/campus.css"/>
+<link rel="stylesheet" href="../../aspis/css/campus.css"/>
 
 <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,800" rel="stylesheet"/>
 
@@ -211,12 +211,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PMNG6XV');</script>
 
-<!-- End Google Tag Manager -->	<a id="skiplink" href="#sjsu-maincontent" class="show-for-sr">Skip to main content</a><header id="sjsu-header" class="o-region o-region--header" role="banner">
+<!-- End Google Tag Manager -->	<a id="skiplink" href="latinx-heritage-month.php#sjsu-maincontent" class="show-for-sr">Skip to main content</a><header id="sjsu-header" class="o-region o-region--header" role="banner">
 		<div class="o-wrap--globalnav u-bg--dark">
 			<div class="o-wrap--content">
 				<nav class="o-nav--megamenu show-for-large" role="navigation" aria-label="University nav menu for desktop">
 					<div class="o-nav--megamenu__title">
-						<a class="o-title--global" href="/">San Jos&eacute; State University</a>
+						<a class="o-title--global" href="../../index.html">San Jos&eacute; State University</a>
 					</div>
 					<div id="globalnav-desktop" class="o-nav--megamenu__menu amm-o-nav">
 						<ul class="amm-o-nav__menu">						
@@ -226,78 +226,78 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<div class="o-wrap--amm">
 										<ul class="amm-o-nav__menu">
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/visit/index.php">Visit</a>
+												<a class="amm-o-nav__heading" href="../../visit/index.php">Visit</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/soar/services/campus-tours.php">Campus Tours</a></li>
-													<li class="amm-o-nav__item"><a href="http://www.sjsu.edu/map">Maps</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/parking/">Parking</a></li>
-                                                    <li class="amm-o-nav__item"><a href="https://www.sjsu.edu/visit/silicon-valley.php">Silicon Valley</a></li>
+													<li class="amm-o-nav__item"><a href="../../soar/services/campus-tours.php">Campus Tours</a></li>
+													<li class="amm-o-nav__item"><a href="../../map">Maps</a></li>
+													<li class="amm-o-nav__item"><a href="../../parking/index.html">Parking</a></li>
+                                                    <li class="amm-o-nav__item"><a href="../../visit/silicon-valley.php">Silicon Valley</a></li>
 													<li class="amm-o-nav__item"><a href="https://hammertheatre.com/">Hammer Theatre</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/sjsulovessj/">SJSU Loves SJ</a></li>
+													<li class="amm-o-nav__item"><a href="../../sjsulovessj/index.html">SJSU Loves SJ</a></li>
 												</ul>
 											</li>
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/academics/index.php">Academics</a>
+												<a class="amm-o-nav__heading" href="../../academics/index.php">Academics</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/academics/colleges-and-departments.php">Colleges and <br />Departments</a></li>
+													<li class="amm-o-nav__item"><a href="../../academics/colleges-and-departments.php">Colleges and <br />Departments</a></li>
 													<li class="amm-o-nav__item"><a href="https://catalog.sjsu.edu/content.php?catoid=14&navoid=5107">Majors and <br />Programs</a></li>
-                                                    <li class="amm-o-nav__item"><a href="https://www.sjsu.edu/classes/calendar/index.php">Academic Calendar</a></li>
-                                                    <li class="amm-o-nav__item"><a href="https://www.sjsu.edu/classes/index.php">Classes</a></li>
+                                                    <li class="amm-o-nav__item"><a href="../../classes/calendar/index.php">Academic Calendar</a></li>
+                                                    <li class="amm-o-nav__item"><a href="../../classes/index.php">Classes</a></li>
 													<li class="amm-o-nav__item"><a href="https://library.sjsu.edu/">King Library</a></li>
                                                     
 												</ul>
 											</li>
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/admissions/index.php">Admissions</a>
+												<a class="amm-o-nav__heading" href="../../admissions/index.php">Admissions</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/tuition-and-fees/index.php">Tuition and Fees</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/housing-options/index.php">Housing</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/professional/">Professional Education</a> </li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/global/">International Students</a> </li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/parent-and-family-programs/index.php">Parent and <br />Family Programs</a></li>
+													<li class="amm-o-nav__item"><a href="../../tuition-and-fees/index.php">Tuition and Fees</a></li>
+													<li class="amm-o-nav__item"><a href="../../housing-options/index.php">Housing</a></li>
+													<li class="amm-o-nav__item"><a href="../../professional/index.html">Professional Education</a> </li>
+													<li class="amm-o-nav__item"><a href="../../global/index.html">International Students</a> </li>
+													<li class="amm-o-nav__item"><a href="../../parent-and-family-programs/index.php">Parent and <br />Family Programs</a></li>
                                                 </ul>
 											</li>
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/campus-life/">Campus Life</a>
+												<a class="amm-o-nav__heading" href="../../campus-life/index.html">Campus Life</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/campus-life/health-and-wellness.php">Health and Wellness</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/campus-life/safety.php">Safety</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/sjsucares/">SJSU Cares</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/campus-life/events.php">Events</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/campus-life/traditions.php">Traditions</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/campus-life/sac.php">Student Alumni <br />Connection</a></li>
+													<li class="amm-o-nav__item"><a href="../../campus-life/health-and-wellness.php">Health and Wellness</a></li>
+													<li class="amm-o-nav__item"><a href="../../campus-life/safety.php">Safety</a></li>
+													<li class="amm-o-nav__item"><a href="../../sjsucares/index.html">SJSU Cares</a></li>
+													<li class="amm-o-nav__item"><a href="../../campus-life/events.php">Events</a></li>
+													<li class="amm-o-nav__item"><a href="../../campus-life/traditions.php">Traditions</a></li>
+													<li class="amm-o-nav__item"><a href="../../campus-life/sac.php">Student Alumni <br />Connection</a></li>
 												</ul>
 											</li>
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/about/research/">Research and <br>Innovation</a>
+												<a class="amm-o-nav__heading" href="../../about/research/index.html">Research and <br>Innovation</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="https://www.sjsu.edu/research/">Office of Research</a></li>
-													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="https://www.sjsu.edu/innovation/">Office of Innovation</a></li>
-													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="https://www.sjsu.edu/researchfoundation/">Research Foundation</a></li>
-													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="https://www.sjsu.edu/about/research/student-faculty-collaborations.php">Student-Faculty <br />Collaborations</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/about/research/become-a-research-partner.php">Become a <br />Research Partner</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/research/about/cci/index.php">Centers <br />and Institutes</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="../../research/index.html">Office of Research</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="../../innovation/index.html">Office of Innovation</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="../../researchfoundation/index.html">Research Foundation</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="../../about/research/student-faculty-collaborations.php">Student-Faculty <br />Collaborations</a></li>
+													<li class="amm-o-nav__item"><a href="../../about/research/become-a-research-partner.php">Become a <br />Research Partner</a></li>
+													<li class="amm-o-nav__item"><a href="../../research/about/cci/index.php">Centers <br />and Institutes</a></li>
 												</ul>
 											</li>
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/about/index.php">About</a>
+												<a class="amm-o-nav__heading" href="../../about/index.php">About</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/about/administration-and-leadership.php">Administration <br />and Leadership</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/facts-and-accomplishments/index.php">Facts and <br />Accomplishments</a></li>
+													<li class="amm-o-nav__item"><a href="../../about/administration-and-leadership.php">Administration <br />and Leadership</a></li>
+													<li class="amm-o-nav__item"><a href="../../facts-and-accomplishments/index.php">Facts and <br />Accomplishments</a></li>
 													<li class="amm-o-nav__item"><a href="https://blogs.sjsu.edu/newsroom/">NewsCenter</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/about/partnerships.php">Partnerships</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/transform/">Transformation <br />Defined</a></li>													
+													<li class="amm-o-nav__item"><a href="../../about/partnerships.php">Partnerships</a></li>
+													<li class="amm-o-nav__item"><a href="../../transform/index.html">Transformation <br />Defined</a></li>													
 												</ul>
 											</li>   
 										</ul>
 										<div class="amm-o-nav__identity" style="margin-top:0;">
-											<img class="float-right" src="/aspis/media/brand/logo-we-are-spartans.svg" alt="We Are Spartans"/>							
+											<img class="float-right" src="../../aspis/media/brand/logo-we-are-spartans.svg" alt="We Are Spartans"/>							
 								
 											<ul class="amm-o-nav__app float-right">
-												<li><a href="/online/index.php?utm_source=sjsumainmenu&amp;utm_medium=web&amp;utm_campaign=sjsuonline-navmenu-traffic" class="u-icon--app u-icon--sjsuonline u-color--white">SJSU Online</a></li>
+												<li><a href="../../online/index.php?utm_source=sjsumainmenu&amp;utm_medium=web&amp;utm_campaign=sjsuonline-navmenu-traffic" class="u-icon--app u-icon--sjsuonline u-color--white">SJSU Online</a></li>
 												<li><a href="https://www.sjsuspartans.com" class="u-icon--app u-icon--spirit-mark u-color--white">Athletics</a></li>
 												<li><a href="https://www.sjsu.edu/alumni" class="u-icon--app u-icon--grad-cap u-color--white">Alumni Association</a></li>
-												<li><a href="https://www.sjsu.edu/giving/" class="u-icon--app u-icon--gift u-color--white">Giving to SJSU</a></li>
+												<li><a href="../../giving/index.html" class="u-icon--app u-icon--gift u-color--white">Giving to SJSU</a></li>
 												<li><a href="https://sjsu.instructure.com" class="u-icon--app u-icon--canvas u-color--white">Canvas</a></li>
 												<li><a href="https://one.sjsu.edu" class="u-icon--app u-icon--onesjsu u-color--white">one.SJSU</a></li>    
 											</ul>										
@@ -307,7 +307,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								</div>
 							</li>
 							<li class="amm-o-nav__top-item o-nav__item--search">
-								<a class="amm-o-nav__top-link" href="https://www.sjsu.edu/search/index.html"><span class="u-icon u-icon--search u-color--white">Search</span></a>
+								<a class="amm-o-nav__top-link" href="../../search/index.html"><span class="u-icon u-icon--search u-color--white">Search</span></a>
 								<div class="amm-o-nav__panel">
 									<div class="o-wrap--amm">    
 										<div class="gcse-searchbox-only" data-resultsUrl="https://www.sjsu.edu/search/index.html"></div>
@@ -321,61 +321,61 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 				<nav id="globalnav" class="top-bar o-nav--global hide-for-large" data-topbar role="navigation" aria-label="University nav menu for mobile">
 					<div class="top-bar-title" data-responsive-toggle="globalnav-menu">
-						<button class="o-nav--global__button u-icon--hamburger u-color--white float-left" type="button" data-toggle="globalnav-menu"><span class="show-for-sr">University Menu .</span></button><a href="http://www.sjsu.edu" class="o-title--global"><span class="show-for-sr">Go to</span>SJSU<span class="show-for-sr"> homepage.</span></a>
+						<button class="o-nav--global__button u-icon--hamburger u-color--white float-left" type="button" data-toggle="globalnav-menu"><span class="show-for-sr">University Menu .</span></button><a href="../../index.html" class="o-title--global"><span class="show-for-sr">Go to</span>SJSU<span class="show-for-sr"> homepage.</span></a>
 					</div>
 						<div id="globalnav-menu" style="min-width:100%;">
 							<ul class="vertical menu accordion-menu" data-accordion-menu="data-accordion-menu" data-submenu-toggle="data-submenu-toggle">
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/visit/index.php">Visit</a>    
+									<a href="../../visit/index.php">Visit</a>    
 									<ul class="menu vertical nested">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/soar/services/campus-tours.php">Campus Tours</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="http://www.sjsu.edu/map">Maps</a> </li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/parking/">Parking</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/visit/silicon-valley.php">Silicon Valley</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../soar/services/campus-tours.php">Campus Tours</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../map">Maps</a> </li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../parking/index.html">Parking</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../visit/silicon-valley.php">Silicon Valley</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://hammertheatre.com/">Hammer Theatre</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/sjsulovessj/">SJSU Loves SJ</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../sjsulovessj/index.html">SJSU Loves SJ</a></li>
 									</ul>
 								</li>
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/academics/index.php">Academics</a>
+									<a href="../../academics/index.php">Academics</a>
 									<ul class="menu vertical">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/academics/colleges-and-departments.php">Colleges and Departments</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../academics/colleges-and-departments.php">Colleges and Departments</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://catalog.sjsu.edu/content.php?catoid=14&navoid=5107">Majors and Programs</a> </li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/classes/calendar/index.php">Academic Calendar</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/classes/index.php">Classes</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../classes/calendar/index.php">Academic Calendar</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../classes/index.php">Classes</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://library.sjsu.edu/">King Library</a></li>
 									</ul>    
 								</li>
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/admissions/index.php">Admissions</a>
+									<a href="../../admissions/index.php">Admissions</a>
 									<ul class="menu vertical">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/tuition-and-fees/index.php">Tuition and Fees</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../tuition-and-fees/index.php">Tuition and Fees</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="http://wwww.sjsu.edu/housing-options/index.php">Housing</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/professional/">Professional Education</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/global/">International Students</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/parent-and-family-programs/index.php">Parents and Family Programs</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../professional/index.html">Professional Education</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../global/index.html">International Students</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../parent-and-family-programs/index.php">Parents and Family Programs</a></li>
 									</ul>    
 								</li>
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/campus-life/">Campus Life</a>
+									<a href="../../campus-life/index.html">Campus Life</a>
 									<ul class="menu vertical">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/campus-life/health-and-wellness.php">Health and Wellness</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/campus-life/safety.php">Safety</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/sjsucares/">SJSU Cares</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/campus-life/events.php">Events</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/campus-life/traditions.php">Traditions</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/campus-life/sac.php">Student Alumni Connection</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../campus-life/health-and-wellness.php">Health and Wellness</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../campus-life/safety.php">Safety</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../sjsucares/index.html">SJSU Cares</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../campus-life/events.php">Events</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../campus-life/traditions.php">Traditions</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../campus-life/sac.php">Student Alumni Connection</a></li>
 									</ul>    
 								</li>
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/about/research/">Research and Innovation</a>
+									<a href="../../about/research/index.html">Research and Innovation</a>
 									<ul class="menu vertical">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/research/">Office of Research</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../research/index.html">Office of Research</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/innovation/}">Office of Innovation</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/researchfoundation/">Research Foundation</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/about/research/student-faculty-collaborations.php">Student-Faculty Collaborations</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/about/research/become-a-research-partner.php">Become a Research Partner</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/research/about/cci/index.php">Centers and Institutes</a> </li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../researchfoundation/index.html">Research Foundation</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../about/research/student-faculty-collaborations.php">Student-Faculty Collaborations</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../about/research/become-a-research-partner.php">Become a Research Partner</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../research/about/cci/index.php">Centers and Institutes</a> </li>
 									</ul>    
 								</li>
 								<li class="o-nav--global__item">
@@ -383,16 +383,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 								</li>
 								<li class="o-nav--global__item">
-									<a class="gtm-nav--global-mobile" href="/online/index.php?utm_source=sjsumainmenu-mobile&amp;utm_medium=web&amp;utm_campaign=sjsuonline-navmenu-traffic">SJSU Online</a>
+									<a class="gtm-nav--global-mobile" href="../../online/index.php?utm_source=sjsumainmenu-mobile&amp;utm_medium=web&amp;utm_campaign=sjsuonline-navmenu-traffic">SJSU Online</a>
 								</li>
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/about/index.php">About</a>
+									<a href="../../about/index.php">About</a>
 									<ul class="menu vertical">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/about/administration-and-leadership.php">Administration <br />and Leadership</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/facts-and-accomplishments/index.php">Facts and <br />Accomplishments</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../about/administration-and-leadership.php">Administration <br />and Leadership</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../facts-and-accomplishments/index.php">Facts and <br />Accomplishments</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://blogs.sjsu.edu/newsroom/">NewsCenter</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/about/partnerships.php">Partnerships</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/transform/">Transformation <br />Defined</a></li>									
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../about/partnerships.php">Partnerships</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../../transform/index.html">Transformation <br />Defined</a></li>									
 									</ul>
 								</li>
 							</ul>						
@@ -405,7 +405,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="o-wrap--content">
                <nav role="navigation" id="breadcrumb" class="o-nav--breadcrumb clearfix" aria-label="breadcrumb">
                   <ol class="o-nav--breadcrumb__menu"><!--Text value is blank-->
-                     <li class="o-nav--breadcrumb__item"><a href="https://www.sjsu.edu/">Home</a></li>
+                     <li class="o-nav--breadcrumb__item"><a href="../../index.html">Home</a></li>
                      <li class="o-nav--breadcrumb__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/">Chicanx/Latinx Student Success Center</a></li>
                      <li class="o-nav--breadcrumb__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/events/">Events</a></li>
                      <li class="o-nav--breadcrumb__item"><a aria-current="page">Latinx Heritage Month</a></li>
@@ -426,33 +426,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </div>
          <div id="sitenav-mobile-menu" style="min-width:100%">
             <ul class="vertical menu accordion-menu" data-accordion-menu="data-accordion-menu" data-submenu-toggle="data-submenu-toggle">
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/services.php">Services</a></li>
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/adelante.php">Adelante Program</a></li>
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/chicanxlatinxssc/events/index.php">Events</a><ul class="menu">
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/events/index.php">Events</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/events/latinx-heritage-month.php">Latinx Heritage Month</a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/services.php">Services</a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/adelante.php">Adelante Program</a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/chicanxlatinxssc/events/index.php">Events</a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/events/index.php">Events</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="latinx-heritage-month.php">Latinx Heritage Month</a></li>
                   </ul>
                </li>
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/chicanxlatinxssc/resources/index.php">Resources</a><ul class="menu">
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/resources/index.php">Resources</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/resources/campus-resources.php">Campus Resources</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/resources/community-resources.php">Community Resources</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/resources/scholarships.php">Scholarships</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/resources/student-organizations.php">Student Organizations</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/resources/professional-organizations.php">Professional Organizations</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/chicanxlatinxssc/resources/podcast/index.php">Podcast </a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/chicanxlatinxssc/resources/index.php">Resources</a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/resources/index.php">Resources</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/resources/campus-resources.php">Campus Resources</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/resources/community-resources.php">Community Resources</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/resources/scholarships.php">Scholarships</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/resources/student-organizations.php">Student Organizations</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/resources/professional-organizations.php">Professional Organizations</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/chicanxlatinxssc/resources/podcast/index.php">Podcast </a></li>
                   </ul>
                </li>
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/chicanxlatinxssc/about/index.php">About</a><ul class="menu">
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/about/index.php">About</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/about/what-we-do.php">What We Do </a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/about/contact-us.php">Contact Us </a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/about/get-involved.php">Get Involved </a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/about/photo-gallery.php">Photo Gallery</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/about/faq.php">FAQ</a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/chicanxlatinxssc/about/index.php">About</a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/about/index.php">About</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/about/what-we-do.php">What We Do </a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/about/contact-us.php">Contact Us </a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/about/get-involved.php">Get Involved </a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/about/photo-gallery.php">Photo Gallery</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/about/faq.php">FAQ</a></li>
                   </ul>
                </li>
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/chicanxlatinxssc/chicano-commencement.php">SJSU Chicano Commencement </a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/chicanxlatinxssc/chicano-commencement.php">SJSU Chicano Commencement </a></li>
             </ul>
          </div>
       </nav>
@@ -461,30 +461,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <div class="o-wrap--content">
       <nav id="sitenav" class="o-nav--site" role="navigation" aria-label="Site nav menu">
          <ul class="dropdown menu" data-dropdown-menu="data-dropdown-menu">
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/chicanxlatinxssc/services.php">Services</a></li>
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/chicanxlatinxssc/adelante.php">Adelante&nbsp;Program</a></li>
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/chicanxlatinxssc/events/index.php">Events</a><ul class="menu">
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/events/latinx-heritage-month.php" class="gtm-nav--site">Latinx&nbsp;Heritage&nbsp;Month</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/chicanxlatinxssc/services.php">Services</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/chicanxlatinxssc/adelante.php">Adelante&nbsp;Program</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/chicanxlatinxssc/events/index.php">Events</a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="latinx-heritage-month.php" class="gtm-nav--site">Latinx&nbsp;Heritage&nbsp;Month</a></li>
                </ul>
             </li>
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/chicanxlatinxssc/resources/index.php">Resources</a><ul class="menu">
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/resources/campus-resources.php" class="gtm-nav--site">Campus&nbsp;Resources</a></li>
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/resources/community-resources.php" class="gtm-nav--site">Community&nbsp;Resources</a></li>
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/resources/scholarships.php" class="gtm-nav--site">Scholarships</a></li>
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/resources/student-organizations.php" class="gtm-nav--site">Student&nbsp;Organizations</a></li>
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/resources/professional-organizations.php" class="gtm-nav--site">Professional&nbsp;Organizations</a></li>
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/resources/podcast/index.php" class="gtm-nav--site">Podcast&nbsp;</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/chicanxlatinxssc/resources/index.php">Resources</a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/campus-resources.php" class="gtm-nav--site">Campus&nbsp;Resources</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/community-resources.php" class="gtm-nav--site">Community&nbsp;Resources</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/scholarships.php" class="gtm-nav--site">Scholarships</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/student-organizations.php" class="gtm-nav--site">Student&nbsp;Organizations</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/professional-organizations.php" class="gtm-nav--site">Professional&nbsp;Organizations</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/podcast/index.php" class="gtm-nav--site">Podcast&nbsp;</a></li>
                </ul>
             </li>
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/chicanxlatinxssc/about/index.php">About</a><ul class="menu">
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/about/what-we-do.php" class="gtm-nav--site">What&nbsp;We&nbsp;Do&nbsp;</a></li>
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/about/contact-us.php" class="gtm-nav--site">Contact&nbsp;Us&nbsp;</a></li>
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/about/get-involved.php" class="gtm-nav--site">Get&nbsp;Involved&nbsp;</a></li>
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/about/photo-gallery.php" class="gtm-nav--site">Photo&nbsp;Gallery</a></li>
-                  <li class="o-nav--site__item"><a href="/chicanxlatinxssc/about/faq.php" class="gtm-nav--site">FAQ</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/chicanxlatinxssc/about/index.php">About</a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/what-we-do.php" class="gtm-nav--site">What&nbsp;We&nbsp;Do&nbsp;</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/contact-us.php" class="gtm-nav--site">Contact&nbsp;Us&nbsp;</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/get-involved.php" class="gtm-nav--site">Get&nbsp;Involved&nbsp;</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/photo-gallery.php" class="gtm-nav--site">Photo&nbsp;Gallery</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/faq.php" class="gtm-nav--site">FAQ</a></li>
                </ul>
             </li>
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/chicanxlatinxssc/chicano-commencement.php">SJSU&nbsp;Chicano&nbsp;Commencement&nbsp;</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/chicanxlatinxssc/chicano-commencement.php">SJSU&nbsp;Chicano&nbsp;Commencement&nbsp;</a></li>
          </ul>
       </nav>
    </div>
@@ -492,7 +492,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          <div class="o-region--maincontent__main">
             <main id="sjsu-maincontent" role="main">
                <h1 class="o-title--content">Latinx Heritage Month</h1>
-               <p><img title="Latinx Heritage Month Calendar" src="/chicanxlatinxssc/pics/Latinx%20Heritage%20Month%202024.jpg" alt="Latinx Heritage Month Calendar "></p>
+               <p><img title="Latinx Heritage Month Calendar" src="https://www.sjsu.edu/chicanxlatinxssc/pics/Latinx%20Heritage%20Month%202024.jpg" alt="Latinx Heritage Month Calendar "></p>
                
                <p>SJSU celebrates Latinx Heritage Month (September 15-October 15) by offering an array
                   of programs and events that bring awareness to the diverse and rich cultures, histories,
@@ -512,7 +512,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                
                <p><a href="https://drive.google.com/file/d/1dZziAqDPyX7FylvJyk5RqL8JBWGLbiBP/view?usp=drive_link">Download the Latinx Heritage Month 2024 Calendar</a></p>
                
-               <p><a title="Latinx Heritage Month Zoom Background" href="/chicanxlatinxssc/pics/Latinx%20Heritage%20Month%202024-Zoom%20Background.jpg">Download the Latinx Heritage Month Zoom Background</a></p>
+               <p><a title="Latinx Heritage Month Zoom Background" href="https://www.sjsu.edu/chicanxlatinxssc/pics/Latinx%20Heritage%20Month%202024-Zoom%20Background.jpg">Download the Latinx Heritage Month Zoom Background</a></p>
                
                <p>&nbsp;</p>
                
@@ -526,30 +526,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          <div class="o-region o-region--maincontent__nav">
    <nav id="sjsu-localnav" class="o-nav--local hide-for-small-only" role="navigation" aria-label="Local nav menu">
       <ul class="vertical menu">
-         <li class="o-nav--local__item"><a href="/chicanxlatinxssc/services.php" class="gtm-nav--local">Services</a></li>
-         <li class="o-nav--local__item"><a href="/chicanxlatinxssc/adelante.php" class="gtm-nav--local">Adelante Program</a></li>
-         <li class="o-nav--local__item"><a href="/chicanxlatinxssc/events/index.php" class="gtm-nav--local">Events</a><ul class="nested vertical menu">
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/events/latinx-heritage-month.php" class="gtm-nav--local">Latinx Heritage Month</a></li>
+         <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/services.php" class="gtm-nav--local">Services</a></li>
+         <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/adelante.php" class="gtm-nav--local">Adelante Program</a></li>
+         <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/events/index.php" class="gtm-nav--local">Events</a><ul class="nested vertical menu">
+               <li class="o-nav--local__item"><a href="latinx-heritage-month.php" class="gtm-nav--local">Latinx Heritage Month</a></li>
             </ul>
          </li>
-         <li class="o-nav--local__item"><a href="/chicanxlatinxssc/resources/index.php" class="gtm-nav--local">Resources</a><ul class="nested vertical menu">
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/resources/campus-resources.php" class="gtm-nav--local">Campus Resources</a></li>
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/resources/community-resources.php" class="gtm-nav--local">Community Resources</a></li>
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/resources/scholarships.php" class="gtm-nav--local">Scholarships</a></li>
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/resources/student-organizations.php" class="gtm-nav--local">Student Organizations</a></li>
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/resources/professional-organizations.php" class="gtm-nav--local">Professional Organizations</a></li>
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/resources/podcast/index.php" class="gtm-nav--local">Podcast </a></li>
+         <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/index.php" class="gtm-nav--local">Resources</a><ul class="nested vertical menu">
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/campus-resources.php" class="gtm-nav--local">Campus Resources</a></li>
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/community-resources.php" class="gtm-nav--local">Community Resources</a></li>
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/scholarships.php" class="gtm-nav--local">Scholarships</a></li>
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/student-organizations.php" class="gtm-nav--local">Student Organizations</a></li>
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/professional-organizations.php" class="gtm-nav--local">Professional Organizations</a></li>
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/resources/podcast/index.php" class="gtm-nav--local">Podcast </a></li>
             </ul>
          </li>
-         <li class="o-nav--local__item"><a href="/chicanxlatinxssc/about/index.php" class="gtm-nav--local">About</a><ul class="nested vertical menu">
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/about/what-we-do.php" class="gtm-nav--local">What We Do </a></li>
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/about/contact-us.php" class="gtm-nav--local">Contact Us </a></li>
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/about/get-involved.php" class="gtm-nav--local">Get Involved </a></li>
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/about/photo-gallery.php" class="gtm-nav--local">Photo Gallery</a></li>
-               <li class="o-nav--local__item"><a href="/chicanxlatinxssc/about/faq.php" class="gtm-nav--local">FAQ</a></li>
+         <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/index.php" class="gtm-nav--local">About</a><ul class="nested vertical menu">
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/what-we-do.php" class="gtm-nav--local">What We Do </a></li>
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/contact-us.php" class="gtm-nav--local">Contact Us </a></li>
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/get-involved.php" class="gtm-nav--local">Get Involved </a></li>
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/photo-gallery.php" class="gtm-nav--local">Photo Gallery</a></li>
+               <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/about/faq.php" class="gtm-nav--local">FAQ</a></li>
             </ul>
          </li>
-         <li class="o-nav--local__item"><a href="/chicanxlatinxssc/chicano-commencement.php" class="gtm-nav--local">SJSU Chicano Commencement </a></li>
+         <li class="o-nav--local__item"><a href="https://www.sjsu.edu/chicanxlatinxssc/chicano-commencement.php" class="gtm-nav--local">SJSU Chicano Commencement </a></li>
       </ul>
    </nav>
 </div></div>
@@ -578,7 +578,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
    </div>
 </aside>
-<img class="o-coin" src="/aspis/media/brand/icon-spartan-withbackground.svg" alt=""/>
+<img class="o-coin" src="../../aspis/media/brand/icon-spartan-withbackground.svg" alt=""/>
 <div class="o-wrap--footer">
 	<div class="o-wrap--content">        
 		<footer id="footer" class="o-region--footer" role="contentinfo">
@@ -595,11 +595,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 
 			<div class="o-region--footer__address">
-				<p><img src="/aspis/media/brand/logo-sjsu.svg" alt="SJSU"/></p>
+				<p><img src="../../aspis/media/brand/logo-sjsu.svg" alt="SJSU"/></p>
 				<ul class="vertical menu">
 					<li class="o-region--footer__item"><a rel="nofollow" class="o-region--footer__university-address u-icon--location u-color--white u-icon gtm-footer--link" href="https://goo.gl/maps/8PBZPkKH15WVnq396">One Washington Square<br/>San José, CA 95192</a></li>
 					<li class="o-region--footer__item"><a href="tel:4089241000" rel="nofollow" class="o-region--footer__university-phone u-icon--phone u-color--white u-icon gtm-footer--link">408-924-1000</a></li>
-					<li class="o-region--footer__item" style="padding-top:2rem;"><a href="/online/index.php" class="gtm-footer--link u-icon u-icon--sjsuonline u-color--white" style="padding-left:2rem;">SJSU Online</a></li>
+					<li class="o-region--footer__item" style="padding-top:2rem;"><a href="../../online/index.php" class="gtm-footer--link u-icon u-icon--sjsuonline u-color--white" style="padding-left:2rem;">SJSU Online</a></li>
 				</ul>
 				<ul class="vertical menu">
 					<li class="o-region--footer__item"><span id="directedit">&nbsp;</span></li>
@@ -607,12 +607,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 			<div class="o-region--footer__quicklinks">
 				<ul class="vertical menu large-horizontal">
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/accessibility/index.php" class="gtm-footer--link">Accessibility</a></li>
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/aiie/accreditation/index.php" class="gtm-footer--link">Accreditation</a></li>
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/titleix/index.php" class="gtm-footer--link">Title IX</a></li>					
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/diversity/index.php" class="gtm-footer--link">Diversity</a></li>
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/diversity/land-acknowledgement/" class="gtm-footer--link">Land Acknowledgement</a></li>
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/privacy/" class="gtm-footer--link">Privacy</a></li>
+					<li class="o-region--footer__item"><a href="../../accessibility/index.php" class="gtm-footer--link">Accessibility</a></li>
+					<li class="o-region--footer__item"><a href="../../aiie/accreditation/index.php" class="gtm-footer--link">Accreditation</a></li>
+					<li class="o-region--footer__item"><a href="../../titleix/index.php" class="gtm-footer--link">Title IX</a></li>					
+					<li class="o-region--footer__item"><a href="../../diversity/index.php" class="gtm-footer--link">Diversity</a></li>
+					<li class="o-region--footer__item"><a href="../../diversity/land-acknowledgement/index.html" class="gtm-footer--link">Land Acknowledgement</a></li>
+					<li class="o-region--footer__item"><a href="../../privacy/index.html" class="gtm-footer--link">Privacy</a></li>
 				</ul>
 			</div>
 
@@ -620,34 +620,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="o-region--footer__list">
 					<h3 class="o-region--footer__heading">Colleges</h3>
 					<ul class="vertical menu">
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/cob/index.php" class="gtm-footer--link">Business</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/education/index.php" class="gtm-footer--link">Education</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/engineering/index.php" class="gtm-footer--link">Engineering</a></li>
-                		<li class="o-region--footer__item"><a href="https://www.sjsu.edu/cgs/index.php" class="gtm-footer--link">Graduate Studies</a></li>	
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/chhs/index.php" class="gtm-footer--link">Health and Human Sciences</a></li>						
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/humanitiesandarts/index.php" class="gtm-footer--link">Humanities and the Arts</a></li>
+						<li class="o-region--footer__item"><a href="../../cob/index.php" class="gtm-footer--link">Business</a></li>
+						<li class="o-region--footer__item"><a href="../../education/index.php" class="gtm-footer--link">Education</a></li>
+						<li class="o-region--footer__item"><a href="../../engineering/index.php" class="gtm-footer--link">Engineering</a></li>
+                		<li class="o-region--footer__item"><a href="../../cgs/index.php" class="gtm-footer--link">Graduate Studies</a></li>	
+						<li class="o-region--footer__item"><a href="../../chhs/index.php" class="gtm-footer--link">Health and Human Sciences</a></li>						
+						<li class="o-region--footer__item"><a href="../../humanitiesandarts/index.php" class="gtm-footer--link">Humanities and the Arts</a></li>
 						<li class="o-region--footer__item"><a href="https://sjsu.edu/professional/" class="gtm-footer--link">Professional Education</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/science/index.php" class="gtm-footer--link">Science</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/socialsciences/index.php" class="gtm-footer--link">Social Science</a></li>
+						<li class="o-region--footer__item"><a href="../../science/index.php" class="gtm-footer--link">Science</a></li>
+						<li class="o-region--footer__item"><a href="../../socialsciences/index.php" class="gtm-footer--link">Social Science</a></li>
 					</ul>
 				</div>
 				<div class="o-region--footer__list">
 					<h3 class="o-region--footer__heading">Resources</h3>
 					<ul class="vertical menu">
 						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/siteindex" class="gtm-footer--link">A-Z Index</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/clery/docs/SJSU-Annual-Security-Report.pdf" class="gtm-footer--link">Annual Security Report [pdf]</a></li>
+						<li class="o-region--footer__item"><a href="../../clery/docs/SJSU-Annual-Security-Report.pdf" class="gtm-footer--link">Annual Security Report [pdf]</a></li>
 						<li class="o-region--footer__item"><a href="https://www.spartanbookstore.com/" class="gtm-footer--link">Bookstore</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/classes/calendar/index.php" class="gtm-footer--link">Calendars</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/careers/index.php" class="gtm-footer--link">Careers and Jobs</a></li>
+						<li class="o-region--footer__item"><a href="../../classes/calendar/index.php" class="gtm-footer--link">Calendars</a></li>
+						<li class="o-region--footer__item"><a href="../../careers/index.php" class="gtm-footer--link">Careers and Jobs</a></li>
 						<li class="o-region--footer__item"><a href="https://catalog.sjsu.edu/index.php" class="gtm-footer--link">Catalog</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/students/" class="gtm-footer--link">Current Students</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/sjsucares/get-assistance/" class="gtm-footer--link">Emergency Food &amp; Housing</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/up/index.php" class="gtm-footer--link">Faculty &amp; Staff</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/president/priorities-and-initiatives/free-speech/index.php" class="gtm-footer--link">Freedom of Speech</a></li>
+						<li class="o-region--footer__item"><a href="../../students/index.html" class="gtm-footer--link">Current Students</a></li>
+						<li class="o-region--footer__item"><a href="../../sjsucares/get-assistance/index.html" class="gtm-footer--link">Emergency Food &amp; Housing</a></li>
+						<li class="o-region--footer__item"><a href="../../up/index.php" class="gtm-footer--link">Faculty &amp; Staff</a></li>
+						<li class="o-region--footer__item"><a href="../../president/priorities-and-initiatives/free-speech/index.php" class="gtm-footer--link">Freedom of Speech</a></li>
 						<li class="o-region--footer__item"><a href="https://library.sjsu.edu/" class="gtm-footer--link">King Library</a></li>
 						<li class="o-region--footer__item"><a href="https://blogs.sjsu.edu/newsroom/" class="gtm-footer--link">NewsCenter</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/sjsucares/resources/parenting-students.php" class="gtm-footer--link">Parenting Students</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/parking/index.php" class="gtm-footer--link">Parking and Maps</a></li>
+						<li class="o-region--footer__item"><a href="../../sjsucares/resources/parenting-students.php" class="gtm-footer--link">Parenting Students</a></li>
+						<li class="o-region--footer__item"><a href="../../parking/index.php" class="gtm-footer--link">Parking and Maps</a></li>
 					</ul>
 				</div>
 				<div class="o-region--footer__list">
@@ -655,10 +655,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<ul class="vertical menu">
 						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/contact/index.php" class="gtm-footer--link">Contact Form</a></li>
 						<li class="o-region--footer__item"><a href="https://directory.sjsu.edu/" class="gtm-footer--link">Directory</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/about/doing-business-with-sjsu.php" class="gtm-footer--link">Doing Business with SJSU</a></li>
+						<li class="o-region--footer__item"><a href="../../about/doing-business-with-sjsu.php" class="gtm-footer--link">Doing Business with SJSU</a></li>
 						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/emergency" class="gtm-footer--link">Emergency Info</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/up/resources/file-a-complaint.php" class="gtm-footer--link">File a Complaint</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/titleixeo/make-a-report/index.php" class="gtm-footer--link">Report a Title IX Complaint</a></li>
+						<li class="o-region--footer__item"><a href="../../up/resources/file-a-complaint.php" class="gtm-footer--link">File a Complaint</a></li>
+						<li class="o-region--footer__item"><a href="../../titleixeo/make-a-report/index.php" class="gtm-footer--link">Report a Title IX Complaint</a></li>
 					</ul>
 				</div>
 			</div>
@@ -667,10 +667,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div><!-- /wrap.content -->
 </div><!-- /wrap.footer -->
 <span class="u-gradientbar--footer"></span>  
-<script src="/aspis/js/vendor/jquery.js"></script>
-<script src="/aspis/js/vendor/what-input.js"></script>
-<script src="/aspis/js/vendor/foundation.js"></script>		
-<script src="/aspis/js/vendor/jquery-accessibleMegaMenu.js"></script>
+<script src="../../aspis/js/vendor/jquery.js"></script>
+<script src="../../aspis/js/vendor/what-input.js"></script>
+<script src="../../aspis/js/vendor/foundation.js"></script>		
+<script src="../../aspis/js/vendor/jquery-accessibleMegaMenu.js"></script>
 
 <script>
 	$(document).foundation();	
@@ -694,7 +694,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		openClass: "open"
 	});
 </script>
-<script src="/aspis/js/vendor/direct-edit.js"></script>
+<script src="../../aspis/js/vendor/direct-edit.js"></script>
 <script>
 $(function() {
 	

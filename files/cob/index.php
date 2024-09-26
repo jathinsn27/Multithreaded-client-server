@@ -7,9 +7,9 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-<link rel="stylesheet" href="/aspis/css/foundation.css"/>
+<link rel="stylesheet" href="../aspis/css/foundation.css"/>
 
-<link rel="stylesheet" href="/aspis/css/campus.css"/>
+<link rel="stylesheet" href="../aspis/css/campus.css"/>
 
 <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,800" rel="stylesheet"/>
 
@@ -177,7 +177,7 @@
 
 <!-- site: www --><script type="text/javascript">
 			var page_url="https://www.sjsu.edu/cob/index.php";
-		</script><script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0102/3509.js" async></script><title>Lucas College and Graduate School of Business</title>
+		</script><script type="text/javascript" src="https://script.crazyegg.com/pages/scripts/0102/3509.js" async></script><title>Lucas College and Graduate School of Business</title>
       <meta name="Description" content="Lucas College and Graduate School of Business  - Powering Silicon Valley  We provide the resources, skills, and opportunities for students in the Bay Area to succeed in the Silicon Valley—one of the most thriving, competitive and innovative economic regions in the world—and beyond.">
       <meta name="Keywords" content="Business degree, university, powering silicon valley, tax, cpa, marketing, management, higher education, business, accounting, entrepreneurship, bay area business school, sjsu business school, san jose business school, business degree programs, innovative business school, cool business programs, bay area business school"><script>
 					var currentNavigationStart = "/cob/";
@@ -213,12 +213,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PMNG6XV');</script>
 
-<!-- End Google Tag Manager -->	<a id="skiplink" href="#sjsu-maincontent" class="show-for-sr">Skip to main content</a><header id="sjsu-header" class="o-region o-region--header" role="banner">
+<!-- End Google Tag Manager -->	<a id="skiplink" href="index.php#sjsu-maincontent" class="show-for-sr">Skip to main content</a><header id="sjsu-header" class="o-region o-region--header" role="banner">
 		<div class="o-wrap--globalnav u-bg--dark">
 			<div class="o-wrap--content">
 				<nav class="o-nav--megamenu show-for-large" role="navigation" aria-label="University nav menu for desktop">
 					<div class="o-nav--megamenu__title">
-						<a class="o-title--global" href="/">San Jos&eacute; State University</a>
+						<a class="o-title--global" href="../index.html">San Jos&eacute; State University</a>
 					</div>
 					<div id="globalnav-desktop" class="o-nav--megamenu__menu amm-o-nav">
 						<ul class="amm-o-nav__menu">						
@@ -228,78 +228,78 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<div class="o-wrap--amm">
 										<ul class="amm-o-nav__menu">
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/visit/index.php">Visit</a>
+												<a class="amm-o-nav__heading" href="../visit/index.php">Visit</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/soar/services/campus-tours.php">Campus Tours</a></li>
-													<li class="amm-o-nav__item"><a href="http://www.sjsu.edu/map">Maps</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/parking/">Parking</a></li>
-                                                    <li class="amm-o-nav__item"><a href="https://www.sjsu.edu/visit/silicon-valley.php">Silicon Valley</a></li>
+													<li class="amm-o-nav__item"><a href="../soar/services/campus-tours.php">Campus Tours</a></li>
+													<li class="amm-o-nav__item"><a href="../map">Maps</a></li>
+													<li class="amm-o-nav__item"><a href="../parking/index.html">Parking</a></li>
+                                                    <li class="amm-o-nav__item"><a href="../visit/silicon-valley.php">Silicon Valley</a></li>
 													<li class="amm-o-nav__item"><a href="https://hammertheatre.com/">Hammer Theatre</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/sjsulovessj/">SJSU Loves SJ</a></li>
+													<li class="amm-o-nav__item"><a href="../sjsulovessj/index.html">SJSU Loves SJ</a></li>
 												</ul>
 											</li>
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/academics/index.php">Academics</a>
+												<a class="amm-o-nav__heading" href="../academics/index.php">Academics</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/academics/colleges-and-departments.php">Colleges and <br />Departments</a></li>
+													<li class="amm-o-nav__item"><a href="../academics/colleges-and-departments.php">Colleges and <br />Departments</a></li>
 													<li class="amm-o-nav__item"><a href="https://catalog.sjsu.edu/content.php?catoid=14&navoid=5107">Majors and <br />Programs</a></li>
-                                                    <li class="amm-o-nav__item"><a href="https://www.sjsu.edu/classes/calendar/index.php">Academic Calendar</a></li>
-                                                    <li class="amm-o-nav__item"><a href="https://www.sjsu.edu/classes/index.php">Classes</a></li>
+                                                    <li class="amm-o-nav__item"><a href="../classes/calendar/index.php">Academic Calendar</a></li>
+                                                    <li class="amm-o-nav__item"><a href="../classes/index.php">Classes</a></li>
 													<li class="amm-o-nav__item"><a href="https://library.sjsu.edu/">King Library</a></li>
                                                     
 												</ul>
 											</li>
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/admissions/index.php">Admissions</a>
+												<a class="amm-o-nav__heading" href="../admissions/index.php">Admissions</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/tuition-and-fees/index.php">Tuition and Fees</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/housing-options/index.php">Housing</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/professional/">Professional Education</a> </li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/global/">International Students</a> </li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/parent-and-family-programs/index.php">Parent and <br />Family Programs</a></li>
+													<li class="amm-o-nav__item"><a href="../tuition-and-fees/index.php">Tuition and Fees</a></li>
+													<li class="amm-o-nav__item"><a href="../housing-options/index.php">Housing</a></li>
+													<li class="amm-o-nav__item"><a href="../professional/index.html">Professional Education</a> </li>
+													<li class="amm-o-nav__item"><a href="../global/index.html">International Students</a> </li>
+													<li class="amm-o-nav__item"><a href="../parent-and-family-programs/index.php">Parent and <br />Family Programs</a></li>
                                                 </ul>
 											</li>
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/campus-life/">Campus Life</a>
+												<a class="amm-o-nav__heading" href="../campus-life/index.html">Campus Life</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/campus-life/health-and-wellness.php">Health and Wellness</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/campus-life/safety.php">Safety</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/sjsucares/">SJSU Cares</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/campus-life/events.php">Events</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/campus-life/traditions.php">Traditions</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/campus-life/sac.php">Student Alumni <br />Connection</a></li>
+													<li class="amm-o-nav__item"><a href="../campus-life/health-and-wellness.php">Health and Wellness</a></li>
+													<li class="amm-o-nav__item"><a href="../campus-life/safety.php">Safety</a></li>
+													<li class="amm-o-nav__item"><a href="../sjsucares/index.html">SJSU Cares</a></li>
+													<li class="amm-o-nav__item"><a href="../campus-life/events.php">Events</a></li>
+													<li class="amm-o-nav__item"><a href="../campus-life/traditions.php">Traditions</a></li>
+													<li class="amm-o-nav__item"><a href="../campus-life/sac.php">Student Alumni <br />Connection</a></li>
 												</ul>
 											</li>
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/about/research/">Research and <br>Innovation</a>
+												<a class="amm-o-nav__heading" href="../about/research/index.html">Research and <br>Innovation</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="https://www.sjsu.edu/research/">Office of Research</a></li>
-													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="https://www.sjsu.edu/innovation/">Office of Innovation</a></li>
-													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="https://www.sjsu.edu/researchfoundation/">Research Foundation</a></li>
-													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="https://www.sjsu.edu/about/research/student-faculty-collaborations.php">Student-Faculty <br />Collaborations</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/about/research/become-a-research-partner.php">Become a <br />Research Partner</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/research/about/cci/index.php">Centers <br />and Institutes</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="../research/index.html">Office of Research</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="../innovation/index.html">Office of Innovation</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="../researchfoundation/index.html">Research Foundation</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="../about/research/student-faculty-collaborations.php">Student-Faculty <br />Collaborations</a></li>
+													<li class="amm-o-nav__item"><a href="../about/research/become-a-research-partner.php">Become a <br />Research Partner</a></li>
+													<li class="amm-o-nav__item"><a href="../research/about/cci/index.php">Centers <br />and Institutes</a></li>
 												</ul>
 											</li>
 											<li class="amm-o-nav__group">
-												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/about/index.php">About</a>
+												<a class="amm-o-nav__heading" href="../about/index.php">About</a>
 												<ul class="amm-o-nav__list">
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/about/administration-and-leadership.php">Administration <br />and Leadership</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/facts-and-accomplishments/index.php">Facts and <br />Accomplishments</a></li>
+													<li class="amm-o-nav__item"><a href="../about/administration-and-leadership.php">Administration <br />and Leadership</a></li>
+													<li class="amm-o-nav__item"><a href="../facts-and-accomplishments/index.php">Facts and <br />Accomplishments</a></li>
 													<li class="amm-o-nav__item"><a href="https://blogs.sjsu.edu/newsroom/">NewsCenter</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/about/partnerships.php">Partnerships</a></li>
-													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/transform/">Transformation <br />Defined</a></li>													
+													<li class="amm-o-nav__item"><a href="../about/partnerships.php">Partnerships</a></li>
+													<li class="amm-o-nav__item"><a href="../transform/index.html">Transformation <br />Defined</a></li>													
 												</ul>
 											</li>   
 										</ul>
 										<div class="amm-o-nav__identity" style="margin-top:0;">
-											<img class="float-right" src="/aspis/media/brand/logo-we-are-spartans.svg" alt="We Are Spartans"/>							
+											<img class="float-right" src="../aspis/media/brand/logo-we-are-spartans.svg" alt="We Are Spartans"/>							
 								
 											<ul class="amm-o-nav__app float-right">
-												<li><a href="/online/index.php?utm_source=sjsumainmenu&amp;utm_medium=web&amp;utm_campaign=sjsuonline-navmenu-traffic" class="u-icon--app u-icon--sjsuonline u-color--white">SJSU Online</a></li>
+												<li><a href="../online/index.php?utm_source=sjsumainmenu&amp;utm_medium=web&amp;utm_campaign=sjsuonline-navmenu-traffic" class="u-icon--app u-icon--sjsuonline u-color--white">SJSU Online</a></li>
 												<li><a href="https://www.sjsuspartans.com" class="u-icon--app u-icon--spirit-mark u-color--white">Athletics</a></li>
 												<li><a href="https://www.sjsu.edu/alumni" class="u-icon--app u-icon--grad-cap u-color--white">Alumni Association</a></li>
-												<li><a href="https://www.sjsu.edu/giving/" class="u-icon--app u-icon--gift u-color--white">Giving to SJSU</a></li>
+												<li><a href="../giving/index.html" class="u-icon--app u-icon--gift u-color--white">Giving to SJSU</a></li>
 												<li><a href="https://sjsu.instructure.com" class="u-icon--app u-icon--canvas u-color--white">Canvas</a></li>
 												<li><a href="https://one.sjsu.edu" class="u-icon--app u-icon--onesjsu u-color--white">one.SJSU</a></li>    
 											</ul>										
@@ -309,7 +309,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								</div>
 							</li>
 							<li class="amm-o-nav__top-item o-nav__item--search">
-								<a class="amm-o-nav__top-link" href="https://www.sjsu.edu/search/index.html"><span class="u-icon u-icon--search u-color--white">Search</span></a>
+								<a class="amm-o-nav__top-link" href="../search/index.html"><span class="u-icon u-icon--search u-color--white">Search</span></a>
 								<div class="amm-o-nav__panel">
 									<div class="o-wrap--amm">    
 										<div class="gcse-searchbox-only" data-resultsUrl="https://www.sjsu.edu/search/index.html"></div>
@@ -323,61 +323,61 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 				<nav id="globalnav" class="top-bar o-nav--global hide-for-large" data-topbar role="navigation" aria-label="University nav menu for mobile">
 					<div class="top-bar-title" data-responsive-toggle="globalnav-menu">
-						<button class="o-nav--global__button u-icon--hamburger u-color--white float-left" type="button" data-toggle="globalnav-menu"><span class="show-for-sr">University Menu .</span></button><a href="http://www.sjsu.edu" class="o-title--global"><span class="show-for-sr">Go to</span>SJSU<span class="show-for-sr"> homepage.</span></a>
+						<button class="o-nav--global__button u-icon--hamburger u-color--white float-left" type="button" data-toggle="globalnav-menu"><span class="show-for-sr">University Menu .</span></button><a href="../index.html" class="o-title--global"><span class="show-for-sr">Go to</span>SJSU<span class="show-for-sr"> homepage.</span></a>
 					</div>
 						<div id="globalnav-menu" style="min-width:100%;">
 							<ul class="vertical menu accordion-menu" data-accordion-menu="data-accordion-menu" data-submenu-toggle="data-submenu-toggle">
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/visit/index.php">Visit</a>    
+									<a href="../visit/index.php">Visit</a>    
 									<ul class="menu vertical nested">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/soar/services/campus-tours.php">Campus Tours</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="http://www.sjsu.edu/map">Maps</a> </li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/parking/">Parking</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/visit/silicon-valley.php">Silicon Valley</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../soar/services/campus-tours.php">Campus Tours</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../map">Maps</a> </li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../parking/index.html">Parking</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../visit/silicon-valley.php">Silicon Valley</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://hammertheatre.com/">Hammer Theatre</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/sjsulovessj/">SJSU Loves SJ</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../sjsulovessj/index.html">SJSU Loves SJ</a></li>
 									</ul>
 								</li>
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/academics/index.php">Academics</a>
+									<a href="../academics/index.php">Academics</a>
 									<ul class="menu vertical">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/academics/colleges-and-departments.php">Colleges and Departments</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../academics/colleges-and-departments.php">Colleges and Departments</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://catalog.sjsu.edu/content.php?catoid=14&navoid=5107">Majors and Programs</a> </li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/classes/calendar/index.php">Academic Calendar</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/classes/index.php">Classes</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../classes/calendar/index.php">Academic Calendar</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../classes/index.php">Classes</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://library.sjsu.edu/">King Library</a></li>
 									</ul>    
 								</li>
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/admissions/index.php">Admissions</a>
+									<a href="../admissions/index.php">Admissions</a>
 									<ul class="menu vertical">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/tuition-and-fees/index.php">Tuition and Fees</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../tuition-and-fees/index.php">Tuition and Fees</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="http://wwww.sjsu.edu/housing-options/index.php">Housing</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/professional/">Professional Education</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/global/">International Students</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/parent-and-family-programs/index.php">Parents and Family Programs</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../professional/index.html">Professional Education</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../global/index.html">International Students</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../parent-and-family-programs/index.php">Parents and Family Programs</a></li>
 									</ul>    
 								</li>
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/campus-life/">Campus Life</a>
+									<a href="../campus-life/index.html">Campus Life</a>
 									<ul class="menu vertical">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/campus-life/health-and-wellness.php">Health and Wellness</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/campus-life/safety.php">Safety</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/sjsucares/">SJSU Cares</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/campus-life/events.php">Events</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/campus-life/traditions.php">Traditions</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/campus-life/sac.php">Student Alumni Connection</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../campus-life/health-and-wellness.php">Health and Wellness</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../campus-life/safety.php">Safety</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../sjsucares/index.html">SJSU Cares</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../campus-life/events.php">Events</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../campus-life/traditions.php">Traditions</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../campus-life/sac.php">Student Alumni Connection</a></li>
 									</ul>    
 								</li>
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/about/research/">Research and Innovation</a>
+									<a href="../about/research/index.html">Research and Innovation</a>
 									<ul class="menu vertical">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/research/">Office of Research</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../research/index.html">Office of Research</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/innovation/}">Office of Innovation</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/researchfoundation/">Research Foundation</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/about/research/student-faculty-collaborations.php">Student-Faculty Collaborations</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/about/research/become-a-research-partner.php">Become a Research Partner</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/research/about/cci/index.php">Centers and Institutes</a> </li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../researchfoundation/index.html">Research Foundation</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../about/research/student-faculty-collaborations.php">Student-Faculty Collaborations</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../about/research/become-a-research-partner.php">Become a Research Partner</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../research/about/cci/index.php">Centers and Institutes</a> </li>
 									</ul>    
 								</li>
 								<li class="o-nav--global__item">
@@ -385,16 +385,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 								</li>
 								<li class="o-nav--global__item">
-									<a class="gtm-nav--global-mobile" href="/online/index.php?utm_source=sjsumainmenu-mobile&amp;utm_medium=web&amp;utm_campaign=sjsuonline-navmenu-traffic">SJSU Online</a>
+									<a class="gtm-nav--global-mobile" href="../online/index.php?utm_source=sjsumainmenu-mobile&amp;utm_medium=web&amp;utm_campaign=sjsuonline-navmenu-traffic">SJSU Online</a>
 								</li>
 								<li class="o-nav--global__item">
-									<a href="https://www.sjsu.edu/about/index.php">About</a>
+									<a href="../about/index.php">About</a>
 									<ul class="menu vertical">
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/about/administration-and-leadership.php">Administration <br />and Leadership</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/facts-and-accomplishments/index.php">Facts and <br />Accomplishments</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../about/administration-and-leadership.php">Administration <br />and Leadership</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../facts-and-accomplishments/index.php">Facts and <br />Accomplishments</a></li>
 										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://blogs.sjsu.edu/newsroom/">NewsCenter</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/about/partnerships.php">Partnerships</a></li>
-										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/transform/">Transformation <br />Defined</a></li>									
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../about/partnerships.php">Partnerships</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="../transform/index.html">Transformation <br />Defined</a></li>									
 									</ul>
 								</li>
 							</ul>						
@@ -407,7 +407,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="o-wrap--content">
                <nav role="navigation" id="breadcrumb" class="o-nav--breadcrumb clearfix" aria-label="breadcrumb">
                   <ol class="o-nav--breadcrumb__menu"><!--Text value is blank-->
-                     <li class="o-nav--breadcrumb__item"><a href="https://www.sjsu.edu/">Home</a></li>
+                     <li class="o-nav--breadcrumb__item"><a href="../index.html">Home</a></li>
                      <li class="o-nav--breadcrumb__item"><a aria-current="page">College of Business</a></li>
                   </ol>
                </nav>
@@ -427,239 +427,239 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </div>
          <div id="sitenav-mobile-menu" style="min-width:100%">
             <ul class="vertical menu accordion-menu" data-accordion-menu="data-accordion-menu" data-submenu-toggle="data-submenu-toggle">
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/about/index.php">About Us</a><ul class="menu">
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/index.php">About Us</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/accreditation.php">Accreditation</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/newsletter.php">Newsletter</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/directories.php">College Directory</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/about/leadership/index.php">Lucas Leadership Team</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/leadership/index.php">Lucas Leadership Team</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/leadership/dean.php">Dean's Profile</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/leadership/introducing-new-dean.php">Introducing New Dean</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/about/leadership/advisory-board/index.php">Lucas College of Business Advisory Board</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/leadership/advisory-board/index.php">Lucas College of Business Advisory Board</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/leadership/advisory-board/community-engagement-board.php">Community Engagement Board </a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/leadership/advisory-board/mission.php">Mission</a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/about/index.php">About Us</a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/index.php">About Us</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/accreditation.php">Accreditation</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/newsletter.php">Newsletter</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/directories.php">College Directory</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/about/leadership/index.php">Lucas Leadership Team</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/leadership/index.php">Lucas Leadership Team</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/leadership/dean.php">Dean's Profile</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/leadership/introducing-new-dean.php">Introducing New Dean</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/about/leadership/advisory-board/index.php">Lucas College of Business Advisory Board</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/leadership/advisory-board/index.php">Lucas College of Business Advisory Board</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/leadership/advisory-board/community-engagement-board.php">Community Engagement Board </a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/leadership/advisory-board/mission.php">Mission</a></li>
                               </ul>
                            </li>
                         </ul>
                      </li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/maps.php">Maps and Directions</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/points-of-pride.php">Points of Pride</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/lucas-gift.php">The Lucas Gift</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/silicon-valley-experience.php">Silicon Valley Experience</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/about/alumni/index.php">Alumni</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/alumni/index.php">Alumni</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/alumni/cfo-alumni-network.php">CFO Alumni Affiliate Network </a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/alumni/connect.php">Connect</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/alumni/get-involved.php">Get Involved</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/alumni/give.php">Give</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/maps.php">Maps and Directions</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/points-of-pride.php">Points of Pride</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/lucas-gift.php">The Lucas Gift</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/silicon-valley-experience.php">Silicon Valley Experience</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/about/alumni/index.php">Alumni</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/alumni/index.php">Alumni</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/alumni/cfo-alumni-network.php">CFO Alumni Affiliate Network </a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/alumni/connect.php">Connect</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/alumni/get-involved.php">Get Involved</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/alumni/give.php">Give</a></li>
                         </ul>
                      </li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/about/calendar/index.php">Events</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/calendar/index.php">Events</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/about/calendar/ignite-and-inspire-series/index.php">Ignite &amp; Inspire Speaker Series</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/calendar/ignite-and-inspire-series/index.php">Ignite &amp; Inspire Speaker Series</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/about/calendar/index.php">Events</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/calendar/index.php">Events</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/about/calendar/ignite-and-inspire-series/index.php">Ignite &amp; Inspire Speaker Series</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/calendar/ignite-and-inspire-series/index.php">Ignite &amp; Inspire Speaker Series</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/about/calendar/conniff-speaker-series/index.php">Richard and Sandi Conniff Leaders in Business Ethi</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/calendar/conniff-speaker-series/index.php">Richard and Sandi Conniff Leaders in Business Ethi</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/calendar/conniff-speaker-series/2021speakers.php">Previous Speakers</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/about/calendar/conniff-speaker-series/index.php">Richard and Sandi Conniff Leaders in Business Ethi</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/calendar/conniff-speaker-series/index.php">Richard and Sandi Conniff Leaders in Business Ethi</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/calendar/conniff-speaker-series/2021speakers.php">Previous Speakers</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/about/calendar/will-conference/index.php">Women in Leadership League Conference</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/calendar/will-conference/index.php">Women in Leadership League Conference</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/calendar/will-conference/about-us.php">About Us</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/calendar/will-conference/industry-mentors.php">Industry Mentors</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/calendar/will-conference/panel-speakers.php">Industry Speakers</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/about/calendar/will-conference/index.php">Women in Leadership League Conference</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/calendar/will-conference/index.php">Women in Leadership League Conference</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/calendar/will-conference/about-us.php">About Us</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/calendar/will-conference/industry-mentors.php">Industry Mentors</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/calendar/will-conference/panel-speakers.php">Industry Speakers</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/about/calendar/asd.php">Admitted Spartan Days</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/about/calendar/asd.php">Admitted Spartan Days</a></li>
                         </ul>
                      </li>
                   </ul>
                </li>
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/index.php">Students</a><ul class="menu">
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/index.php">Students</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/commsclinic.php">Communications Clinic</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/explore.php">Explore our Major</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/student-organizations/index.php">Student Organizations</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/student-organizations/index.php">Student Organizations</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/student-organizations/info-sessions.php">Virtual Info Sessions</a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/index.php">Students</a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/index.php">Students</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/commsclinic.php">Communications Clinic</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/explore.php">Explore our Major</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/student-organizations/index.php">Student Organizations</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/student-organizations/index.php">Student Organizations</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/student-organizations/info-sessions.php">Virtual Info Sessions</a></li>
                         </ul>
                      </li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/honors/index.php">Business Honors Program</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/index.php">Business Honors Program</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/honors/accounting-finance/index.php">Accounting and Finance</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/accounting-finance/index.php">Accounting and Finance</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/accounting-finance/program-structure.php">Program Structure</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/accounting-finance/application-requirements.php">Application Requirements</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/accounting-finance/current-students.php">Current Students</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/accounting-finance/faculty-contact.php">Contacts</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/accounting-finance/alumni-and-partners.php">Alumni and Partners</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/honors/index.php">Business Honors Program</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/index.php">Business Honors Program</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/honors/accounting-finance/index.php">Accounting and Finance</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/accounting-finance/index.php">Accounting and Finance</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/accounting-finance/program-structure.php">Program Structure</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/accounting-finance/application-requirements.php">Application Requirements</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/accounting-finance/current-students.php">Current Students</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/accounting-finance/faculty-contact.php">Contacts</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/accounting-finance/alumni-and-partners.php">Alumni and Partners</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/honors/project-sponsors/index.php">Project Sponsors</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/honors/sgil/index.php">Global Innovation and Leadership</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/sgil/index.php">Global Innovation and Leadership</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/sgil/program-structure.php">Program Structure</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/sgil/application-requirements.php">Application Requirements</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/sgil/current-students.php">Current Students</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/sgil/faculty-contact.php">Contacts</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/sgil/alumni-and-partners.php">Alumni and Partners</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/honors/project-sponsors/index.php">Project Sponsors</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/honors/sgil/index.php">Global Innovation and Leadership</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/sgil/index.php">Global Innovation and Leadership</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/sgil/program-structure.php">Program Structure</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/sgil/application-requirements.php">Application Requirements</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/sgil/current-students.php">Current Students</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/sgil/faculty-contact.php">Contacts</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/sgil/alumni-and-partners.php">Alumni and Partners</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/honors/information-systems-and-technology/index.php">Information Systems and Technology</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/information-systems-and-technology/index.php">Information Systems and Technology</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/information-systems-and-technology/program-structure.php">Program Structure</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/information-systems-and-technology/application-requirements.php">Application Requirements</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/information-systems-and-technology/current-students.php">Current Students</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/information-systems-and-technology/faculty-contact.php">Contacts</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/information-systems-and-technology/alumni-and-partners.php">Alumni and Partners</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/honors/information-systems-and-technology/index.php">Information Systems and Technology</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/information-systems-and-technology/index.php">Information Systems and Technology</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/information-systems-and-technology/program-structure.php">Program Structure</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/information-systems-and-technology/application-requirements.php">Application Requirements</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/information-systems-and-technology/current-students.php">Current Students</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/information-systems-and-technology/faculty-contact.php">Contacts</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/information-systems-and-technology/alumni-and-partners.php">Alumni and Partners</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/honors/school-of-management/index.php">Management</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/school-of-management/index.php">Management</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/school-of-management/program-structure.php">Program Structure</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/school-of-management/application-requirements.php">Application Requirements</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/school-of-management/current-students.php">Current Students</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/school-of-management/faculty-contact.php">Contacts</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/school-of-management/alumni-and-partners.php">Alumni and Partners</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/honors/school-of-management/index.php">Management</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/school-of-management/index.php">Management</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/school-of-management/program-structure.php">Program Structure</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/school-of-management/application-requirements.php">Application Requirements</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/school-of-management/current-students.php">Current Students</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/school-of-management/faculty-contact.php">Contacts</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/school-of-management/alumni-and-partners.php">Alumni and Partners</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/honors/marketing-business-analytics/index.php">Marketing and Business Analytics</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/marketing-business-analytics/index.php">Marketing and Business Analytics</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/marketing-business-analytics/program-structure.php">Program Structure</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/marketing-business-analytics/application-requirements.php">Application Requirements</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/marketing-business-analytics/current-students.php">Current Students</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/marketing-business-analytics/faculty-contact.php">Contacts</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/marketing-business-analytics/alumni-and-partners.php">Alumni and Partners</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/honors/marketing-business-analytics/index.php">Marketing and Business Analytics</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/marketing-business-analytics/index.php">Marketing and Business Analytics</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/marketing-business-analytics/program-structure.php">Program Structure</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/marketing-business-analytics/application-requirements.php">Application Requirements</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/marketing-business-analytics/current-students.php">Current Students</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/marketing-business-analytics/faculty-contact.php">Contacts</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/marketing-business-analytics/alumni-and-partners.php">Alumni and Partners</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/faculty-and-contact.php">Faculty Contact</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/honors/application-questions.php">Application Questions</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/faculty-and-contact.php">Faculty Contact</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/honors/application-questions.php">Application Questions</a></li>
                         </ul>
                      </li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/studentsuccesscenter.php">Jack Holland Student Success Center </a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/scholarships/index.php">Scholarships</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/scholarships/index.php">Scholarships</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/scholarships/scholarship-recipients.php">Scholarship Recipients</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/studentsuccesscenter.php">Jack Holland Student Success Center </a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/scholarships/index.php">Scholarships</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/scholarships/index.php">Scholarships</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/scholarships/scholarship-recipients.php">Scholarship Recipients</a></li>
                         </ul>
                      </li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/tgip/index.php">Thompson Global Internship Program</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/students/global-opportunities/index.php">Global Opportunities</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/goal.php">G.o.A.L.</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/presidents-deans-scholars.php">President's and Dean's Scholars</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/students/career-launch-initiative.php">Career Launch Initiative</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/tgip/index.php">Thompson Global Internship Program</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/students/global-opportunities/index.php">Global Opportunities</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/goal.php">G.o.A.L.</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/presidents-deans-scholars.php">President's and Dean's Scholars</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/students/career-launch-initiative.php">Career Launch Initiative</a></li>
                   </ul>
                </li>
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/faculty/index.php">Faculty</a><ul class="menu">
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/index.php">Faculty</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/directory.php">Faculty Directory</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/faculty/resources/index.php">Faculty Resources</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/index.php">Faculty Resources</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/tech-support.php">BT &amp; BBC Technical Support</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/faculty/resources/college-policies/index.php">College Policies</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/college-policies/index.php">College Policies</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/college-policies/faculty-qualifications.php">Faculty Qualifications Policy</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/college-policies/faculty-sufficiency.php">Faculty Sufficiency Policy</a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/faculty/index.php">Faculty</a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/index.php">Faculty</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/directory.php">Faculty Directory</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/faculty/resources/index.php">Faculty Resources</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/index.php">Faculty Resources</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/tech-support.php">BT &amp; BBC Technical Support</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/faculty/resources/college-policies/index.php">College Policies</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/college-policies/index.php">College Policies</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/college-policies/faculty-qualifications.php">Faculty Qualifications Policy</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/college-policies/faculty-sufficiency.php">Faculty Sufficiency Policy</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/faculty/resources/tech-hub/index.php">Faculty and Staff Tech Hub</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/tech-hub/index.php">Faculty and Staff Tech Hub</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/tech-hub/new-computer-faq.php">New Computer FAQ</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/faculty/resources/tech-hub/index.php">Faculty and Staff Tech Hub</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/tech-hub/index.php">Faculty and Staff Tech Hub</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/tech-hub/new-computer-faq.php">New Computer FAQ</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/faculty/resources/online/index.php">Online Initiative </a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/index.php">Online Initiative </a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/newsletter.php">Newsletter</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/certification.php">Online Certification Program</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/resources.php">Resources</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/faculty/resources/online/toolkit/index.php">Toolkit</a><ul class="menu">
-                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/toolkit/index.php">Toolkit</a></li>
-                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/toolkit/course-content.php">Course Content</a></li>
-                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/toolkit/course-design-and-structure.php">Course Design and Structure</a></li>
-                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/toolkit/instructor-contribution.php">Instructor Contribution to Course Content</a></li>
-                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/toolkit/instructor-feedback.php">Instructor Feedback</a></li>
-                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/toolkit/interaction-and-collaboration.php">Interaction and Collaboration</a></li>
-                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/toolkit/student-assessment.php">Student Assessment</a></li>
-                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/resources/online/toolkit/student-feedback.php">Use of Student Feedback</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/faculty/resources/online/index.php">Online Initiative </a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/index.php">Online Initiative </a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/newsletter.php">Newsletter</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/certification.php">Online Certification Program</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/resources.php">Resources</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/faculty/resources/online/toolkit/index.php">Toolkit</a><ul class="menu">
+                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/toolkit/index.php">Toolkit</a></li>
+                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/toolkit/course-content.php">Course Content</a></li>
+                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/toolkit/course-design-and-structure.php">Course Design and Structure</a></li>
+                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/toolkit/instructor-contribution.php">Instructor Contribution to Course Content</a></li>
+                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/toolkit/instructor-feedback.php">Instructor Feedback</a></li>
+                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/toolkit/interaction-and-collaboration.php">Interaction and Collaboration</a></li>
+                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/toolkit/student-assessment.php">Student Assessment</a></li>
+                                       <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/resources/online/toolkit/student-feedback.php">Use of Student Feedback</a></li>
                                     </ul>
                                  </li>
                               </ul>
                            </li>
                         </ul>
                      </li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/positions.php">Faculty Employment Opportunities</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/faculty/achievements.php">Faculty Achievements, Publications and Presentatio</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/positions.php">Faculty Employment Opportunities</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/faculty/achievements.php">Faculty Achievements, Publications and Presentatio</a></li>
                   </ul>
                </li>
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/index.php">Centers and Institutes </a><ul class="menu">
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/index.php">Centers and Institutes </a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/aac/index.php">Accounting Advancement Center</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/aac/index.php">Accounting Advancement Center</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/aac/accounting-advancement-center/index.php">AAC Firm Members</a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/index.php">Centers and Institutes </a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/index.php">Centers and Institutes </a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/aac/index.php">Accounting Advancement Center</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/aac/index.php">Accounting Advancement Center</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/aac/accounting-advancement-center/index.php">AAC Firm Members</a></li>
                         </ul>
                      </li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/cbfs/index.php">Center for Banking and Financial Services</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/index.php">Center for Banking and Financial Services</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/cbfs/activities/index.php">CBFS Activities</a><ul class="menu">
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/index.php">CBFS Activities</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/annual-lecture-series.php">Annual Lecture Series</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/annual-lecture-slides.php">Annual Lecture Series Slides</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/annual-awards-ceremony.php">Annual Scholarships Ceremony</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/class-lectures.php">Class Lectures</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/credit-analyst-certificate.php">Credit Analyst Certificate </a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/equity-competition-and-conference.php">Equity Competition and Conference</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/game-competition.php">Game Competition</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/industry-study-tours.php">Industry Study Tours</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/internship-and-job-referrals.php">Internship And Job Referrals</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/mortgage-banking-certificate.php">Mortgage Banking Certificate</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/professional-development-meetings.php">Professional Development Meetings</a></li>
-                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/activities/scholarships.php">Scholarships</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/cbfs/index.php">Center for Banking and Financial Services</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/index.php">Center for Banking and Financial Services</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/cbfs/activities/index.php">CBFS Activities</a><ul class="menu">
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/index.php">CBFS Activities</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/annual-lecture-series.php">Annual Lecture Series</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/annual-lecture-slides.php">Annual Lecture Series Slides</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/annual-awards-ceremony.php">Annual Scholarships Ceremony</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/class-lectures.php">Class Lectures</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/credit-analyst-certificate.php">Credit Analyst Certificate </a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/equity-competition-and-conference.php">Equity Competition and Conference</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/game-competition.php">Game Competition</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/industry-study-tours.php">Industry Study Tours</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/internship-and-job-referrals.php">Internship And Job Referrals</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/mortgage-banking-certificate.php">Mortgage Banking Certificate</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/professional-development-meetings.php">Professional Development Meetings</a></li>
+                                 <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/activities/scholarships.php">Scholarships</a></li>
                               </ul>
                            </li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/contact.php">Contact Us</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/eab.php">Executive Advisory Board</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/newsletter.php">Newsletter</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cbfs/testimonials.php">Student Testimonials</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/contact.php">Contact Us</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/eab.php">Executive Advisory Board</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/newsletter.php">Newsletter</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cbfs/testimonials.php">Student Testimonials</a></li>
                         </ul>
                      </li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/cor/index.php">Center for Organizational Resilience</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cor/index.php">Center for Organizational Resilience</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cor/Executive-Advisory-Board.php">Advisory Board</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/cor/nsf-grant.php">NSF Cyber Training Grant</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/cor/index.php">Center for Organizational Resilience</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cor/index.php">Center for Organizational Resilience</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cor/Executive-Advisory-Board.php">Advisory Board</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/cor/nsf-grant.php">NSF Cyber Training Grant</a></li>
                         </ul>
                      </li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/glac/index.php">Global Leadership Advancement Center </a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/htti/index.php">High Technology Tax Institute</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/ipp/index.php">Institute for People and Performance</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/mti/index.php">Mineta Transportation Institute</a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/svce/index.php">Silicon Valley Center for Entrepreneurship </a></li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/svcotm/index.php">Silicon Valley Center of Operations and Technology</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/svcotm/index.php">Silicon Valley Center of Operations and Technology</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/svcotm/about.php">About Us</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/svcotm/advisory-board.php">Advisory Board</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/svcotm/assistantships-and-awards.php">Assistantships and Awards</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/svcotm/associates-and-fellows.php">Associates and Fellows</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/svcotm/contact-us.php">Contact Us</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/svcotm/partners-and-sponsors.php">Partners and Sponsors</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/svcotm/professional-services.php">Professional Trainings and Services</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/glac/index.php">Global Leadership Advancement Center </a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/htti/index.php">High Technology Tax Institute</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/ipp/index.php">Institute for People and Performance</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/mti/index.php">Mineta Transportation Institute</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/svce/index.php">Silicon Valley Center for Entrepreneurship </a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/svcotm/index.php">Silicon Valley Center of Operations and Technology</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/svcotm/index.php">Silicon Valley Center of Operations and Technology</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/svcotm/about.php">About Us</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/svcotm/advisory-board.php">Advisory Board</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/svcotm/assistantships-and-awards.php">Assistantships and Awards</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/svcotm/associates-and-fellows.php">Associates and Fellows</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/svcotm/contact-us.php">Contact Us</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/svcotm/partners-and-sponsors.php">Partners and Sponsors</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/svcotm/professional-services.php">Professional Trainings and Services</a></li>
                         </ul>
                      </li>
-                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/cob/centers/SVEEP/index.php">Silicon Valley’s Entrepreneurship and Education Pr</a><ul class="menu">
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/SVEEP/index.php">Silicon Valley’s Entrepreneurship and Education Pr</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/SVEEP/program-faculty.php">Program Faculty</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/SVEEP/sample-programs.php">Sample Programs</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/SVEEP/publications-videos.php">Publications and Videos</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/SVEEP/program-speakers.php">Program Speakers</a></li>
-                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/centers/SVEEP/events.php">Events</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="https://www.sjsu.edu/cob/centers/SVEEP/index.php">Silicon Valley’s Entrepreneurship and Education Pr</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/SVEEP/index.php">Silicon Valley’s Entrepreneurship and Education Pr</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/SVEEP/program-faculty.php">Program Faculty</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/SVEEP/sample-programs.php">Sample Programs</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/SVEEP/publications-videos.php">Publications and Videos</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/SVEEP/program-speakers.php">Program Speakers</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/centers/SVEEP/events.php">Events</a></li>
                         </ul>
                      </li>
                   </ul>
                </li>
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/graduate-programs.php">Graduate Programs</a></li>
-               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/cob/undergrad-programs.php">Undergraduate Programs</a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/graduate-programs.php">Graduate Programs</a></li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="https://www.sjsu.edu/cob/undergrad-programs.php">Undergraduate Programs</a></li>
             </ul>
          </div>
       </nav>
@@ -668,55 +668,55 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <div class="o-wrap--content">
       <nav id="sitenav" class="o-nav--site" role="navigation" aria-label="Site nav menu">
          <ul class="dropdown menu" data-dropdown-menu="data-dropdown-menu">
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/cob/about/index.php">About Us</a><ul class="menu">
-                  <li class="o-nav--site__item"><a href="/cob/about/accreditation.php" class="gtm-nav--site">Accreditation</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/about/newsletter.php" class="gtm-nav--site">Newsletter</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/about/directories.php" class="gtm-nav--site">College&nbsp;Directory</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/about/leadership/index.php" class="gtm-nav--site">Lucas&nbsp;Leadership&nbsp;Team</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/about/maps.php" class="gtm-nav--site">Maps&nbsp;and&nbsp;Directions</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/about/points-of-pride.php" class="gtm-nav--site">Points&nbsp;of&nbsp;Pride</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/about/lucas-gift.php" class="gtm-nav--site">The&nbsp;Lucas&nbsp;Gift</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/about/silicon-valley-experience.php" class="gtm-nav--site">Silicon&nbsp;Valley&nbsp;Experience</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/about/alumni/index.php" class="gtm-nav--site">Alumni</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/about/calendar/index.php" class="gtm-nav--site">Events</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/cob/about/index.php">About Us</a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/about/accreditation.php" class="gtm-nav--site">Accreditation</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/about/newsletter.php" class="gtm-nav--site">Newsletter</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/about/directories.php" class="gtm-nav--site">College&nbsp;Directory</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/about/leadership/index.php" class="gtm-nav--site">Lucas&nbsp;Leadership&nbsp;Team</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/about/maps.php" class="gtm-nav--site">Maps&nbsp;and&nbsp;Directions</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/about/points-of-pride.php" class="gtm-nav--site">Points&nbsp;of&nbsp;Pride</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/about/lucas-gift.php" class="gtm-nav--site">The&nbsp;Lucas&nbsp;Gift</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/about/silicon-valley-experience.php" class="gtm-nav--site">Silicon&nbsp;Valley&nbsp;Experience</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/about/alumni/index.php" class="gtm-nav--site">Alumni</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/about/calendar/index.php" class="gtm-nav--site">Events</a></li>
                </ul>
             </li>
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/cob/students/index.php">Students</a><ul class="menu">
-                  <li class="o-nav--site__item"><a href="/cob/students/commsclinic.php" class="gtm-nav--site">Communications&nbsp;Clinic</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/students/explore.php" class="gtm-nav--site">Explore&nbsp;our&nbsp;Major</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/students/student-organizations/index.php" class="gtm-nav--site">Student&nbsp;Organizations</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/students/honors/index.php" class="gtm-nav--site">Business&nbsp;Honors&nbsp;Program</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/students/studentsuccesscenter.php" class="gtm-nav--site">Jack&nbsp;Holland&nbsp;Student&nbsp;Success&nbsp;Center&nbsp;</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/students/scholarships/index.php" class="gtm-nav--site">Scholarships</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/students/tgip/index.php" class="gtm-nav--site">Thompson&nbsp;Global&nbsp;Internship&nbsp;Program</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/students/global-opportunities/index.php" class="gtm-nav--site">Global&nbsp;Opportunities</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/students/goal.php" class="gtm-nav--site">G.o.A.L.</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/students/presidents-deans-scholars.php" class="gtm-nav--site">President's&nbsp;and&nbsp;Dean's&nbsp;Scholars</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/students/career-launch-initiative.php" class="gtm-nav--site">Career&nbsp;Launch&nbsp;Initiative</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/cob/students/index.php">Students</a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/commsclinic.php" class="gtm-nav--site">Communications&nbsp;Clinic</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/explore.php" class="gtm-nav--site">Explore&nbsp;our&nbsp;Major</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/student-organizations/index.php" class="gtm-nav--site">Student&nbsp;Organizations</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/honors/index.php" class="gtm-nav--site">Business&nbsp;Honors&nbsp;Program</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/studentsuccesscenter.php" class="gtm-nav--site">Jack&nbsp;Holland&nbsp;Student&nbsp;Success&nbsp;Center&nbsp;</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/scholarships/index.php" class="gtm-nav--site">Scholarships</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/tgip/index.php" class="gtm-nav--site">Thompson&nbsp;Global&nbsp;Internship&nbsp;Program</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/global-opportunities/index.php" class="gtm-nav--site">Global&nbsp;Opportunities</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/goal.php" class="gtm-nav--site">G.o.A.L.</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/presidents-deans-scholars.php" class="gtm-nav--site">President's&nbsp;and&nbsp;Dean's&nbsp;Scholars</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/students/career-launch-initiative.php" class="gtm-nav--site">Career&nbsp;Launch&nbsp;Initiative</a></li>
                </ul>
             </li>
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/cob/faculty/index.php">Faculty</a><ul class="menu">
-                  <li class="o-nav--site__item"><a href="/cob/faculty/directory.php" class="gtm-nav--site">Faculty&nbsp;Directory</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/faculty/resources/index.php" class="gtm-nav--site">Faculty&nbsp;Resources</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/faculty/positions.php" class="gtm-nav--site">Faculty&nbsp;Employment&nbsp;Opportunities</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/faculty/achievements.php" class="gtm-nav--site">Faculty&nbsp;Achievements,&nbsp;Publications&nbsp;and&nbsp;Presentations</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/cob/faculty/index.php">Faculty</a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/faculty/directory.php" class="gtm-nav--site">Faculty&nbsp;Directory</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/faculty/resources/index.php" class="gtm-nav--site">Faculty&nbsp;Resources</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/faculty/positions.php" class="gtm-nav--site">Faculty&nbsp;Employment&nbsp;Opportunities</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/faculty/achievements.php" class="gtm-nav--site">Faculty&nbsp;Achievements,&nbsp;Publications&nbsp;and&nbsp;Presentations</a></li>
                </ul>
             </li>
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/cob/centers/index.php">Centers and Institutes </a><ul class="menu">
-                  <li class="o-nav--site__item"><a href="/cob/centers/aac/index.php" class="gtm-nav--site">Accounting&nbsp;Advancement&nbsp;Center</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/centers/cbfs/index.php" class="gtm-nav--site">Center&nbsp;for&nbsp;Banking&nbsp;and&nbsp;Financial&nbsp;Services</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/centers/cor/index.php" class="gtm-nav--site">Center&nbsp;for&nbsp;Organizational&nbsp;Resilience</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/centers/glac/index.php" class="gtm-nav--site">Global&nbsp;Leadership&nbsp;Advancement&nbsp;Center&nbsp;</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/centers/htti/index.php" class="gtm-nav--site">High&nbsp;Technology&nbsp;Tax&nbsp;Institute</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/centers/ipp/index.php" class="gtm-nav--site">Institute&nbsp;for&nbsp;People&nbsp;and&nbsp;Performance</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/centers/mti/index.php" class="gtm-nav--site">Mineta&nbsp;Transportation&nbsp;Institute</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/centers/svce/index.php" class="gtm-nav--site">Silicon&nbsp;Valley&nbsp;Center&nbsp;for&nbsp;Entrepreneurship&nbsp;</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/centers/svcotm/index.php" class="gtm-nav--site">Silicon&nbsp;Valley&nbsp;Center&nbsp;of&nbsp;Operations&nbsp;and&nbsp;Technology&nbsp;Management</a></li>
-                  <li class="o-nav--site__item"><a href="/cob/centers/SVEEP/index.php" class="gtm-nav--site">Silicon&nbsp;Valley’s&nbsp;Entrepreneurship&nbsp;and&nbsp;Education&nbsp;Programs&nbsp;</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/cob/centers/index.php">Centers and Institutes </a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/centers/aac/index.php" class="gtm-nav--site">Accounting&nbsp;Advancement&nbsp;Center</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/centers/cbfs/index.php" class="gtm-nav--site">Center&nbsp;for&nbsp;Banking&nbsp;and&nbsp;Financial&nbsp;Services</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/centers/cor/index.php" class="gtm-nav--site">Center&nbsp;for&nbsp;Organizational&nbsp;Resilience</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/centers/glac/index.php" class="gtm-nav--site">Global&nbsp;Leadership&nbsp;Advancement&nbsp;Center&nbsp;</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/centers/htti/index.php" class="gtm-nav--site">High&nbsp;Technology&nbsp;Tax&nbsp;Institute</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/centers/ipp/index.php" class="gtm-nav--site">Institute&nbsp;for&nbsp;People&nbsp;and&nbsp;Performance</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/centers/mti/index.php" class="gtm-nav--site">Mineta&nbsp;Transportation&nbsp;Institute</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/centers/svce/index.php" class="gtm-nav--site">Silicon&nbsp;Valley&nbsp;Center&nbsp;for&nbsp;Entrepreneurship&nbsp;</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/centers/svcotm/index.php" class="gtm-nav--site">Silicon&nbsp;Valley&nbsp;Center&nbsp;of&nbsp;Operations&nbsp;and&nbsp;Technology&nbsp;Management</a></li>
+                  <li class="o-nav--site__item"><a href="https://www.sjsu.edu/cob/centers/SVEEP/index.php" class="gtm-nav--site">Silicon&nbsp;Valley’s&nbsp;Entrepreneurship&nbsp;and&nbsp;Education&nbsp;Programs&nbsp;</a></li>
                </ul>
             </li>
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/cob/graduate-programs.php">Graduate&nbsp;Programs</a></li>
-            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/cob/undergrad-programs.php">Undergraduate&nbsp;Programs</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/cob/graduate-programs.php">Graduate&nbsp;Programs</a></li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="https://www.sjsu.edu/cob/undergrad-programs.php">Undergraduate&nbsp;Programs</a></li>
          </ul>
       </nav>
    </div>
@@ -726,7 +726,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                <div class="o-wrap o-wrap--media-type-hero u-bg--dark ou-error--snippet">
                   <div class="o-media o-media--hero">
                      <div class="o-media__frame">
-                        <div class="o-media__graphic"><img class="o-media__img" src="/cob/pics/wsq-entrepreneurship-feature-ray-zinn-dschmitz-101518-57_img-web.jpg" alt="Students gather around at a table in the IDEAS lab."><div class="o-media__photo-caption"><span class="u-icon--photo-caption-triangle u-icon--small u-color--sjsu-gold">Photo: David Schmitz</span></div>
+                        <div class="o-media__graphic"><img class="o-media__img" src="https://www.sjsu.edu/cob/pics/wsq-entrepreneurship-feature-ray-zinn-dschmitz-101518-57_img-web.jpg" alt="Students gather around at a table in the IDEAS lab."><div class="o-media__photo-caption"><span class="u-icon--photo-caption-triangle u-icon--small u-color--sjsu-gold">Photo: David Schmitz</span></div>
                         </div>
                      </div>
                      <div class="o-media__bg-extender">
@@ -736,7 +736,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                  of technological innovation, our programs are a reflection of our esteemed, local
                                  heritage. With over 80% of our students working in the Valley, our business students
                                  and alumni are truly Powering Silicon Valley.</p>
-                              <p class="o-c2a"><a class="o-c2a__link" href="/cob/about/silicon-valley-experience.php">Explore The Silicon Valley Experience</a></p>
+                              <p class="o-c2a"><a class="o-c2a__link" href="https://www.sjsu.edu/cob/about/silicon-valley-experience.php">Explore The Silicon Valley Experience</a></p>
                            </div>
                         </div>
                      </div>
@@ -750,7 +750,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <div class="o-wrap--content">
                      <div class="o-media o-media--type3">
                         <div class="o-media__frame">
-                           <div class="o-media__graphic"><img class="o-media__img" src="/cob/pics/USNews24COB%20Ranking%20-%20Media%20Object%20Component.png" alt="The Lucas College and Graduate School of Business ranks in the top 20 among undergraduate business programs in California (Us News and World Report)"></div>
+                           <div class="o-media__graphic"><img class="o-media__img" src="https://www.sjsu.edu/cob/pics/USNews24COB%20Ranking%20-%20Media%20Object%20Component.png" alt="The Lucas College and Graduate School of Business ranks in the top 20 among undergraduate business programs in California (Us News and World Report)"></div>
                         </div>
                         <div class="o-media__bg-extender">
                            <div class="o-media__frame">
@@ -762,7 +762,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                      </div>
                      <div class="o-media o-media--type3">
                         <div class="o-media__frame">
-                           <div class="o-media__graphic"><img class="o-media__img" src="/cob/pics/1WSJCOB%20Rankings%20-%20Media%20Object%20Components_v2.jpg" alt="Top Public University for High Paying Jobs in Accounting"></div>
+                           <div class="o-media__graphic"><img class="o-media__img" src="https://www.sjsu.edu/cob/pics/1WSJCOB%20Rankings%20-%20Media%20Object%20Components_v2.jpg" alt="Top Public University for High Paying Jobs in Accounting"></div>
                         </div>
                         <div class="o-media__bg-extender">
                            <div class="o-media__frame">
@@ -774,7 +774,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                      </div>
                      <div class="o-media o-media--type3">
                         <div class="o-media__frame">
-                           <div class="o-media__graphic"><img class="o-media__img" src="/cob/pics/2WSJCOB%20Rankings%20-%20Media%20Object%20Components.pngv2.png" alt="#2 Public University for High Paying Jobs in Marketing"></div>
+                           <div class="o-media__graphic"><img class="o-media__img" src="https://www.sjsu.edu/cob/pics/2WSJCOB%20Rankings%20-%20Media%20Object%20Components.pngv2.png" alt="#2 Public University for High Paying Jobs in Marketing"></div>
                         </div>
                         <div class="o-media__bg-extender">
                            <div class="o-media__frame">
@@ -789,14 +789,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                <div class="o-wrap o-wrap--cardholder o-wrap--grid-component--DISABLE u-bg--triangles-down-small u-color--paseo-gray u-bg--fade-radial ou-error--snippet">
                   <div class="o-wrap--content">
                      <div class="o-cardholder u-gridgap-half">
-                        <div class="o-card"><img class="o-card__img" src="/cob/pics/Commencement_2022_DS_5D3_8230.jpg" alt="Undergraduate Degree Programs"><div class="o-card__info u-gradientbar--card">
-                              <p class="o-card__heading"><a class="o-card__link" href="/lcobssc/business_concentrations/index.php">Undergrad Programs</a></p>
+                        <div class="o-card"><img class="o-card__img" src="https://www.sjsu.edu/cob/pics/Commencement_2022_DS_5D3_8230.jpg" alt="Undergraduate Degree Programs"><div class="o-card__info u-gradientbar--card">
+                              <p class="o-card__heading"><a class="o-card__link" href="https://www.sjsu.edu/lcobssc/business_concentrations/index.php">Undergrad Programs</a></p>
                               
-                              <p class="o-card__copy">We provide the resources, skills, and opportunities for&nbsp;<a href="/cob/students/index.php">students</a> to succeed in the Silicon Valley—one of the most thriving, competitive and innovative
+                              <p class="o-card__copy">We provide the resources, skills, and opportunities for&nbsp;<a href="https://www.sjsu.edu/cob/students/index.php">students</a> to succeed in the Silicon Valley—one of the most thriving, competitive and innovative
                                  economic regions in the world—and beyond.</p>
                               </div>
                         </div>
-                        <div class="o-card"><img class="o-card__img" src="/cob/pics/SHRMHome.jpg" alt="Graduate Degree Programs"><div class="o-card__info u-gradientbar--card">
+                        <div class="o-card"><img class="o-card__img" src="https://www.sjsu.edu/cob/pics/SHRMHome.jpg" alt="Graduate Degree Programs"><div class="o-card__info u-gradientbar--card">
                               <p class="o-card__heading"><a class="o-card__link" href="https://sjsu.edu/lucasgsb/">Graduate Programs</a></p>
                               
                               <p class="o-card__copy">Whether it’s strengthening your negotiating skills, working as a team to run a company
@@ -805,8 +805,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                  at an affordable price.&nbsp;</p>
                               </div>
                         </div>
-                        <div class="o-card"><img class="o-card__img" src="/cob/pics/JHSSCAdvising.jpg" alt="Advising Center"><div class="o-card__info u-gradientbar--card">
-                              <p class="o-card__heading"><a class="o-card__link" href="/lcobssc/index.php">Student Success Center</a></p>
+                        <div class="o-card"><img class="o-card__img" src="https://www.sjsu.edu/cob/pics/JHSSCAdvising.jpg" alt="Advising Center"><div class="o-card__info u-gradientbar--card">
+                              <p class="o-card__heading"><a class="o-card__link" href="https://www.sjsu.edu/lcobssc/index.php">Student Success Center</a></p>
                               
                               <p class="o-card__copy">The central advisement office for all undergraduate business majors.&nbsp; We help with
                                  academic planning (includes general education and major course requirements), the
@@ -822,7 +822,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <div class="o-wrap--content">
                      <div class="o-media o-media--type3">
                         <div class="o-media__frame">
-                           <div class="o-media__graphic"><img class="o-media__img" src="/cob/pics/cob-sve-media-object-component_JAN24.png" alt="Why SJSU’s MBA Program With The Silicon Valley Experience Is The Ultimate Career Boost"></div>
+                           <div class="o-media__graphic"><img class="o-media__img" src="https://www.sjsu.edu/cob/pics/cob-sve-media-object-component_JAN24.png" alt="Why SJSU’s MBA Program With The Silicon Valley Experience Is The Ultimate Career Boost"></div>
                         </div>
                         <div class="o-media__bg-extender">
                            <div class="o-media__frame">
@@ -837,7 +837,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                      </div>
                      <div class="o-media o-media--type3">
                         <div class="o-media__frame">
-                           <div class="o-media__graphic"><img class="o-media__img" src="/cob/pics/cob-sve-MBAAI-media-object-component_APR24.png" alt="Business Tower with bird flying by"></div>
+                           <div class="o-media__graphic"><img class="o-media__img" src="https://www.sjsu.edu/cob/pics/cob-sve-MBAAI-media-object-component_APR24.png" alt="Business Tower with bird flying by"></div>
                         </div>
                         <div class="o-media__bg-extender">
                            <div class="o-media__frame">
@@ -853,7 +853,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                      </div>
                      <div class="o-media o-media--type3">
                         <div class="o-media__frame">
-                           <div class="o-media__graphic"><img class="o-media__img" src="/cob/pics/cob-sve-guest-speakers-MBA-media-object-component_JUL24.png" alt="The MBA Advantage"></div>
+                           <div class="o-media__graphic"><img class="o-media__img" src="https://www.sjsu.edu/cob/pics/cob-sve-guest-speakers-MBA-media-object-component_JUL24.png" alt="The MBA Advantage"></div>
                         </div>
                         <div class="o-media__bg-extender">
                            <div class="o-media__frame">
@@ -876,7 +876,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <div class="o-wrap--content">
                      <div class="o-media o-media--postcard">
                         <div class="o-media__frame">
-                           <div class="o-media__graphic"><img class="o-media__img" src="/cob/pics/IE%20Certificate-postcard-v2.png" alt="Launching Fall 2024: Certificate in Innovation and Entrepreneurship "></div>
+                           <div class="o-media__graphic"><img class="o-media__img" src="https://www.sjsu.edu/cob/pics/IE%20Certificate-postcard-v2.png" alt="Launching Fall 2024: Certificate in Innovation and Entrepreneurship "></div>
                         </div>
                         <div class="o-media__bg-extender">
                            <div class="o-media__frame">
@@ -997,7 +997,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <div class="o-wrap--content">
                      <div class="o-media o-media--type2">
                         <div class="o-media__frame">
-                           <div class="o-media__graphic"><img class="o-media__img" src="/cob/pics/AACSB-logo-accredited-color-RGB.jpg" alt=""></div>
+                           <div class="o-media__graphic"><img class="o-media__img" src="https://www.sjsu.edu/cob/pics/AACSB-logo-accredited-color-RGB.jpg" alt=""></div>
                         </div>
                         <div class="o-media__bg-extender">
                            <div class="o-media__frame">
@@ -1061,7 +1061,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
    </div>
 </aside>
-<img class="o-coin" src="/aspis/media/brand/icon-spartan-withbackground.svg" alt=""/>
+<img class="o-coin" src="../aspis/media/brand/icon-spartan-withbackground.svg" alt=""/>
 <div class="o-wrap--footer">
 	<div class="o-wrap--content">        
 		<footer id="footer" class="o-region--footer" role="contentinfo">
@@ -1078,11 +1078,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 
 			<div class="o-region--footer__address">
-				<p><img src="/aspis/media/brand/logo-sjsu.svg" alt="SJSU"/></p>
+				<p><img src="../aspis/media/brand/logo-sjsu.svg" alt="SJSU"/></p>
 				<ul class="vertical menu">
 					<li class="o-region--footer__item"><a rel="nofollow" class="o-region--footer__university-address u-icon--location u-color--white u-icon gtm-footer--link" href="https://goo.gl/maps/8PBZPkKH15WVnq396">One Washington Square<br/>San José, CA 95192</a></li>
 					<li class="o-region--footer__item"><a href="tel:4089241000" rel="nofollow" class="o-region--footer__university-phone u-icon--phone u-color--white u-icon gtm-footer--link">408-924-1000</a></li>
-					<li class="o-region--footer__item" style="padding-top:2rem;"><a href="/online/index.php" class="gtm-footer--link u-icon u-icon--sjsuonline u-color--white" style="padding-left:2rem;">SJSU Online</a></li>
+					<li class="o-region--footer__item" style="padding-top:2rem;"><a href="../online/index.php" class="gtm-footer--link u-icon u-icon--sjsuonline u-color--white" style="padding-left:2rem;">SJSU Online</a></li>
 				</ul>
 				<ul class="vertical menu">
 					<li class="o-region--footer__item"><span id="directedit">&nbsp;</span></li>
@@ -1090,12 +1090,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 			<div class="o-region--footer__quicklinks">
 				<ul class="vertical menu large-horizontal">
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/accessibility/index.php" class="gtm-footer--link">Accessibility</a></li>
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/aiie/accreditation/index.php" class="gtm-footer--link">Accreditation</a></li>
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/titleix/index.php" class="gtm-footer--link">Title IX</a></li>					
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/diversity/index.php" class="gtm-footer--link">Diversity</a></li>
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/diversity/land-acknowledgement/" class="gtm-footer--link">Land Acknowledgement</a></li>
-					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/privacy/" class="gtm-footer--link">Privacy</a></li>
+					<li class="o-region--footer__item"><a href="../accessibility/index.php" class="gtm-footer--link">Accessibility</a></li>
+					<li class="o-region--footer__item"><a href="../aiie/accreditation/index.php" class="gtm-footer--link">Accreditation</a></li>
+					<li class="o-region--footer__item"><a href="../titleix/index.php" class="gtm-footer--link">Title IX</a></li>					
+					<li class="o-region--footer__item"><a href="../diversity/index.php" class="gtm-footer--link">Diversity</a></li>
+					<li class="o-region--footer__item"><a href="../diversity/land-acknowledgement/index.html" class="gtm-footer--link">Land Acknowledgement</a></li>
+					<li class="o-region--footer__item"><a href="../privacy/index.html" class="gtm-footer--link">Privacy</a></li>
 				</ul>
 			</div>
 
@@ -1103,34 +1103,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="o-region--footer__list">
 					<h3 class="o-region--footer__heading">Colleges</h3>
 					<ul class="vertical menu">
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/cob/index.php" class="gtm-footer--link">Business</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/education/index.php" class="gtm-footer--link">Education</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/engineering/index.php" class="gtm-footer--link">Engineering</a></li>
-                		<li class="o-region--footer__item"><a href="https://www.sjsu.edu/cgs/index.php" class="gtm-footer--link">Graduate Studies</a></li>	
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/chhs/index.php" class="gtm-footer--link">Health and Human Sciences</a></li>						
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/humanitiesandarts/index.php" class="gtm-footer--link">Humanities and the Arts</a></li>
+						<li class="o-region--footer__item"><a href="index.php" class="gtm-footer--link">Business</a></li>
+						<li class="o-region--footer__item"><a href="../education/index.php" class="gtm-footer--link">Education</a></li>
+						<li class="o-region--footer__item"><a href="../engineering/index.php" class="gtm-footer--link">Engineering</a></li>
+                		<li class="o-region--footer__item"><a href="../cgs/index.php" class="gtm-footer--link">Graduate Studies</a></li>	
+						<li class="o-region--footer__item"><a href="../chhs/index.php" class="gtm-footer--link">Health and Human Sciences</a></li>						
+						<li class="o-region--footer__item"><a href="../humanitiesandarts/index.php" class="gtm-footer--link">Humanities and the Arts</a></li>
 						<li class="o-region--footer__item"><a href="https://sjsu.edu/professional/" class="gtm-footer--link">Professional Education</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/science/index.php" class="gtm-footer--link">Science</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/socialsciences/index.php" class="gtm-footer--link">Social Science</a></li>
+						<li class="o-region--footer__item"><a href="../science/index.php" class="gtm-footer--link">Science</a></li>
+						<li class="o-region--footer__item"><a href="../socialsciences/index.php" class="gtm-footer--link">Social Science</a></li>
 					</ul>
 				</div>
 				<div class="o-region--footer__list">
 					<h3 class="o-region--footer__heading">Resources</h3>
 					<ul class="vertical menu">
 						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/siteindex" class="gtm-footer--link">A-Z Index</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/clery/docs/SJSU-Annual-Security-Report.pdf" class="gtm-footer--link">Annual Security Report [pdf]</a></li>
+						<li class="o-region--footer__item"><a href="../clery/docs/SJSU-Annual-Security-Report.pdf" class="gtm-footer--link">Annual Security Report [pdf]</a></li>
 						<li class="o-region--footer__item"><a href="https://www.spartanbookstore.com/" class="gtm-footer--link">Bookstore</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/classes/calendar/index.php" class="gtm-footer--link">Calendars</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/careers/index.php" class="gtm-footer--link">Careers and Jobs</a></li>
+						<li class="o-region--footer__item"><a href="../classes/calendar/index.php" class="gtm-footer--link">Calendars</a></li>
+						<li class="o-region--footer__item"><a href="../careers/index.php" class="gtm-footer--link">Careers and Jobs</a></li>
 						<li class="o-region--footer__item"><a href="https://catalog.sjsu.edu/index.php" class="gtm-footer--link">Catalog</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/students/" class="gtm-footer--link">Current Students</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/sjsucares/get-assistance/" class="gtm-footer--link">Emergency Food &amp; Housing</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/up/index.php" class="gtm-footer--link">Faculty &amp; Staff</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/president/priorities-and-initiatives/free-speech/index.php" class="gtm-footer--link">Freedom of Speech</a></li>
+						<li class="o-region--footer__item"><a href="../students/index.html" class="gtm-footer--link">Current Students</a></li>
+						<li class="o-region--footer__item"><a href="../sjsucares/get-assistance/index.html" class="gtm-footer--link">Emergency Food &amp; Housing</a></li>
+						<li class="o-region--footer__item"><a href="../up/index.php" class="gtm-footer--link">Faculty &amp; Staff</a></li>
+						<li class="o-region--footer__item"><a href="../president/priorities-and-initiatives/free-speech/index.php" class="gtm-footer--link">Freedom of Speech</a></li>
 						<li class="o-region--footer__item"><a href="https://library.sjsu.edu/" class="gtm-footer--link">King Library</a></li>
 						<li class="o-region--footer__item"><a href="https://blogs.sjsu.edu/newsroom/" class="gtm-footer--link">NewsCenter</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/sjsucares/resources/parenting-students.php" class="gtm-footer--link">Parenting Students</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/parking/index.php" class="gtm-footer--link">Parking and Maps</a></li>
+						<li class="o-region--footer__item"><a href="../sjsucares/resources/parenting-students.php" class="gtm-footer--link">Parenting Students</a></li>
+						<li class="o-region--footer__item"><a href="../parking/index.php" class="gtm-footer--link">Parking and Maps</a></li>
 					</ul>
 				</div>
 				<div class="o-region--footer__list">
@@ -1138,10 +1138,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<ul class="vertical menu">
 						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/contact/index.php" class="gtm-footer--link">Contact Form</a></li>
 						<li class="o-region--footer__item"><a href="https://directory.sjsu.edu/" class="gtm-footer--link">Directory</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/about/doing-business-with-sjsu.php" class="gtm-footer--link">Doing Business with SJSU</a></li>
+						<li class="o-region--footer__item"><a href="../about/doing-business-with-sjsu.php" class="gtm-footer--link">Doing Business with SJSU</a></li>
 						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/emergency" class="gtm-footer--link">Emergency Info</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/up/resources/file-a-complaint.php" class="gtm-footer--link">File a Complaint</a></li>
-						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/titleixeo/make-a-report/index.php" class="gtm-footer--link">Report a Title IX Complaint</a></li>
+						<li class="o-region--footer__item"><a href="../up/resources/file-a-complaint.php" class="gtm-footer--link">File a Complaint</a></li>
+						<li class="o-region--footer__item"><a href="../titleixeo/make-a-report/index.php" class="gtm-footer--link">Report a Title IX Complaint</a></li>
 					</ul>
 				</div>
 			</div>
@@ -1150,10 +1150,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div><!-- /wrap.content -->
 </div><!-- /wrap.footer -->
 <span class="u-gradientbar--footer"></span>  
-<script src="/aspis/js/vendor/jquery.js"></script>
-<script src="/aspis/js/vendor/what-input.js"></script>
-<script src="/aspis/js/vendor/foundation.js"></script>		
-<script src="/aspis/js/vendor/jquery-accessibleMegaMenu.js"></script>
+<script src="../aspis/js/vendor/jquery.js"></script>
+<script src="../aspis/js/vendor/what-input.js"></script>
+<script src="../aspis/js/vendor/foundation.js"></script>		
+<script src="../aspis/js/vendor/jquery-accessibleMegaMenu.js"></script>
 
 <script>
 	$(document).foundation();	
@@ -1177,7 +1177,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		openClass: "open"
 	});
 </script>
-<script src="/aspis/js/vendor/direct-edit.js"></script>
+<script src="../aspis/js/vendor/direct-edit.js"></script>
 <script>
 $(function() {
 	

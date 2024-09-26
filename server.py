@@ -9,24 +9,26 @@ from pathlib import Path
 
 host = '127.0.0.1' # Localhost
 FORMAT = 'utf-8' # To decode from byte to utf-8
-header = 1024 # Number of bytes accepted
+max_connections = 100
+max_timeout = 120  # Max timeout for HTTP 1.1 connection
+min_timeout = 5  # Min timeout for HTTP 1.1 connection
+# active_connections = 0
+# connection_times = []
 
-# def http_headers(status_code, file_path=None):
-#     status_codes = {
-#         200: 'OK',
-#         400: 'Bad Request', 
-#         403: 'Forbidden',
-#         404: 'Not Found', 
-#     }
+def dynamic_timeout_heuristic(num_active_connections):
+    load_factor = num_active_connections / max_connections
+    dynamic_timeout = max_timeout * (1 - load_factor) # Makes sure that the timeout is more if server is less busy and vice-versa
+    return max(min(dynamic_timeout, max_timeout), min_timeout) # Ensures that the timeout is always in the range min and max timeouts
 
-# Supported content types
+# Supported content types of all types using mime 
 def get_content_type(file_path):
     mime_type, encoding = mimetypes.guess_type(file_path)
     return mime_type
 
+# Spawn the worker thread to process the requests depending on the protocol
 def worker_thread(connection, address, document_root):
     try:
-        request = connection.recv(header).decode()
+        request = connection.recv(1024).decode()
         if not request:
             return
         
@@ -62,6 +64,7 @@ def worker_thread(connection, address, document_root):
             connection.settimeout(10)
             print("Keeping connection alive for HTTP/1.1...")
             # time.sleep(60)  # Simulate persistent connection timeout
+        
         else:
             print("Closing connection for HTTP/1.0...")
             connection.close()
@@ -96,7 +99,7 @@ def dispatcher(server):
     print(f"Active connections {threading.active_count() - 1}") # subtract 1 beacuse there is start thread always running
 
 def start_server(document_root, port):
-    # Passing a int limits the new connections and deletes that are waiting to be connected
+    # Passing an int limits the new connections and deletes that are waiting to be connected
     ADDRESS = (host, port)
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1) # So we don't run into "Address already in use error" if server is not closed properly
@@ -115,8 +118,9 @@ def start_server(document_root, port):
         except Exception as e:
             print(f"Error while connecting: {e}")
 
+# Handle incorrect start of the server
 if len(sys.argv) != 5 or sys.argv[1] != '-document_root' or sys.argv[3] != '-port':
-    print("Please use the right command in the format: $ ./server -document_root '/home/moazzeni/webserver_files' -port 8888")
+    print("Please use the right command in the format: $ ./server -document_root '<path>' -port <port>")
     sys.exit(1)
 
 document_root = sys.argv[2]

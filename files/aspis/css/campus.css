@@ -137,13 +137,13 @@ Structural breakpoints
 @font-face {
 	font-family: 'SJSUSpartan';
 	font-weight: normal;
-	src: local('SJSUSpartanRegular'), url('/aspis/fonts/SJSUSpartanRegular.woff') format('woff');
+	src: local('SJSUSpartanRegular'), url('https://www.sjsu.edu/aspis/fonts/SJSUSpartanRegular.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'SJSUSpartan';
 	font-weight: bold;
-	src: local('SJSUSpartanBold'), url('/aspis/fonts/SJSUSpartanBold.woff') format('woff');
+	src: local('SJSUSpartanBold'), url('https://www.sjsu.edu/aspis/fonts/SJSUSpartanBold.woff') format('woff');
 }
 
 /* || ELEMENTS */
@@ -868,7 +868,7 @@ filter: grayscale(100%);
 	display:block;
 	width:100%;
 	padding:1rem;
-	background-image:url('/aspis/media/icons/ui/icon-angle-bracket-right-white.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-white.svg');
 	background-position: right center;
 	background-repeat:no-repeat;
 	text-decoration:none;
@@ -882,12 +882,12 @@ a.o-c2a__link {
 
 	.o-c2a:hover .o-c2a__link {
 		color:#0055a2;
-		background-image:url('/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg');
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg');
 	}
 
 	.o-c2a__link:hover {
 		color:#0055a2;
-		background-image:url('/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg');		
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg');		
 	}
 
 }
@@ -928,12 +928,12 @@ a.o-c2a__link {
 	height:16px;
 	width:16px;
 	margin:0 8px;
-	background:url('/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg') center no-repeat;
+	background:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg') center no-repeat;
 	z-index:10;
 }
 
 .o-c2a--card__link:hover .o-c2a--card__arrow, .o-c2a--card__link:focus .o-c2a--card__arrow {
-	background-image:url(/aspis/media/icons/ui/icon-angle-bracket-right-white.svg);
+	background-image:url(https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-white.svg);
 }
 
 .o-c2a__arrow { 
@@ -941,7 +941,7 @@ a.o-c2a__link {
 	height:16px;
 	width:16px;
 	margin:0 8px;
-	background:url('/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg') center no-repeat;
+	background:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg') center no-repeat;
 	z-index:10;
 }
 
@@ -978,13 +978,13 @@ a.o-c2a__link {
 	height:16px;
 	width:16px;
 	margin:0 8px;
-	background:url('/aspis/media/icons/ui/icon-angle-bracket-right.svg') center no-repeat;
+	background:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right.svg') center no-repeat;
 	z-index:10;
 }
 
 @media (hover:hover) {
 	.o-c2a--content-page.o-c2a:hover .o-c2a__link, .o-c2a--content-page .o-c2a__link:hover {
-		background-image:url('/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg');
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg');
 	}
 }
 
@@ -1094,12 +1094,12 @@ a.o-c2a__link {
 	text-decoration: none;
 	padding:54px 0 0 0;
 	margin:0;
-	background: url('/aspis/media/bgs/bg-sjsu-circles-no-repeat.svg') top repeat-x #d2d2d2;
+	background: url('https://www.sjsu.edu/aspis/media/bgs/bg-sjsu-circles-no-repeat.svg') top repeat-x #d2d2d2;
 }
 
 .o-calendar__event:focus {
 	background-color:#ffffff;
-	background-image:url('/aspis/media/bgs/bg-sjsu-circles-no-repeat-hover.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/bgs/bg-sjsu-circles-no-repeat-hover.svg');
 	text-decoration:none;
 }
 
@@ -1107,7 +1107,7 @@ a.o-c2a__link {
 
 	.o-calendar__event:hover {
 		background-color:#ffffff;
-		background-image:url('/aspis/media/bgs/bg-sjsu-circles-no-repeat-hover.svg');
+		background-image:url('https://www.sjsu.edu/aspis/media/bgs/bg-sjsu-circles-no-repeat-hover.svg');
 		text-decoration:none;
 	}	
 }
@@ -1184,7 +1184,7 @@ a:active .o-calendar__event-name {
 .o-card {
 	display:flex;
 	flex-direction:column;
-	background:url('/aspis/media/bgs/bg-triangles-up-small.svg') #005fb4;
+	background:url('https://www.sjsu.edu/aspis/media/bgs/bg-triangles-up-small.svg') #005fb4;
 	background-position-y:bottom;
 	padding-bottom:3rem;
 }
@@ -2060,7 +2060,7 @@ a.o-billboard__link:focus {
 	}
 
 	.o-nav--breadcrumb__item:not(:last-child)::after {
-		content:url('/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-gray.svg');
+		content:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-gray.svg');
 	}
 }
 
@@ -2086,7 +2086,7 @@ a.o-billboard__link:focus {
 	position: relative;
 	margin: 0 0.75rem;
 	opacity: 1;
-	content:url('/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-gray-small.svg');
+	content:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-gray-small.svg');
 	color: #9b9b9b;
 }
 
@@ -2210,7 +2210,7 @@ padding:0.75rem .5rem 1rem;
 .o-nav--local__parent > a::before {
 	content: "Back to ";
 	padding-left:1.375rem;
-	background-image:url(/aspis/media/icons/ui/icon-angle-bracket-left-sjsu-gray.svg);
+	background-image:url(https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-left-sjsu-gray.svg);
 	background-repeat:no-repeat;
 	background-position:center left;
 }
@@ -3248,7 +3248,7 @@ padding-top:92px;
 .o-wrap--footer {
 	background:#0055a2;
 	background:
-		url('/aspis/media/bgs/bg-triangles-up-big.svg'),
+		url('https://www.sjsu.edu/aspis/media/bgs/bg-triangles-up-big.svg'),
 		linear-gradient(-180deg, #0055a2 20%, #0761b3 100%);
 	background-position-y:bottom;
 	background-size:100%, 100%;
@@ -3279,7 +3279,7 @@ Changing it to a background image on the container rather than using a pseudo-el
 
 .o-emergency__panel {
 	padding-left:145px;
-	background:url('/aspis/media/icons/ui/icon-informational-sjsu-blue.svg') left center no-repeat;
+	background:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-informational-sjsu-blue.svg') left center no-repeat;
 }
 
 @media screen and (max-width:767px) {
@@ -3294,7 +3294,7 @@ Changing it to a background image on the container rather than using a pseudo-el
 }
 
 .o-emergency.u-alert--red .o-emergency__panel {
-	background-image:url('/aspis/media/icons/ui/icon-emergency-white.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-emergency-white.svg');
 
 }
 
@@ -3308,7 +3308,7 @@ Changing it to a background image on the container rather than using a pseudo-el
 }
 
 .o-emergency.u-alert--yellow .o-emergency__panel {		
-	background-image:url('/aspis/media/icons/ui/icon-emergency-black.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-emergency-black.svg');	
 }
 
 .o-emergency.u-alert--yellow .o-emergency__link {
@@ -3322,7 +3322,7 @@ Changing it to a background image on the container rather than using a pseudo-el
 
 .o-emergency.u-alert--gray .o-emergency__panel {
 
-	background-image:url('/aspis/media/icons/ui/icon-informational-white.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-informational-white.svg');
 
 }
 
@@ -3573,7 +3573,7 @@ Changing it to a background image on the container rather than using a pseudo-el
 	visibility: visible;
 	display: inline-block;
 	position:absolute;
-	background-image:url('/aspis/media/icons/ui/icon-angle-bracket-down-white-big.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-down-white-big.svg');
 	background-repeat:no-repeat;
 	background-position:center;
 	height:44px;
@@ -3585,7 +3585,7 @@ Changing it to a background image on the container rather than using a pseudo-el
 	visibility: visible;
 	display: inline-block;
 	position:absolute;
-	background-image:url('/aspis/media/icons/ui/icon-angle-bracket-up-white-big.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-up-white-big.svg');
 	background-repeat:no-repeat;
 	background-position:center;
 	height:44px;
@@ -3727,27 +3727,27 @@ content:"Your alt tag is bad";
 }
 
 .u-bg--typeface-pattern-diamonds {
-	background:	url('/aspis/media/bgs/bg-sjsu-diamonds.svg') repeat #ffffff;
+	background:	url('https://www.sjsu.edu/aspis/media/bgs/bg-sjsu-diamonds.svg') repeat #ffffff;
 }
 
 .u-bg--typeface-pattern-diamonds.u-bg--fade-linear {
-	background:	linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)), url('/aspis/media/bgs/bg-sjsu-diamonds.svg') repeat #ffffff;
+	background:	linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)), url('https://www.sjsu.edu/aspis/media/bgs/bg-sjsu-diamonds.svg') repeat #ffffff;
 }
 
 .u-bg--typeface-pattern-diamonds.u-bg--fade-radial {
-	background:	radial-gradient(rgba(255,255,255,0),rgba(255,255,255,1)), url('/aspis/media/bgs/bg-sjsu-diamonds.svg') repeat #ffffff;
+	background:	radial-gradient(rgba(255,255,255,0),rgba(255,255,255,1)), url('https://www.sjsu.edu/aspis/media/bgs/bg-sjsu-diamonds.svg') repeat #ffffff;
 }
 
 .u-bg--typeface-pattern-circles {
-	background:	url('/aspis/media/bgs/bg-sjsu-circles.svg') repeat #ffffff;
+	background:	url('https://www.sjsu.edu/aspis/media/bgs/bg-sjsu-circles.svg') repeat #ffffff;
 }
 
 .u-bg--typeface-pattern-circles.u-bg--fade-linear {
-	background: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)), url('/aspis/media/bgs/bg-sjsu-circles.svg') repeat #ffffff;
+	background: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)), url('https://www.sjsu.edu/aspis/media/bgs/bg-sjsu-circles.svg') repeat #ffffff;
 }
 
 .u-bg--typeface-pattern-circles.u-bg--fade-radial {
-	background: radial-gradient(rgba(255,255,255,0),rgba(255,255,255,1)), url('/aspis/media/bgs/bg-sjsu-circles.svg') repeat #ffffff;
+	background: radial-gradient(rgba(255,255,255,0),rgba(255,255,255,1)), url('https://www.sjsu.edu/aspis/media/bgs/bg-sjsu-circles.svg') repeat #ffffff;
 }
 
 /*
@@ -3771,7 +3771,7 @@ background: url('/aspis/media/bgs/bg-triangles-down-small.svg') top repeat-x #f1
 
 .u-bg--triangles-down-big {
 	background:#0716b3;
-	background:url('/aspis/media/bgs/bg-triangles-down-big.svg'), linear-gradient(-1deg, #0055a2 0%, #0761b3 88%);
+	background:url('https://www.sjsu.edu/aspis/media/bgs/bg-triangles-down-big.svg'), linear-gradient(-1deg, #0055a2 0%, #0761b3 88%);
 
 }
 
@@ -3948,147 +3948,147 @@ background: url('/aspis/media/bgs/bg-triangles-down-small.svg') top repeat-x #f1
 }
 
 .u-icon--gift {
-	background-image:url('/aspis/media/icons/ui/icon-gift.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-gift.svg');
 }
 
 @media (hover: hover) {
 
 	a.u-icon--gift:hover {
-		background-image:url('/aspis/media/icons/ui/icon-gift-sjsu-gold.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-gift-sjsu-gold.svg');	
 	}
 
 }
 
 a.u-icon--gift:focus {
-	background-image:url('/aspis/media/icons/ui/icon-gift-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-gift-sjsu-gold.svg');	
 }
 
 .u-icon--gift.u-color--sjsu-gray {
-	background-image:url('/aspis/media/icons/ui/icon-gift-sjsu-gray.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-gift-sjsu-gray.svg');	
 }
 
 .u-icon--gift.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/ui/icon-gift-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-gift-sjsu-blue.svg');
 }
 
 .u-icon--gift.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/ui/icon-gift-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-gift-sjsu-gold.svg');	
 }
 
 .u-icon--gift.u-color--white {
-	background-image:url('/aspis/media/icons/ui/icon-gift-white.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-gift-white.svg');	
 }
 
 
 .u-icon--close {
-	background-image:url('/aspis/media/icons/ui/icon-close.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-close.svg');
 }
 
 .u-icon--close.u-color--white {
-	background-image:url('/aspis/media/icons/ui/icon-close-white.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-close-white.svg');	
 }
 
 .u-icon--close.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/ui/icon-close-sjsu-blue.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-close-sjsu-blue.svg');	
 }
 
 .u-icon--clock {
-	background-image:url('/aspis/media/icons/ui/icon-clock.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-clock.svg');
 }
 
 .u-icon--clock.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/ui/icon-clock-sjsu-gold.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-clock-sjsu-gold.svg');
 }
 
 .u-icon--search {
-	background-image:url('/aspis/media/icons/ui/icon-search.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-search.svg');
 }
 
 .u-icon--search.u-color--white {
-	background-image:url('/aspis/media/icons/ui/icon-search-white.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-search-white.svg');
 }
 
 .u-icon--search.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/ui/icon-search-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-search-sjsu-blue.svg');
 }
 
 .u-icon--spirit-mark {
-	background-image:url('/aspis/media/brand/icon-spartan-spirit-mark.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/brand/icon-spartan-spirit-mark.svg');	
 }
 
 @media (hover: hover) {
 
 	a.u-icon--spirit-mark:hover {
-		background-image:url('/aspis/media/brand/icon-spartan-spirit-mark-sjsu-gold.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/brand/icon-spartan-spirit-mark-sjsu-gold.svg');	
 	}
 
 }
 
 a.u-icon--spirit-mark:focus {
-	background-image:url('/aspis/media/brand/icon-spartan-spirit-mark-sjsu-gold.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/brand/icon-spartan-spirit-mark-sjsu-gold.svg');
 }
 
 .u-icon--spirit-mark.u-color--white {
-	background-image:url('/aspis/media/brand/icon-spartan-spirit-mark-white.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/brand/icon-spartan-spirit-mark-white.svg');	
 }
 
 .u-icon--spirit-mark.u-color--sjsu-blue {
-	background-image:url('/aspis/media/brand/icon-spartan-spirit-mark-sjsu-blue.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/brand/icon-spartan-spirit-mark-sjsu-blue.svg');	
 }
 
 .u-icon--spirit-mark.u-color--sjsu-gold {
-	background-image:url('/aspis/media/brand/icon-spartan-spirit-mark-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/brand/icon-spartan-spirit-mark-sjsu-gold.svg');	
 }
 
 .u-icon--location {
-	background-image:url('/aspis/media/icons/ui/icon-location-sjsu-gray.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-location-sjsu-gray.svg');
 }
 .u-icon--location.u-color--white {
-	background-image:url('/aspis/media/icons/ui/icon-location-white-small.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-location-white-small.svg');
 }
 
 .u-icon--location.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/ui/icon-location-sjsu-gold-small.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-location-sjsu-gold-small.svg');
 }
 
 .u-icon--location.u-icon--big {
-	background-image:url('/aspis/media/icons/ui/icon-location-sjsu-gray-big.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-location-sjsu-gray-big.svg');
 }
 
 .u-icon--pause {
-	background-image:url('/aspis/media/icons/ui/icon-pause.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-pause.svg');
 }
 
 .u-icon--pause.u-color--black {
-	background-image:url('/aspis/media/icons/ui/icon-pause-black.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-pause-black.svg');	
 }
 
 .u-icon--play {
-	background-image:url('/aspis/media/icons/ui/icon-play.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-play.svg');
 }
 
 .u-icon--play.u-color--black {
-	background-image:url('/aspis/media/icons/ui/icon-play-black.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-play-black.svg');
 }
 
 .u-icon--phone {
-	background-image:url('/aspis/media/icons/ui/icon-phone.svg');  
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-phone.svg');  
 }
 
 .u-icon--phone.u-color--sjsu-gray {
-	background-image:url('/aspis/media/icons/ui/icon-phone-sjsu-gray.svg');  
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-phone-sjsu-gray.svg');  
 }
 
 .u-icon--phone.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/ui/icon-phone-sjsu-blue.svg');  
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-phone-sjsu-blue.svg');  
 }
 
 .u-icon--phone.u-color--sjsu-blue.u-icon--small {
-	background-image:url('/aspis/media/icons/ui/icon-phone-sjsu-blue-small.svg'); 
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-phone-sjsu-blue-small.svg'); 
 }
 
 .u-icon--phone.u-color--sjsu-blue.u-icon--medium {
-	background-image:url('/aspis/media/icons/ui/icon-phone-sjsu-blue-small.svg'); 	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-phone-sjsu-blue-small.svg'); 	
 }
 
 .u-icon--video-control {
@@ -4099,128 +4099,128 @@ a.u-icon--spirit-mark:focus {
 }
 
 .u-icon--phone.u-color--white {
-	background-image:url('/aspis/media/icons/ui/icon-phone-white-small.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-phone-white-small.svg');
 }
 
 .u-icon--mail {
-	background-image:url('/aspis/media/icons/ui/icon-mail.svg');  
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-mail.svg');  
 }   
 
 .u-icon--mail.u-color--sjsu-gray {
-	background-image:url('/aspis/media/icons/ui/icon-mail-sjsu-gray.svg');  
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-mail-sjsu-gray.svg');  
 }  
 
 .u-icon--mail.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/ui/icon-mail-sjsu-blue.svg');  
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-mail-sjsu-blue.svg');  
 }
 
 .u-icon--mail.u-color--sjsu-blue.u-icon--small {
-	background-image:url('/aspis/media/icons/ui/icon-mail-sjsu-blue-small.svg'); 
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-mail-sjsu-blue-small.svg'); 
 }
 
 .u-icon--mail.u-color--sjsu-blue.u-icon--medium {
-	background-image:url('/aspis/media/icons/ui/icon-mail-sjsu-blue-small.png'); 
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-mail-sjsu-blue-small.png'); 
 }
 
 .u-icon--ticket {
-	background-image:url('/aspis/media/icons/ui/icon-ticket.svg');  
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-ticket.svg');  
 }  
 
 .u-icon--ticket.u-color--sjsu-gray {
-	background-image:url('/aspis/media/icons/ui/icon-ticket-sjsu-gray.svg');  
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-ticket-sjsu-gray.svg');  
 }  
 
 .u-icon--photo-caption-triangle.u-color--sjsu-gold {  
-	background-image:url('/aspis/media/icons/ui/icon-photo-caption-triangle-sjsu-gold.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-photo-caption-triangle-sjsu-gold.svg');
 }
 
 .u-icon--hamburger.u-color--white {
-	background-image:url('/aspis/media/icons/ui/icon-hamburger-white.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-hamburger-white.svg');
 }
 
 .u-icon--hamburger.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/ui/icon-hamburger-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-hamburger-sjsu-blue.svg');
 }
 
 .u-icon--facebook {
-	background-image:url('/aspis/media/icons/apps/icon-facebook.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-facebook.svg');	
 }
 
 
 @media (hover: hover) {
 	a.u-icon--facebook:hover {
-		background-image:url('/aspis/media/icons/apps/icon-facebook-brand.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-facebook-brand.svg');	
 	}		
 }
 
 a.u-icon--facebook:focus {
-	background-image:url('/aspis/media/icons/apps/icon-facebook-brand.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-facebook-brand.svg');	
 }
 
 .u-icon--facebook.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-facebook-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-facebook-sjsu-blue.svg');
 }
 
 .u-icon--facebook.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/apps/icon-facebook-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-facebook-sjsu-gold.svg');	
 }
 
 .u-icon--facebook.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/apps/icon-facebook-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-facebook-sjsu-gold.svg');	
 }
 
 .u-icon--twitter {
-	background-image:url('/aspis/media/icons/apps/icon-twitter.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-twitter.svg');
 }
 
 @media (hover: hover) {
 
 	a.u-icon--twitter:hover {
-		background-image:url('/aspis/media/icons/apps/icon-twitter-brand.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-twitter-brand.svg');	
 	}
 
 
 }
 
 a.u-icon--twitter:focus {
-	background-image:url('/aspis/media/icons/apps/icon-twitter-brand.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-twitter-brand.svg');	
 }
 
 .u-icon--twitter.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-twitter-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-twitter-sjsu-blue.svg');
 }
 
 .u-icon--twitter.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/apps/icon-twitter-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-twitter-sjsu-gold.svg');	
 }
 
 .u-icon--linkedin {
-	background-image:url('/aspis/media/icons/apps/icon-linkedin.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-linkedin.svg');
 }
 
 @media (hover: hover) {
 
 	a.u-icon--linkedin:hover {
-		background-image:url('/aspis/media/icons/apps/icon-linkedin-brand.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-linkedin-brand.svg');	
 	}
 
 
 }
 
 a.u-icon--linkedin:focus {
-	background-image:url('/aspis/media/icons/apps/icon-linkedin-brand.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-linkedin-brand.svg');	
 }
 
 .u-icon--linkedin.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-linkedin-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-linkedin-sjsu-blue.svg');
 }
 
 .u-icon--linkedin.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/apps/icon-linkedin-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-linkedin-sjsu-gold.svg');	
 }
 
 .u-icon--instagram {
-	background-image:url('/aspis/media/icons/apps/icon-instagram.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-instagram.svg');
 }
 
 .o-region--contact__social-link .u-icon--instagram {
@@ -4230,26 +4230,26 @@ a.u-icon--linkedin:focus {
 @media (hover: hover) {
 
 	a.u-icon--instagram:hover {
-		background-image:url('/aspis/media/icons/apps/icon-instagram-brand.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-instagram-brand.svg');	
 	}
 
 
 }
 
 a.u-icon--instagram:focus {
-	background-image:url('/aspis/media/icons/apps/icon-instagram-brand.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-instagram-brand.svg');	
 }
 
 .u-icon--instagram.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-instagram-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-instagram-sjsu-blue.svg');
 }
 
 .u-icon--instagram.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/apps/icon-instagram-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-instagram-sjsu-gold.svg');	
 }
 
 .u-icon--youtube {
-	background-image:url('/aspis/media/icons/apps/icon-youtube.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-youtube.svg');
 }
 
 .o-region--contact__social-link .u-icon--youtube {
@@ -4257,165 +4257,165 @@ a.u-icon--instagram:focus {
 }
 
 a.u-icon--youtube:hover, a.u-icon--youtube:focus {
-	background-image:url('/aspis/media/icons/apps/icon-youtube-brand.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-youtube-brand.svg');	
 }
 
 .u-icon--youtube.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-youtube-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-youtube-sjsu-blue.svg');
 }
 
 .u-icon--youtube.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/apps/icon-youtube-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-youtube-sjsu-gold.svg');	
 }
 
 .u-icon--snapchat {
-	background-image:url('/aspis/media/icons/apps/icon-snapchat.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-snapchat.svg');
 }
 
 @media (hover: hover) {
 
 	a.u-icon--snapchat:hover {
-		background-image:url('/aspis/media/icons/apps/icon-snapchat-brand.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-snapchat-brand.svg');	
 	}
 
 
 }
 
 a.u-icon--snapchat:focus {
-	background-image:url('/aspis/media/icons/apps/icon-snapchat-brand.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-snapchat-brand.svg');	
 }
 
 .u-icon--snapchat.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-snapchat-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-snapchat-sjsu-blue.svg');
 }
 
 .u-icon--snapchat.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/apps/icon-snapchat-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-snapchat-sjsu-gold.svg');	
 }
 
 .u-icon--grad-cap {
-	background-image:url('/aspis/media/icons/ui/icon-grad-cap.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-grad-cap.svg');
 }
 
 @media (hover: hover) {
 
 	a.u-icon--grad-cap:hover {
-		background-image:url('/aspis/media/icons/ui/icon-grad-cap-sjsu-gold.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-grad-cap-sjsu-gold.svg');	
 	}
 
 }
 
 a.u-icon--grad-cap:focus {
-	background-image:url('/aspis/media/icons/ui/icon-grad-cap-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-grad-cap-sjsu-gold.svg');	
 }
 
 .u-icon--grad-cap.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/ui/icon-grad-cap-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-grad-cap-sjsu-blue.svg');
 }
 
 .u-icon--grad-cap.u-icon--gray {
-	background-image:url('/aspis/media/icons/ui/icon-grad-cap-sjsu-gray.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-grad-cap-sjsu-gray.svg');
 }
 
 .u-icon--grad-cap.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/ui/icon-grad-cap-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-grad-cap-sjsu-gold.svg');	
 }
 
 .u-icon--grad-cap.u-color--white {
-	background-image:url('/aspis/media/icons/ui/icon-grad-cap-white.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-grad-cap-white.svg');	
 }
 
 .u-icon--canvas {
-	background-image:url('/aspis/media/icons/apps/icon-canvas.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-canvas.svg');
 }
 
 @media (hover: hover) {
 
 
 	a.u-icon--canvas:hover {
-		background-image:url('/aspis/media/icons/apps/icon-canvas-sjsu-gold.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-canvas-sjsu-gold.svg');	
 	}
 
 }
 
 a.u-icon--canvas:focus {
-	background-image:url('/aspis/media/icons/apps/icon-canvas-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-canvas-sjsu-gold.svg');	
 }
 
 .u-icon--canvas.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-canvas-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-canvas-sjsu-blue.svg');
 }
 
 .u-icon--canvas.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-canvas-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-canvas-sjsu-blue.svg');
 }
 
 .u-icon--canvas.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/apps/icon-canvas-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-canvas-sjsu-gold.svg');	
 }
 
 .u-icon--canvas.u-color--white {
-	background-image:url('/aspis/media/icons/apps/icon-canvas-white.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-canvas-white.svg');	
 }
 
 .u-icon--onesjsu {
-	background-image:url('/aspis/media/icons/apps/icon-onesjsu.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-onesjsu.svg');
 }
 
 @media (hover: hover) {
 
 	a.u-icon--onesjsu:hover {
-		background-image:url('/aspis/media/icons/apps/icon-onesjsu-sjsu-gold.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-onesjsu-sjsu-gold.svg');	
 	}
 
 }
 
 a.u-icon--onesjsu:focus {
-	background-image:url('/aspis/media/icons/apps/icon-onesjsu-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-onesjsu-sjsu-gold.svg');	
 }
 
 .u-icon--onesjsu.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-onesjsu-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-onesjsu-sjsu-blue.svg');
 }
 
 .u-icon--onesjsu.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-onesjsu-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-onesjsu-sjsu-blue.svg');
 }
 
 .u-icon--onesjsu.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/apps/icon-onesjsu-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-onesjsu-sjsu-gold.svg');	
 }
 
 .u-icon--onesjsu.u-color--white {
-	background-image:url('/aspis/media/icons/apps/icon-onesjsu-white.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-onesjsu-white.svg');	
 }
 
 .u-icon--sjsuonline {
-	background-image:url('/aspis/media/icons/apps/icon-sjsuonline.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-sjsuonline.svg');
 }
 
 @media (hover: hover) {
 
 	a.u-icon--sjsuonline:hover {
-		background-image:url('/aspis/media/icons/apps/icon-sjsuonline-sjsu-gold.svg');	
+		background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-sjsuonline-sjsu-gold.svg');	
 	}
 
 }
 
 a.u-icon--sjsuonline:focus {
-	background-image:url('/aspis/media/icons/apps/icon-sjsuonline-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-sjsuonline-sjsu-gold.svg');	
 }
 
 .u-icon--sjsuonline.u-color--sjsu-blue {
-	background-image:url('/aspis/media/icons/apps/icon-sjsuonline-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-sjsuonline-sjsu-blue.svg');
 }
 
 .u-icon--sjsuonline.u-color--sjsu-gold {
-	background-image:url('/aspis/media/icons/apps/icon-sjsuonline-sjsu-gold.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-sjsuonline-sjsu-gold.svg');	
 }
 
 .u-icon--sjsuonline.u-color--white {
-	background-image:url('/aspis/media/icons/apps/icon-sjsuonline-white.svg');	
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/apps/icon-sjsuonline-white.svg');	
 }
 
 
@@ -4425,7 +4425,7 @@ a.u-icon--sjsuonline:focus {
 
 
 html[data-whatinput="touch"]  a[aria-expanded="true"] .u-icon--hamburger {
-	background-image:url('/aspis/media/icons/ui/icon-close.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-close.svg');
 }
 
 
@@ -4588,7 +4588,7 @@ nav ul.is-accordion-submenu {
 
 
 .submenu-toggle {
-	background-image:url('/aspis/media/icons/ui/icon-angle-bracket-down-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-down-sjsu-blue.svg');
 	background-repeat:no-repeat;
 	background-position:center;
 	height:44px;
@@ -4596,15 +4596,15 @@ nav ul.is-accordion-submenu {
 }
 
 .o-nav--global .submenu-toggle {
-	background-image:url('/aspis/media/icons/ui/icon-angle-bracket-down-white.svg')
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-down-white.svg')
 }
 
 .submenu-toggle[aria-expanded="true"] {
-	background-image:url('/aspis/media/icons/ui/icon-angle-bracket-up-sjsu-blue.svg');
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-up-sjsu-blue.svg');
 }
 
 .o-nav--global .submenu-toggle[aria-expanded="true"] {
-	background-image:url('/aspis/media/icons/ui/icon-angle-bracket-up-white.svg')
+	background-image:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-up-white.svg')
 }
 
 .submenu-toggle::after {
@@ -4741,7 +4741,7 @@ font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
 	border:none;
 	margin-top:-0.5rem;
 	margin-right:0.5rem;
-	content:url('/aspis/media/icons/ui/icon-angle-bracket-down-sjsu-blue.svg');
+	content:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-down-sjsu-blue.svg');
 }
 
 .accordion-menu .is-accordion-submenu-parent[aria-expanded='true'] > a::after {
@@ -4749,7 +4749,7 @@ font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
 	margin-top:-0.5rem;
 	margin-right:0.5rem;  
 	border:none;
-	content:url('/aspis/media/icons/ui/icon-angle-bracket-up-white.svg');
+	content:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-up-white.svg');
 }
 
 .o-nav--site .is-accordion-submenu > .is-accordion-submenu-item:first-child a:first-child {
@@ -4825,7 +4825,7 @@ a.u-icon {
 	}
 
 	.o-nav--site .drilldown .js-drilldown-back > a::before {
-		content:url('/aspis/media/icons/ui/icon-angle-bracket-left-sjsu-blue.svg');
+		content:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-left-sjsu-blue.svg');
 		border:none;
 		margin-top:-1rem;
 		margin-right:1rem;
@@ -4833,19 +4833,19 @@ a.u-icon {
 
 
 	.o-nav--site .drilldown .is-drilldown-submenu-parent > a::after {
-		content:url('/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg');
+		content:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-sjsu-blue.svg');
 		border:none;
 	}
 
 	.o-nav--global .drilldown .js-drilldown-back > a::before {
-		content:url('/aspis/media/icons/ui/icon-angle-bracket-left-white.svg');
+		content:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-left-white.svg');
 		border:none;
 		margin-top:-1rem;
 		margin-right:1rem;
 	}	
 
 	.o-nav--global .drilldown .is-drilldown-submenu-parent > a::after {
-		content:url('/aspis/media/icons/ui/icon-angle-bracket-right-white.svg');
+		content:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-right-white.svg');
 		border:none;
 	}	
 
@@ -4910,7 +4910,7 @@ a.u-icon {
 	}
 
 	.dropdown.menu > li.is-dropdown-submenu-parent > a {
-		background:url('/aspis/media/icons/ui/icon-angle-bracket-down-sjsu-gray.svg') center 99% no-repeat;    
+		background:url('https://www.sjsu.edu/aspis/media/icons/ui/icon-angle-bracket-down-sjsu-gray.svg') center 99% no-repeat;    
 	}
 
 	.dropdown.menu > li.opens-right > .is-dropdown-submenu li a {
