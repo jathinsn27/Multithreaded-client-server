@@ -8,12 +8,9 @@ import mimetypes
 from pathlib import Path
 
 host = '127.0.0.1' # Localhost
-FORMAT = 'utf-8' # To decode from byte to utf-8
-max_connections = 100
-max_timeout = 120  # Max timeout for HTTP 1.1 connection
+max_connections = 10 # Max clients that can connect
+max_timeout = 40  # Max timeout for HTTP 1.1 connection
 min_timeout = 5  # Min timeout for HTTP 1.1 connection
-# active_connections = 0
-# connection_times = []
 
 def dynamic_timeout_heuristic(num_active_connections):
     load_factor = num_active_connections / max_connections
@@ -27,18 +24,20 @@ def get_content_type(file_path):
 
 # Spawn the worker thread to process the requests depending on the protocol
 def worker_thread(connection, address, document_root):
+
     try:
         request = connection.recv(1024).decode()
         if not request:
             return
         
-        print(f"Request received from {address}: {request}")
+        # print(f"Request received from {address}: {request}")
 
         headers = request.split("\r\n") # Used to parse the request since HTTP requests are generally separated by carriage return & new line
         method, path, protocol = headers[0].split()
 
+        # If the method is not GET
         if method != "GET":
-            send_response(connection, '405', "text/html", "405 Method Not Allowed")
+            send_response(connection, '405', "text/html", "405 Method Not Allowed", protocol)
             return
 
         if path == "/":
@@ -46,42 +45,56 @@ def worker_thread(connection, address, document_root):
 
         file_path = Path(document_root + path)
 
-        # file_path = os.path.join(document_root, path.lstrip("/"))
-
+        # Check if the file exisits
         if not os.path.exists(file_path):
-            send_response(connection, '404', "text/html", "404 Not Found")
+            send_response(connection, '404', "text/html", "404: Resource Not Found", protocol)
+            return
+        
+        # Check if the file has correct access
+        if not os.access(file_path, os.R_OK):
+            send_response(connection, '403', "text/html", "403 Forbidden Access Denied", protocol)
             return
         
         content_type = get_content_type(file_path)
-        print(f"Serving file: {file_path} with content type: {content_type}")
+        # print(f"Serving file: {file_path} with content type: {content_type}")
 
         with open(file_path, 'rb') as file:
             file_data = file.read()
-            content_type = get_content_type(file_path)
-            send_response(connection, "200 OK", content_type, file_data)
 
         if protocol == "HTTP/1.1":
-            connection.settimeout(10)
-            print("Keeping connection alive for HTTP/1.1...")
-            # time.sleep(60)  # Simulate persistent connection timeout
+            num_active_connections = threading.active_count() - 1 # Subtract 1 beacuse there is start thread always running
+            print(f"Active connections: {num_active_connections}") 
+            timeout = dynamic_timeout_heuristic(num_active_connections) # Set the dynamic timeout based in num of active conenctions
+            send_response(connection, "200 OK", content_type, file_data, protocol, timeout)
+            
+            connection.settimeout(timeout)
         
         else:
+            send_response(connection, "200 OK", content_type, file_data, protocol)
             print("Closing connection for HTTP/1.0...")
             connection.close()
 
-        print(request)
+    except socket.timeout:
+        print(f"Connection to {address} timed out")
+        connection.close()
 
     except Exception as e:
         print(f"Error with the reuqest: {e}")
 
-    connection.close()
+    finally:
+        connection.close()
 
-def send_response(client_socket, status_code, content_type, content):
-    response = f"HTTP/1.1 {status_code}\r\n"
+def send_response(client_socket, status_code, content_type, content, protocol, timeout= None):
+    response = f"{protocol} {status_code}\r\n"
     response += f"Date: {datetime.now().strftime('%a, %d %b %Y %H:%M:%S GMT')}\r\n"
     response += f"Content-Type: {content_type}\r\n"
     response += f"Content-Length: {len(content)}\r\n"
-    response += "Connection: close\r\n\r\n"
+    if protocol == 'HTTP/1.1' and timeout is not None:
+        response += f"Keep-Alive: timeout={timeout}, max=40\r\n"
+        response += "Connection: keep-alive\r\n\r\n"
+    else:
+        response += "Connection: close\r\n\r\n"
+    print(response)
 
     client_socket.sendall(response.encode())
     
@@ -95,8 +108,8 @@ def dispatcher(server):
     print(f"Connection accepted from Address: {address}")
 
     worker = threading.Thread(target=worker_thread, args=(connection, address, document_root))
+    worker.daemon = True
     worker.start()
-    print(f"Active connections {threading.active_count() - 1}") # subtract 1 beacuse there is start thread always running
 
 def start_server(document_root, port):
     # Passing an int limits the new connections and deletes that are waiting to be connected
