@@ -1,8 +1,8 @@
-# Distributed Server with Multi-Threading
+# Server with Multi-Threading
 
 ## High-Level Design
 
-This program implements a simple distributed server capable of handling HTTP requests and serving various file types (e.g., `.txt`, `.jpeg`, `.gif`, `.css`, `.js`). Below is a detailed description of its functionality:
+This program implements a simple server capable of handling HTTP requests and serving various file types (e.g., `.txt`, `.jpeg`, `.gif`, `.css`, `.js`). Below is a detailed description of its functionality:
 
 1. **Server Initialization**:
    - The program starts with the `start_server` function, which binds to the localhost and port passed as parameters.
@@ -69,7 +69,7 @@ This program implements a simple distributed server capable of handling HTTP req
 1. Navigate to the project directory.
 2. Run the following command to start the server:
    ```bash
-   python3 server.py -document_root "Distributed_server_socket/files" -port 9090
+   python3 server.py -document_root "server_socket/files" -port 9090
    ```
 
 ### Testing the Server
@@ -109,6 +109,4 @@ curl --http1.0 http://localhost:9090/index.php
 - The server is designed for educational purposes and may require additional security measures for deployment in production environments.
 
 ---
-
-Enjoy using the distributed server!
 
