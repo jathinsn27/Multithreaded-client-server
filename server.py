@@ -136,7 +136,7 @@ def start_server(document_root, port):
 
 # Handle incorrect start of the server
 if len(sys.argv) != 5 or sys.argv[1] != '-document_root' or sys.argv[3] != '-port':
-    print("Please use the right command in the format: $ ./server -document_root '<path>' -port <port>")
+    print("Please use the right command in the format: $ python3 server.py -document_root '<path>' -port <port>")
     sys.exit(1)
 
 document_root = sys.argv[2]
